@@ -1,2 +1,4 @@
+baseurl:   "/curriculum-vitae"
+url:   "https://dominik-97.github.io"
 markdown:   kramdown
 style:  kjhealy
