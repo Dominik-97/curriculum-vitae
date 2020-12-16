@@ -1,0 +1,106 @@
+\documentclass[cv.tex]{subfiles}
+
+\begin{document}
+
+% ---
+
+\newcommand\minitab[2][l]{\begin{tabular}[b]{#1}#2\end{tabular}}
+\newcommand\tnode[2][left]{\tikz[baseline=(n.center)]\node(n)[inner sep=0,outer sep=0,align=#1]{#2};}
+\newcommand*{\cventrylogo}[8][.25em]{
+  \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}%
+    \tnode{\minitab[l]{
+      {\bfseries #4} \\ {\itshape #3\ifthenelse{\equal{#7}{}}{}{, #7}}
+    }}
+    & 
+    \tnode[right]{\minitab[r]{{\bfseries #6} \\ {\itshape #2} \\ #5}} 
+      \\%
+  \end{tabular*}%
+  \ifx&#8&%
+    \else{\\\vbox{\small#8}}\fi%
+  \par\addvspace{#1}}
+
+% ---
+
+\section{Experience}
+\subsection{Vocational}
+\cventrylogo{2018--Současnost}{Self-employed}{Behavee}{\includegraphics[scale=.20]{../assets/Behavee}}{}{}{\textbf{Data Consultant, Reporting Specialist}}
+\cvlistitem{Popis pracovní pozice
+\begin{itemize}%
+\item Achievement 1;
+\item Achievement 2, with sub-achievements:
+  \begin{itemize}%
+  \item Sub-achievement (a);
+  \item Sub-achievement (b), with sub-sub-achievements (don't do this!);
+    \begin{itemize}
+    \item Sub-sub-achievement i;
+    \item Sub-sub-achievement ii;
+    \item Sub-sub-achievement iii;
+    \end{itemize}
+  \item Sub-achievement (c);
+  \end{itemize}
+\item Achievement 3.
+\end{itemize}}
+\cventrylogo{year--year}{Degree}{Institution}{\includegraphics[scale=.20]{../assets/TMobile}}{City}{\textit{Grade}}{Description}
+\cvlistitem{Popis pracovní pozice
+\begin{itemize}%
+\item Achievement 1;
+\item Achievement 2, with sub-achievements:
+  \begin{itemize}%
+  \item Sub-achievement (a);
+  \item Sub-achievement (b), with sub-sub-achievements (don't do this!);
+    \begin{itemize}
+    \item Sub-sub-achievement i;
+    \item Sub-sub-achievement ii;
+    \item Sub-sub-achievement iii;
+    \end{itemize}
+  \item Sub-achievement (c);
+  \end{itemize}
+\item Achievement 3.
+\end{itemize}}
+\cventrylogo{year--year}{Degree}{Institution}{\includegraphics[scale=.20]{../assets/proxy}}{City}{\textit{Grade}}{Description}
+\cvlistitem{as}
+\cventrylogo{year--year}{Degree}{Institution}{\includegraphics[scale=.20]{../assets/EV}}{City}{\textit{Grade}}{Description}
+\cvlistitem{as}
+\cventrylogo{year--year}{Degree}{Institution}{\includegraphics[scale=.20]{../assets/KB}}{City}{\textit{Grade}}{Description}
+\cvlistitem{as}
+\cventrylogo{year--year}{Degree}{Institution}{\includegraphics[scale=.20]{../assets/Sinch}}{City}{\textit{Grade}}{Description}
+\cvlistitem{as}
+\cventry{year--year}{Job title}{Employer}{City}{}{General description no longer than 1--2 lines.\newline{}%
+Detailed achievements:%
+\begin{itemize}%
+\item Achievement 1;
+\item Achievement 2, with sub-achievements:
+  \begin{itemize}%
+  \item Sub-achievement (a);
+  \item Sub-achievement (b), with sub-sub-achievements (don't do this!);
+    \begin{itemize}
+    \item Sub-sub-achievement i;
+    \item Sub-sub-achievement ii;
+    \item Sub-sub-achievement iii;
+    \end{itemize}
+  \item Sub-achievement (c);
+  \end{itemize}
+\item Achievement 3.
+\end{itemize}}
+\cventry{year--year}{Job title}{Employer}{City}{}{Description line 1\newline{}Description line 2}
+\subsection{Miscellaneous}
+\cventry{year--year}{Job title}{Employer}{City}{}{Description}
+
+\section{Education}
+\cventry{2017--Současnost}{CEVRO Institut}{}{Praha, Česká republika}{}{}{}
+\cvlistitem {2017 - 2020: Bc. v oboru \textit{Právo v obchodních vztazích}}
+\cvlistitem {2020 - Součastnost: Studium Mgr. v oboru \textit{Právo v obchodních vztazích}}
+\cventry{2010--2017}{Mensa gymnázium o.p.s.}{}{Praha, Česká republika}{}{}{}
+\cventry{2009--2010}{Open Gate Boarding School}{}{Babice u Říčan, Česká republika}{}{}{}
+
+\section{Skills}
+\cvlistitem {\textbf{Skill Set1} \\ Skills list}
+\cvlistitem {\textbf{Skill Set2} \\\ Skills list}
+
+\section{Languages}
+\cvlistitem {\textbf{Language:} Level \\ Exam: 96/120 (Reading:00, Listening:00, Speaking:00, Writing:00)}
+
+\cvlistitem {\textbf{Language:} Level \\ Exam: 96/120 (Reading:00, Listening:00, Speaking:00, Writing:00)}
+\cvlistitem {\textbf{Language:} Level \\ Exam: 96/120 (Reading:00, Listening:00, Speaking:00, Writing:00)}
+
+\end{document}

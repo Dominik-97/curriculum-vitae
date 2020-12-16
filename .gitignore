@@ -277,3 +277,6 @@ TSWLatexianTemp*
 
 # Ignore .DS_Store
 .DS_Store
+
+# Ignore PDF in tex-source folder
+tex-source/*.pdf
