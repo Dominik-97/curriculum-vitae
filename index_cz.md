@@ -6,11 +6,11 @@ title: Dominik Bálint's CV
 <div class="fixed">
 
 <h1>Dominik Bálint</h1>
-<p>Student of Law, Data Consultant and Reporting Specialist at Behavee.</p>
+<p>Student práva, Data Konsultant a Reporting Specialista v Behavee.</p>
 
 <div id="webaddress">
 <a href="email@email.cz">email@email.org</a>
-| <a href="https://github.com/Dominik-97">My GitHub page</a> <br>
+| <a href="https://github.com/Dominik-97">Můj GitHub Profil</a> <br>
 <a href="index_cz.html" style="color: #AA0000;">Czech</a>
 | <a href="index.html">English</a>
 </div>
@@ -23,17 +23,17 @@ title: Dominik Bálint's CV
 
 </div>
 
-## Currently
+## Momentálně
 
-Working as Data Consultant and Reporting Specialist at Behavee \& Studying law.
+Pracuji jako Data Konsultant aa Reporting Specialista v Behavee \& Studuji právo.
 
-### Specialized in
+### Specializace
 
-Data analysis.
+Datová analytika.
 
 
-## Work experience
-`2018-Present` __Behavee__ **Data Consultant, Reporting Specialist** - Self-employed <br>
+## Zkušenosti
+`2018-Současnost` __Behavee__ **Data Consultant, Reporting Specialist** - Self-employed <br>
 
 - Examining data, processes and technologies to evaluate the current state and reveal critical problems.
   - Design, research plans and analysis.
