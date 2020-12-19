@@ -17,7 +17,7 @@ title: Dominik Bálint's CV
 <img src="assets/Me.png" alt="Picture of me" style="width:200px;"/>
 </div>
 
-<hr>
+<hr style="margin-top: 80px;">
 
 </div>
 
