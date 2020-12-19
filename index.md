@@ -90,6 +90,10 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 
 ## Skills
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 ### Industry Knowledge
 
 - Financial Analysis & Basic knowledge of accounting
@@ -106,6 +110,7 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 - Marketing
 - PPC
 
+
 ### Interpersonal Skills
 
 - Teamwork
@@ -113,34 +118,35 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 - Dedicated
 - Thorough
 
+
 ### Tools & Technologies
 
-- SharePoint
-- Microsoft Access
-- Microsoft Excel
-- Microsoft Power Query
-- Visual Basic for Applications (VBA)
-- git
-- GitHub & GitLab
-- Tableau
-- Microsoft Power BI
-- REST API
-- Selenium
-- HTML5
-- CSS
-- Python
-- MySQL 
-- Markdown
-- Terminal & Shell scripting (bash)
-- LaTeX
-- Microsoft Office
-- Microsoft Power Automate & Integromat
-- Google Cloud Platform (GCP) & Microsoft Azure
-- Google Analytics & Tag Manager
-- Basic Adobe Suite
-- BPMN & UML
-- MacOS & Windows & Linux
-- Basic understanding of: R & JavaScript & Node.js
+- SharePoint <img alt="microsoftsharepoint" src="https://simpleicons.org/icons/microsoftsharepoint.svg" width="15px">
+- Microsoft Access <img alt="microsoftaccess" src="https://simpleicons.org/icons/microsoftaccess.svg" width="15px">
+- Microsoft Excel <img alt="microsoftexcel" src="https://simpleicons.org/icons/microsoftexcel.svg" width="15px">
+- Microsoft Power Query <img alt="microsoftpowerquery" src="https://simpleicons.org/icons/microsoft.svg" width="15px">
+- Visual Basic for Applications (VBA) <img alt="visualbasicforapplications" src="https://simpleicons.org/icons/microsoft.svg" width="15px">
+- git <img alt="git" src="https://simpleicons.org/icons/git.svg" width="15px">
+- GitHub & GitLab <img alt="github" src="https://simpleicons.org/icons/github.svg" width="15px"> \& <img alt="gitlab" src="https://simpleicons.org/icons/gitlab.svg" width="15px">
+- Tableau <img alt="tableau" src="https://simpleicons.org/icons/tableau.svg" width="15px">
+- Microsoft Power BI <img alt="microsoftpowerbi" src="https://simpleicons.org/icons/powerbi.svg" width="15px">
+- REST API <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
+- Selenium <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
+- HTML5 <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
+- CSS <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
+- Python <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
+- MySQL <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
+- Markdown <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
+- Terminal & Shell scripting (bash) <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
+- LaTeX <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
+- Microsoft Office <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
+- Microsoft Power Automate & Integromat <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
+- Google Cloud Platform (GCP) & Microsoft Azure <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
+- Google Analytics & Tag Manager <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
+- Basic Adobe Suite <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
+- BPMN & UML <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
+- MacOS & Windows & Linux <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
+- Basic understanding of: R & JavaScript & Node.js <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
 
 
 ## Languages
