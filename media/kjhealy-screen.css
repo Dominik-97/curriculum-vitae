@@ -194,7 +194,7 @@ strong {
 	make one column somehow...
 }*/
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1080px) {
   .topcorner{
     position:absolute;
     top:10px;
