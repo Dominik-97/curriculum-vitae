@@ -19,8 +19,6 @@ Student of Law, Data Consultant and Reporting Specialist at Behavee.
 
 </div>
 
-<div class="main-text">
-
 ## Currently
 
 Working as Data Consultant and Reporting Specialist at Behavee \& Studying law.
@@ -94,4 +92,4 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 Last updated: December 2020 -->
 
-</div>
+
