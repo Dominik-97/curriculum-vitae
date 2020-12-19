@@ -6,16 +6,15 @@
   <link href="media/{{ site.style }}-screen.css" type="text/css" rel="stylesheet" media="screen">
   <link href="media/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
   <script>
-    let sidebar = document.querySelector(".sidebar");
+  $(window).scroll(function() {
+    sessionStorage.scrollTop = $(this).scrollTop();
+  });
 
-    let top = localStorage.getItem("sidebar-scroll");
-    if (top !== null) {
-      sidebar.scrollTop = parseInt(top, 10);
+  $(document).ready(function() {
+    if (sessionStorage.scrollTop != "undefined") {
+      $(window).scrollTop(sessionStorage.scrollTop);
     }
-
-    window.addEventListener("beforeunload", () => {
-    localStorage.setItem("sidebar-scroll", sidebar.scrollTop);
-    });
+  });
   </script>
 </head>
 <body>
