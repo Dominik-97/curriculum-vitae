@@ -10,7 +10,9 @@ Student of Law, Data Consultant and Reporting Specialist at Behavee.
 | <a href="https://github.com/Dominik-97">My GitHub page</a>
 </div>
 
+<div class=topcorner>
 <img src="assets/Me.png" alt="Picture of me" style="width:200px;"/>
+<div>
 
 ## Currently
 
