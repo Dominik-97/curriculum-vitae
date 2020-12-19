@@ -23,6 +23,20 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
+.main-text{
+  margin-top: 100px;
+}
+
+.fixed{
+  overflow: hidden;
+  position: fixed; /* Set the navbar to fixed position */
+  background:white;
+  opacity: 1;
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
