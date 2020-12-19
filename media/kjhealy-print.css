@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	min-width: 800px;
 }
 ol, ul {
 	list-style: none;
@@ -189,7 +190,7 @@ strong {
 	visibility: hidden;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 802px) {
   .topcorner{
     position:absolute;
     top:10px;
