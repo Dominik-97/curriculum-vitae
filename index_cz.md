@@ -25,7 +25,7 @@ title: Dominik Bálint's CV
 
 ## Momentálně
 
-Pracuji jako Data Konsultant aa Reporting Specialista v Behavee \& Studuji právo.
+Pracuji jako Data Konsultant aa Reporting Specialista v Behavee & Studuji právo.
 
 ### Specializace
 
@@ -33,95 +33,96 @@ Datová analytika.
 
 
 ## Zkušenosti
-`2018-Současnost` __Behavee__ **Data Consultant, Reporting Specialist** - Self-employed <br>
+`2018-Současnost` __Behavee__ **Data Konsultant, Reporting Specialista** - OSVČ <br>
 
-- Examining data, processes and technologies to evaluate the current state and reveal critical problems.
-  - Design, research plans and analysis.
-- Researching and making recommendations about various business cases improving data use.
-- Assisting Development team to create and implement data strategies, design and build data flows and develop conceptual data models.
-- Creating automated data reports and documentation.
-- Maintaining data integrity and databases.
+- Zkoumání dat, procesů a technologií za účelem vyhodnocení současného stavu a odhalení kritických problémů.
+  - Design, výzkumné plány a analýzy.
+- Výzkum a vydávání doporučení ohledně business casů týkajících se využití a správy dat.
+- Podpora development týmu při vytváření a implementaci datových strategií, navrhování a budování data flows a vývoji datových modelů.
+- Vytváření automatizovaných reportů a dokumentace.
+- Kontrola integrity dat a správa databází.
 
-`2018-2020` __T-Mobile__ **Data Consultant** - Self-employed <br>
+`2018-2020` __T-Mobile__ **Data Konsultant** - OSVČ <br>
 
-- Participating on the T-Mobile Czech Republic project - Data migration, testing, reporting
-  - Support for migration activities during the transition period, preparation and data consolidation, data testing, reporting, handover of prepared data.
-  - Data testing, data cleansing and migration tools development.
-  - Designing a solution for consolidation and migration of data from local ERP systems to international solutions, designing and reviewing of transitional and to-be processes.
-  - Responsibility for data preparation in the field of legal documents, plant maintenance, human resources and asset accounting.
+- Účast na projektu T-Mobile Czech Republic - Migrace dat, testing, reporting
+  - Podpora migračních aktivit při přechodném období, příprava a konsolidace dat, data testing, reporting, handover připravených dat.
+  - Data testing, data cleansing a migration tools development.
+  - Design řešení pro konsolidaci a migraci dat z lokálních ERP systémů do mezinárodního řešení, design a reviewing přechodných a to-be procesů.
+  - Zodpovědnost za přípravu dat v oblasti legal documents, plant maintenance, human resources a asset accounting.
 
-`2018-2019` __Proxy__ **Support consultant** - Part-time <br>
+`2018-2019` __Proxy__ **Support konsultant** - Brigáda <br>
 
-- Technical and customer support.
-- Preparation of tax returns and similar documents related to taxes and other levies.
-- Maintaining databases.
+- Technická a zákaznická podpora.
+- Příprava daňových přiznání a obdobných dokumentů týkajících se daní a dalších odvodů.
+- Údržba databází.
 
-`2018-2018` __Engel & Völkers Prague__ **Talent sourcer** - 2 months Internship <br>
+`2018-2018` __Engel & Völkers Prague__ **Talent sourcer** - 2 měsíční stáž <br>
 
-- Responsible for identifying and recruiting candidates with highly technical and specialized skills to fill current or future vacancies.
-- Interaction with potential candidates personally or online, and scheduling interviews with HR staff members.
+- Odpovědnost za identifikaci a nábor uchazečů pro obsazení současných nebo budoucích volných pracovních pozic.
+- Interakce s potenciálními kandidáty osobně nebo online a plánování pohovorů v kooperci s HR.
+- Údržba databází kandidátů.
 
-`2017-2018` __Komerční banka__ **Customer Service Representative** - Part-time <br>
+`2017-2018` __Komerční banka__ **Customer Service Representative** - Brigáda <br>
 
-- Helping customers with complaints and questions.
-- Giving customers information about products and services.
-- Taking requests, and processing claims.
-- Taking care of other activities to ensure smooth operation of the branch.
+- Pomoc zákazníkům se stížnostmi a dotazy.
+- Poskytování informací o produktech a službách zákazníkům.
+- Přijímání žádostí a zpracování reklamací.
+- Péče o další činnosti k zajištění plynulého chodu pobočky.
 
-`2015-2017` __Sinch__ **Event technician** - Part-time <br>
+`2015-2017` __Sinch__ **Event technician** - Brigáda <br>
 
-- Organized, implemented, and managed events for the public or private groups.
-- Planning and organization of public events.
-- Setting up equipment (electrical and other).
+- Organizovaní a správa průběhu soukromých nebo veřejných akcí.
+- Plánování a organizace veřejných akcí.
+- Příprava, nastavování a kontrola zařízení (elektrického a neelektrického).
 
 
-## Education
+## Vzdělání
 
-`2017-Present`
-__CEVRO Institut, Prague, Czech republic__ <br>
-- `2017-2020` - Bc., field: __Corporate Law__ <br>
-- `2020-Present` - Studying Mgr., field: __Corporate Law__ <br>
+`2017-Současnost`
+__CEVRO Institut, Praha, Česká republika__ <br>
+- `2017-2020` - Bc., v oboru __Právo V Obchodních vztazích__ <br>
+- `2020-Present` - Studium Mgr., v oboru __Právo V Obchodních vztazích__ <br>
 
 `2010-2017`
-__Mensa Gymnázium, Prague, Czech republic__ <br>
-- `2017` - Graduation. <br>
+__Mensa Gymnázium, Praha, Česká republika__ <br>
+- `2017` - Maturita. <br>
 
 `2009-2010`
-__Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
+__Open Gate Boarding School, Babice u Říčan, Česká republika__ <br>
 
 
-## Skills
+## Schopnosti
 
 &nbsp;
 &nbsp;
 &nbsp;
 
-### Industry Knowledge
+### Znalosti v oboru
 
-- Financial Analysis & Basic knowledge of accounting
-- Business Strategy
-- Business Development
-- Business Analysis
-- Analytical Skills
-- Pivot Tables
-- Shell Scripting
-- Testing
-- Test Automation
-- Telecommunication
-- Professional Writing
+- Finanční analýza & Základní znalost účetnictví
+- Business strategie
+- Business development
+- Business analytika
+- Analytické schopnosti
+- Kontingenční tabulky
+- Shell scripting
+- Testování
+- Automatizace testů
+- Telekomunikace
+- Profesionální psaní
 - Marketing
 - PPC
 
 
-### Interpersonal Skills
+### Osobnostní rysy
 
 - Teamwork
-- Communication
-- Dedicated
-- Thorough
+- Komunikace
+- Pracovitost
+- Pečlivost
 
 
-### Tools & Technologies
+### Nástroje & Technologie
 
 - SharePoint <img alt="microsoftsharepoint" src="https://simpleicons.org/icons/microsoftsharepoint.svg" width="15px">
 - Microsoft Access <img alt="microsoftaccess" src="https://simpleicons.org/icons/microsoftaccess.svg" width="15px">
@@ -148,27 +149,27 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 - Basic Adobe Suite <img alt="Adobe Vreative Suite" src="https://simpleicons.org/icons/adobe.svg" width="15px">
 - BPMN & UML
 - MacOS & Windows & Linux <img alt="Apple" src="https://simpleicons.org/icons/apple.svg" width="15px"> & <img alt="Windows" src="https://simpleicons.org/icons/windows.svg" width="15px"> & <img alt="Linux" src="https://simpleicons.org/icons/linux.svg" width="15px">
-- Basic understanding of: R & JavaScript & Node.js <img alt="R" src="https://simpleicons.org/icons/r.svg" width="15px"> & <img alt="JavaScript" src="https://simpleicons.org/icons/javascript.svg" width="15px"> & <img alt="Node.js" src="https://simpleicons.org/icons/node-dot-js.svg" width="15px">
+- Základní znalost: R & JavaScript & Node.js <img alt="R" src="https://simpleicons.org/icons/r.svg" width="15px"> & <img alt="JavaScript" src="https://simpleicons.org/icons/javascript.svg" width="15px"> & <img alt="Node.js" src="https://simpleicons.org/icons/node-dot-js.svg" width="15px">
 
 
 ## Jazyky
 
-- Language: **Czech**
-  - Native or bilingual proficiency
-- Language: **English**
-  - Full professional proficiency
-- Language: **Spanish**
-  - Elementary proficiency
-- Language: **German**
-  - Elementary proficiency
+- Jazyk: **Čeština**
+  - Rodilý mluvčí
+- Jazyk: **Angličtina**
+  - Plynule mluvou i písmem
+- Jazyk: **Španělština**
+  - Základní pasivní znalost
+- Jazyk: **Němčina**
+  - Základní pasivní znalost
 
 
-<!-- ### Footer
+<!-- ### Patička
 
-Last updated: December 2020 -->
+Naposledy updatováno: Prosinec 2020 -->
 
-<!-- Icons by Flaticon/Shield.io/Simpleicons if not by them, then by
+<!-- Ikonky od Flaticon/Shield.io/Simpleicons pokud nejsou z těchto zdrojů, tak jsou od
 
-https://icons8.com/icon/55497/rest-api OR found by Google Image Search, licence checked OR used Adobe Icons as part of Creative Cloud -->
+https://icons8.com/icon/55497/rest-api NEBO jsou použity obrázky naleznuté přes Google Image Search, licence je prověřena NEBO je použit Adobe Icons jako součást Creative Cloudu -->
 
 
