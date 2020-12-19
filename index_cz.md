@@ -19,12 +19,6 @@ title: Dominik Bálint's CV
 <img src="assets/Me.png" alt="Picture of me" style="width:200px;"/>
 </div>
 
-<!-- Rounded switch -->
-<label class="switch">
-  <input type="checkbox">
-  <span class="slider round"></span>
-</label>
-
 <hr style="margin-top: 80px;">
 
 </div>
