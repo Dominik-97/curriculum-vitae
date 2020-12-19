@@ -5,13 +5,12 @@ title: Dominik Bálint's CV
 # Dominik Bálint
 Student of Law, Data Consultant and Reporting Specialist at Behavee.
 
-<img src="assets/Me.png" alt="Picture of me" style="width:200px;"/>
-
 <div id="webaddress">
 <a href="email@email.cz">email@email.org</a>
 | <a href="https://github.com/Dominik-97">My GitHub page</a>
 </div>
 
+<img src="assets/Me.png" alt="Picture of me" style="width:200px;"/>
 
 ## Currently
 
