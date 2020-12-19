@@ -10,18 +10,14 @@ title: Dominik Bálint's CV
 
 <div id="webaddress">
 <a href="email@email.cz">email@email.org</a>
-| <a href="https://github.com/Dominik-97">My GitHub page</a>
+| <a href="https://github.com/Dominik-97">My GitHub page</a> <br>
+<a href="index_cz.html">Czech</a>
+| <a href="index.html">English</a>
 </div>
 
 <div class="topcorner">
 <img src="assets/Me.png" alt="Picture of me" style="width:200px;"/>
 </div>
-
-<!-- Rounded switch -->
-<label class="switch">
-  <input type="checkbox">
-  <span class="slider round"></span>
-</label>
 
 <hr style="margin-top: 80px;">
 
