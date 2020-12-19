@@ -32,6 +32,7 @@ time, mark, audio, video {
   overflow: hidden;
   position: fixed; /* Set the navbar to fixed position */
   background:white;
+  z-index: 99;
   opacity: 1;
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
