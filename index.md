@@ -3,6 +3,7 @@ layout: cv
 title: Dominik Bálint's CV
 ---
 <div class="fixed">
+
 # Dominik Bálint
 Student of Law, Data Consultant and Reporting Specialist at Behavee.
 
@@ -17,6 +18,7 @@ Student of Law, Data Consultant and Reporting Specialist at Behavee.
 </div>
 
 <div class="main-text">
+
 ## Currently
 
 Working as Data Consultant and Reporting Specialist at Behavee \& Studying law.
