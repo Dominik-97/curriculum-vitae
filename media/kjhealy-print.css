@@ -189,6 +189,10 @@ strong {
 	visibility: hidden;
 }
 
-
+.topcorner{
+    position:absolute;
+    top:10px;
+    right: 10px;
+ }
 
 
