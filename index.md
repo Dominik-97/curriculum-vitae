@@ -1,46 +1,42 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Dominik Bálint's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Dominik Bálint
+Student of Law, Data Consultant and Reporting Specialist at Behavee.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="email@email.cz">email@email.org</a>
+| <a href="https://github.com/Dominik-97">My GitHub page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working as Data Consultant and Reporting Specialist at Behavee \& Studying law.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Data analysis.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-Present`
+__CEVRO Institut, Prague, Czech republic__ <br>
+- `2017-2020` - Bc., field: __Corporate Law__ <br>
+- `2020-Present` - Studying Mgr., field: __Corporate Law__ <br>
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2010-2017`
+__Mensa Gymnázium, Prague, Czech republic__ <br>
+- `2017` - Graduation. <br>
 
-- Sizar
+`2009-2010`
+__Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 
-`1667 - death`
-__Trinity College, Cambridge__
+---
 
-- Fellow
-
-
+## TBD
 
 ## Awards
 
@@ -86,6 +82,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2020 -->
 
 

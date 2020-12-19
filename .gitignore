@@ -277,3 +277,6 @@ TSWLatexianTemp*
 
 # .DS_Store ignore
 .DS_Store
+
+# tex-source ignore
+/tex-source/*
