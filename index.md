@@ -5,8 +5,8 @@ title: Dominik Bálint's CV
 
 <div class="fixed">
 
-# Dominik Bálint
-Student of Law, Data Consultant and Reporting Specialist at Behavee.
+<h1>Dominik Bálint</h1>
+<p>Student of Law, Data Consultant and Reporting Specialist at Behavee.</p>
 
 <div id="webaddress">
 <a href="email@email.cz">email@email.org</a>
