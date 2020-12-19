@@ -5,6 +5,18 @@
   <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
   <link href="media/{{ site.style }}-screen.css" type="text/css" rel="stylesheet" media="screen">
   <link href="media/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
+  <script>
+    let sidebar = document.querySelector(".sidebar");
+
+    let top = localStorage.getItem("sidebar-scroll");
+    if (top !== null) {
+      sidebar.scrollTop = parseInt(top, 10);
+    }
+
+    window.addEventListener("beforeunload", () => {
+    localStorage.setItem("sidebar-scroll", sidebar.scrollTop);
+    });
+  </script>
 </head>
 <body>
   <div id="main">
