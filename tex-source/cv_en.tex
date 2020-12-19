@@ -1,0 +1,33 @@
+%% Taken from https://cs.overleaf.com/latex/templates/canadacast-cv-example/wtqmwzjbcxqg and edited under LaTeX Project Public License 1.3c.
+
+\documentclass[11pt,a4paper,roman]{moderncv}
+\moderncvstyle{classic}
+\moderncvcolor{blue}
+
+\pagestyle{fancy}
+\rfoot{\thepage}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[scale=0.75]{geometry}
+
+\firstname{Dominik\hspace{1cm}}
+\familyname{Bálint}
+\title{Curriculum Vitae}
+\address{\_ADDRESS\_} % Should keep these as secret
+\mobile{+420~000~000~000} % Should keep these as secret
+\email{\_email\_} % Should keep these as secret
+%\homepage{www.site.com}
+\photo[120pt][0.40pt]{../assets/Me.png}
+\social[linkedin][https://www.linkedin.com/in/dominik-b\%C3\%A1lint-009463145/]{dominik-bálint}
+\social[github][https://github.com/Dominik-97]{Dominik-97}
+
+\usepackage{subfiles}
+
+\begin{document}
+
+\makecvtitle
+
+\subfile{cv_information_en.tex}
+
+\end{document}

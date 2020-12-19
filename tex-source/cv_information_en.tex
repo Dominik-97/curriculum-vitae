@@ -1,0 +1,175 @@
+\documentclass[cv_en.tex]{subfiles}
+
+\begin{document}
+
+% ---
+
+\newcommand\minitab[2][l]{\begin{tabular}[b]{#1}#2\end{tabular}}
+\newcommand\tnode[2][left]{\tikz[baseline=(n.center)]\node(n)[inner sep=0,outer sep=0,align=#1]{#2};}
+\newcommand*{\cventrylogo}[8][.25em]{
+  \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}%
+    \tnode{\minitab[l]{
+      {\bfseries #4} \\ {\itshape #3\ifthenelse{\equal{#7}{}}{}{, #7}}
+    }}
+    & 
+    \tnode[right]{\minitab[r]{{\bfseries #6} \\ {\itshape #2} \\ #5}} 
+      \\%
+  \end{tabular*}%
+  \ifx&#8&%
+    \else{\\\vbox{\small#8}}\fi%
+  \par\addvspace{#1}}
+
+% ---
+
+\section{Experience}
+\subsection{List}
+
+\cventrylogo{2018--Present}{Self-employed}{Behavee}{\includegraphics[scale=.20]{../assets/Behavee}}{}{}{\textbf{Data Consultant, Reporting Specialist}}
+\cvlistitem{Description:
+\begin{itemize}%
+\item Examining data, processes and technologies to evaluate the current state and reveal critical problems.
+  \begin{itemize}%
+  \item Design, research plans and analysis.
+  \end{itemize}
+\item Researching and making recommendations about various business cases improving data use.
+\item Assisting Development team to create and implement data strategies, design and build data flows and develop conceptual data models.
+\item Creating automated data reports and documentation.
+\item Maintaining data integrity and databases.
+\end{itemize}}
+
+\cventrylogo{2018--2020}{Self-employed}{T-Mobile}{\includegraphics[scale=.20]{../assets/TMobile}}{}{}{\textbf{Data Consultant}}
+\cvlistitem{Description:
+\begin{itemize}%
+\item Participating on the T-Mobile Czech Republic project - Data migration, testing, reporting
+  \begin{itemize}%
+  \item Support for migration activities during the transition period, preparation and data consolidation, data testing, reporting, handover of prepared data.
+  \item Data testing, data cleansing and migration tools development.
+  \item Designing a solution for consolidation and migration of data from local ERP systems to international solutions, designing and reviewing of transitional and to-be processes.
+  \item Responsibility for data preparation in the field of legal documents, plant maintenance, human resources and asset accounting.
+  \end{itemize}
+\end{itemize}}
+
+\cventrylogo{2018--2019}{Part-time}{Proxy}{\includegraphics[scale=.20]{../assets/proxy}}{}{}{\textbf{Support consultant}}
+\cvlistitem{Description:
+\begin{itemize}
+\item Technical and customer support.
+\item Preparation of tax returns and similar documents related to taxes and other levies.
+\item Maintaining databases.	
+\end{itemize}}
+
+\cventrylogo{2018--2018}{Internship}{Engel \& Völkers Prague}{\includegraphics[scale=.20]{../assets/EV}}{}{}{\textbf{Talent sourcer}}
+\cvlistitem{Description:
+\begin{itemize}
+\item Responsible for identifying and recruiting candidates with highly technical and specialized skills to fill current or future vacancies.
+\item Interaction with potential candidates personally or online, and scheduling interviews with HR staff members.	
+\end{itemize}}
+
+\cventrylogo{2017--2018}{Part-time}{Komerční banka}{\includegraphics[scale=.20]{../assets/KB}}{}{}{\textbf{Customer Service Representative}}
+\cvlistitem{Description:
+\begin{itemize}
+\item Helping customers with complaints and questions.
+\item Giving customers information about products and services.
+\item Taking requests, and processing claims.
+\item Taking care of other activities to ensure smooth operation of the branch.	
+\end{itemize}}
+
+\cventrylogo{2015--2017}{Part-time}{Sinch}{\includegraphics[scale=.20]{../assets/Sinch}}{}{}{\textbf{Event technician}}
+\cvlistitem{Description:
+\begin{itemize}
+\item Organized, implemented, and managed events for the public or private groups.
+\item Planning and organization of public events.
+\item Setting up equipment (electrical and other).
+\end{itemize}}
+
+%\cventry{year--year}{Job title}{Employer}{City}{}{General description no longer than 1--2 lines.\newline{}%
+%Detailed achievements:%
+%\begin{itemize}%
+%\item Achievement 1;
+%\item Achievement 2, with sub-achievements:
+%  \begin{itemize}%
+%  \item Sub-achievement (a);
+%  \item Sub-achievement (b), with sub-sub-achievements (don't do this!);
+%    \begin{itemize}
+%    \item Sub-sub-achievement i;
+%    \item Sub-sub-achievement ii;
+%    \item Sub-sub-achievement iii;
+%    \end{itemize}
+%  \item Sub-achievement (c);
+%  \end{itemize}
+%\item Achievement 3.
+%\end{itemize}}
+%\cventry{year--year}{Job title}{Employer}{City}{}{Description line 1\newline{}Description line 2}
+%\subsection{Miscellaneous}
+%\cventry{year--year}{Job title}{Employer}{City}{}{Description}
+
+\newpage
+
+\section{Education}
+\subsection{List}
+\cventry{2017--Present}{CEVRO Institut}{}{Prague, Czech republic}{}{}{}
+\cvlistitem {2017 - 2020: Bc., field: \textit{Corporate law}}
+\cvlistitem {2020 - Present: Studying Mgr., field: \textit{Corporate law}}
+\cventry{2010--2017}{Mensa gymnázium o.p.s.}{}{Prague, Czech republic}{}{}{}
+\cvlistitem{2017 - Graduation}
+\cventry{2009--2010}{Open Gate Boarding School}{}{Babice u Říčan, Czech republic}{}{}{}
+
+\section{Skills}
+\cvlistitem {\textbf{Industry Knowledge} \\ Skills list
+\begin{itemize}
+\item Financial Analysis \& Basic knowledge of accounting
+\item Business Strategy
+\item Business Development
+\item Business Analysis
+\item Analytical Skills
+\item Pivot Tables
+\item Shell Scripting
+\item Testing
+\item Test Automation	
+\end{itemize}}
+
+\cvlistitem {\textbf{Interpersonal Skills} \\\ Skills list
+\begin{itemize}
+\item Teamwork
+\item Communication
+\item Dedicated
+\item Thorough	
+\end{itemize}
+}
+
+\cvlistitem {\textbf{Tools \& Technologies} \\\ Skills list
+\begin{itemize}
+\item SharePoint
+\item Microsoft Access
+\item Microsoft Excel
+\item Microsoft Power Query
+\item Visual Basic for Applications (VBA)
+\item git
+\item GitHub \& GitLab
+\item Tableau
+\item Microsoft Power BI
+\item REST API
+\item Selenium
+\item HTML5
+\item CSS
+\item Python
+\item MySQL
+\item Markdown
+\item Terminal \& Shell scripting (bash)
+\item LaTeX
+\item Microsoft Office
+\item Microsoft Power Automate \& Integromat
+\item Google Cloud Platform (GCP) \& Microsoft Azure
+\item Google Analytics \& Tag Manager
+\item Basic Adobe Suite
+\item BPMN \& UML
+\item MacOS \& Windows \& Linux
+\item Basic understanding of: R \& JavaScript \& Node.js
+\end{itemize}}
+
+\section{Languages}
+\cvlistitem{\textbf{Language:} Czech \\ Native or bilingual proficiency}
+\cvlistitem{\textbf{Language:} English \\ Full professional proficiency}
+\cvlistitem{\textbf{Language:} Spanish \\ Elementary proficiency}
+\cvlistitem{\textbf{Language:} German \\ Elementary proficiency}
+
+\end{document}
