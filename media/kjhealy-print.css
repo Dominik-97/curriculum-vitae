@@ -36,6 +36,8 @@ time, mark, audio, video {
   opacity: 1;
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
+  min-width: 700px;
+  min-height: 160px;
 }
 
 /* HTML5 display-role reset for older browsers */
