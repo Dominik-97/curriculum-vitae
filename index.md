@@ -12,7 +12,7 @@ Student of Law, Data Consultant and Reporting Specialist at Behavee.
 
 <div class="topcorner">
 <img src="assets/Me.png" alt="Picture of me" style="width:200px;"/>
-<div>
+</div>
 
 ## Currently
 
