@@ -24,11 +24,11 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
-.main-text{
-  margin-top: 100px;
+#currently {
+  margin-top: 200px;
 }
 
-.fixed{
+.fixed {
   overflow: hidden;
   position: fixed; /* Set the navbar to fixed position */
   background:white;
