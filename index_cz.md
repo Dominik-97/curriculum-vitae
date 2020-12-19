@@ -10,7 +10,9 @@ title: Dominik Bálint's CV
 
 <div id="webaddress">
 <a href="email@email.cz">email@email.org</a>
-| <a href="https://github.com/Dominik-97">My GitHub page</a>
+| <a href="https://github.com/Dominik-97">My GitHub page</a> <br>
+<a href="index_cz.html" style="color: #AA0000;">Czech</a>
+| <a href="index.html">English</a>
 </div>
 
 <div class="topcorner">
