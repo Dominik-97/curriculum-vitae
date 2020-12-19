@@ -125,28 +125,28 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 - Microsoft Access <img alt="microsoftaccess" src="https://simpleicons.org/icons/microsoftaccess.svg" width="15px">
 - Microsoft Excel <img alt="microsoftexcel" src="https://simpleicons.org/icons/microsoftexcel.svg" width="15px">
 - Microsoft Power Query <img alt="microsoftpowerquery" src="https://simpleicons.org/icons/microsoft.svg" width="15px">
-- Visual Basic for Applications (VBA) <img alt="visualbasicforapplications" src="https://simpleicons.org/icons/microsoft.svg" width="15px">
+- Visual Basic for Applications (VBA) <img alt="visualbasicforapplications" src="https://cdn3.iconfinder.com/data/icons/flat-design-spreadsheet-set-5/24/macros-vba-512.png" width="15px">
 - git <img alt="git" src="https://simpleicons.org/icons/git.svg" width="15px">
 - GitHub & GitLab <img alt="github" src="https://simpleicons.org/icons/github.svg" width="15px"> \& <img alt="gitlab" src="https://simpleicons.org/icons/gitlab.svg" width="15px">
 - Tableau <img alt="tableau" src="https://simpleicons.org/icons/tableau.svg" width="15px">
 - Microsoft Power BI <img alt="microsoftpowerbi" src="https://simpleicons.org/icons/powerbi.svg" width="15px">
-- REST API <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
-- Selenium <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
-- HTML5 <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
-- CSS <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
-- Python <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
-- MySQL <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
-- Markdown <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
-- Terminal & Shell scripting (bash) <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
-- LaTeX <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
-- Microsoft Office <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
-- Microsoft Power Automate & Integromat <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
-- Google Cloud Platform (GCP) & Microsoft Azure <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
-- Google Analytics & Tag Manager <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
-- Basic Adobe Suite <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
-- BPMN & UML <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
-- MacOS & Windows & Linux <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
-- Basic understanding of: R & JavaScript & Node.js <img alt="MySQL" src="https://simpleicons.org/icons/twitter.svg" width="15px">
+- REST API <img alt="Rest API" src="https://img.icons8.com/ios/64/000000/api-settings.png" width="15px">
+- Selenium <img alt="selenium" src="https://img.icons8.com/wired/64/000000/selenium-test-automation.png" width="15px">
+- HTML5 <img alt="html5" src="https://simpleicons.org/icons/html5.svg" width="15px">
+- CSS <img alt="css3" src="https://simpleicons.org/icons/css3.svg" width="15px">
+- Python <img alt="python" src="https://simpleicons.org/icons/python.svg" width="15px">
+- MySQL <img alt="MySQL" src="https://simpleicons.org/icons/mysql.svg" width="15px">
+- Markdown <img alt="Markdown" src="https://simpleicons.org/icons/markdown.svg" width="15px">
+- Terminal & Shell scripting (bash) <img alt="GNU Bash" src="https://simpleicons.org/icons/gnubash.svg" width="15px">
+- LaTeX <img alt="LaTeX" src="https://simpleicons.org/icons/latex.svg" width="15px">
+- Microsoft Office <img alt="Microsoft Office" src="https://simpleicons.org/icons/microsoftoffice.svg" width="15px">
+- Microsoft Power Automate & Integromat <img alt="Microsoft Power Automate" src="https://img.icons8.com/fluent/48/000000/microsoft-power-automate-2020.png" width="15px"> \& <img alt="Integromat" src="https://images.saasworthy.com/integromat_1954_logo_1576566957_wkfxu.png" width="15px">
+- Google Cloud Platform (GCP) & Microsoft Azure <img alt="Google Cloud Platform" src="https://simpleicons.org/icons/googlecloud.svg" width="15px"> \& <img alt="Microsoft Azure" src="https://simpleicons.org/icons/microsoftazure.svg" width="15px">
+- Google Analytics & Tag Manager <img alt="Google Analytics" src="https://simpleicons.org/icons/googleanalytics.svg" width="15px"> \& <img alt="Google Tag Manager" src="https://simpleicons.org/icons/googletagmanager.svg" width="15px">
+- Basic Adobe Suite <img alt="Adobe Vreative Suite" src="https://simpleicons.org/icons/adobe.svg" width="15px">
+- BPMN & UML
+- MacOS & Windows & Linux <img alt="MacOS" src="https://simpleicons.org/icons/macos.svg" width="15px"> \& <img alt="Windows" src="https://simpleicons.org/icons/windows.svg" width="15px"> \& <img alt="Linux" src="https://simpleicons.org/icons/linux.svg" width="15px">
+- Basic understanding of: R & JavaScript & Node.js <img alt="R" src="https://simpleicons.org/icons/r.svg" width="15px"> \& <img alt="JavaScript" src="https://simpleicons.org/icons/javascript.svg" width="15px"> \& <img alt="Node.js" src="https://simpleicons.org/icons/node-dot-js.svg" width="15px">
 
 
 ## Languages
@@ -164,5 +164,9 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 <!-- ### Footer
 
 Last updated: December 2020 -->
+
+<!-- Icons by Flaticon/Shield.io/Simpleicons if not by them, then by
+
+https://icons8.com/icon/55497/rest-api OR found by Google Image Search, licence checked OR used Adobe Icons as part of Creative Cloud -->
 
 
