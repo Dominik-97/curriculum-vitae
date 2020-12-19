@@ -24,6 +24,10 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
+#currently {
+  margin-top: 200px;
+}
+
 .main-text{
   margin-top: 100px;
 }
