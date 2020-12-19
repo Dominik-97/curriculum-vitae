@@ -5,7 +5,7 @@ title: Dominik Bálint's CV
 # Dominik Bálint
 Student of Law, Data Consultant and Reporting Specialist at Behavee.
 
-# ![](assets/Me.png)
+<h2> ![](assets/Me.png) </h2>
 
 <div id="webaddress">
 <a href="email@email.cz">email@email.org</a>
