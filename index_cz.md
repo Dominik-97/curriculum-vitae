@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: Dominik Bálint's CV
+language: cz
 ---
 
 <div class="fixed">
