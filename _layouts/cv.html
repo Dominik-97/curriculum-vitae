@@ -21,12 +21,14 @@
 <body>
   <div id="main">
     <div id="content">
-    {% if page.url == "/index.html" %}
+    {{ content }}
+    {% if page.language == "en" %}
+      <hr>
       <p>PDF version of my CV can be found <a href="https://github.com/Dominik-97/curriculum-vitae/blob/main/cv_en.pdf">here</a>.</p>
-    {% elsif page.url == "" %}
+    {% elsif page.language == "cz" %}
+      <hr>
       <p>PDF verze mého CV je k naleznutí <a href="https://github.com/Dominik-97/curriculum-vitae/blob/main/cv_cz.pdf">zde</a>.</p>
     {% endif %}
-    {{ content }}
     </div>
   </div>
 </body>
