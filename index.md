@@ -112,6 +112,7 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 - Professional Writing
 - Marketing
 - PPC
+- Design
 
 
 ### Interpersonal Skills
