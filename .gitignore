@@ -280,3 +280,6 @@ TSWLatexianTemp*
 
 # Ignore PDF in tex-source folder
 tex-source/*.pdf
+
+# Ignore personal folder in tex-source folder
+tex-source/personal/*
