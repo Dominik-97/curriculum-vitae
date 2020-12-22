@@ -18,7 +18,7 @@ language: cz
 
 <div class="topcorner">
 <!-- <img src="assets/Me.png" alt="Picture of me" style="width:200px;"/> -->
-<div class="picture-border picture-itself"></div>
+<div class="picture-borders picture-itself"></div>
 </div>
 
 <hr style="margin-top: 80px;">
