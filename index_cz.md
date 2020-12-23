@@ -115,6 +115,7 @@ __Open Gate Boarding School, Babice u Říčan, Česká republika__ <br>
 - Marketing
 - PPC
 - Design
+- BDD (Gherkin)
 
 
 ### Osobnostní rysy
@@ -137,6 +138,7 @@ __Open Gate Boarding School, Babice u Říčan, Česká republika__ <br>
 - Tableau <img alt="tableau" src="https://simpleicons.org/icons/tableau.svg" width="15px">
 - Microsoft Power BI <img alt="microsoftpowerbi" src="https://simpleicons.org/icons/powerbi.svg" width="15px">
 - REST API <img alt="Rest API" src="https://img.icons8.com/ios/64/000000/api-settings.png" width="15px">
+- JSON, XML, YAML
 - Selenium <img alt="selenium" src="https://img.icons8.com/wired/64/000000/selenium-test-automation.png" width="15px">
 - HTML5 <img alt="html5" src="https://simpleicons.org/icons/html5.svg" width="15px">
 - CSS <img alt="css3" src="https://simpleicons.org/icons/css3.svg" width="15px">
