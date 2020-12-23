@@ -127,7 +127,7 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 
 ### Tools & Technologies
 
-- SharePoint <img alt="microsoftsharepoint" src="https://simpleicons.org/icons/microsoftsharepoint.svg" width="15px"> \| Intermediate
+- `Intermediate` SharePoint <img alt="microsoftsharepoint" src="https://simpleicons.org/icons/microsoftsharepoint.svg" width="15px"> \| Intermediate
 - Microsoft Access <img alt="microsoftaccess" src="https://simpleicons.org/icons/microsoftaccess.svg" width="15px"> \| Intermediate
 - Microsoft Excel <img alt="microsoftexcel" src="https://simpleicons.org/icons/microsoftexcel.svg" width="15px"> \| Advanced
 - Microsoft Power Query <img alt="microsoftpowerquery" src="https://simpleicons.org/icons/microsoft.svg" width="15px"> \| Intermediate
