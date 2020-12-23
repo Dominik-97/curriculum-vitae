@@ -127,33 +127,33 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 
 ### Tools & Technologies
 
-- SharePoint <img alt="microsoftsharepoint" src="https://simpleicons.org/icons/microsoftsharepoint.svg" width="15px"> "|" Intermediate
+- SharePoint <img alt="microsoftsharepoint" src="https://simpleicons.org/icons/microsoftsharepoint.svg" width="15px"> \| Intermediate
 - Microsoft Access <img alt="microsoftaccess" src="https://simpleicons.org/icons/microsoftaccess.svg" width="15px"> \| Intermediate
-- Microsoft Excel <img alt="microsoftexcel" src="https://simpleicons.org/icons/microsoftexcel.svg" width="15px"> | Advanced
-- Microsoft Power Query <img alt="microsoftpowerquery" src="https://simpleicons.org/icons/microsoft.svg" width="15px"> | Intermediate
-- Visual Basic for Applications (VBA) <img alt="visualbasicforapplications" src="https://cdn3.iconfinder.com/data/icons/flat-design-spreadsheet-set-5/24/macros-vba-512.png" width="15px"> | Itermediate
-- git <img alt="git" src="https://simpleicons.org/icons/git.svg" width="15px"> | Advanced
-- GitHub & GitLab <img alt="github" src="https://simpleicons.org/icons/github.svg" width="15px"> & <img alt="gitlab" src="https://simpleicons.org/icons/gitlab.svg" width="15px"> | Advanced
-- Tableau <img alt="tableau" src="https://simpleicons.org/icons/tableau.svg" width="15px"> | Intermediate
-- Microsoft Power BI <img alt="microsoftpowerbi" src="https://simpleicons.org/icons/powerbi.svg" width="15px"> | Intermediate
-- REST API <img alt="Rest API" src="https://img.icons8.com/ios/64/000000/api-settings.png" width="15px"> | Intermediate, user level
-- JSON, XML, YAML | Advanced
-- Selenium <img alt="selenium" src="https://img.icons8.com/wired/64/000000/selenium-test-automation.png" width="15px"> | Advanced, in IDE
-- HTML5 <img alt="html5" src="https://simpleicons.org/icons/html5.svg" width="15px"> | Intermediate
-- CSS <img alt="css3" src="https://simpleicons.org/icons/css3.svg" width="15px"> | Intermediate
-- Python <img alt="python" src="https://simpleicons.org/icons/python.svg" width="15px"> | Novice
-- MySQL <img alt="MySQL" src="https://simpleicons.org/icons/mysql.svg" width="15px"> | Intermediate
-- Markdown & Pandoc <img alt="Markdown" src="https://simpleicons.org/icons/markdown.svg" width="15px"> | Advanced
-- Terminal & Shell scripting (bash) <img alt="GNU Bash" src="https://simpleicons.org/icons/gnubash.svg" width="15px"> | Itermediate
-- LaTeX <img alt="LaTeX" src="https://simpleicons.org/icons/latex.svg" width="15px"> | Intermediate
-- Microsoft Office <img alt="Microsoft Office" src="https://simpleicons.org/icons/microsoftoffice.svg" width="15px"> | Advanced
-- Microsoft Power Automate & Integromat <img alt="Microsoft Power Automate" src="https://img.icons8.com/fluent/48/000000/microsoft-power-automate-2020.png" width="15px"> & <img alt="Integromat" src="https://images.saasworthy.com/integromat_1954_logo_1576566957_wkfxu.png" width="15px"> | Advanced
-- Google Cloud Platform (GCP) & Microsoft Azure <img alt="Google Cloud Platform" src="https://simpleicons.org/icons/googlecloud.svg" width="15px"> & <img alt="Microsoft Azure" src="https://simpleicons.org/icons/microsoftazure.svg" width="15px"> | Novice, user level
-- Google Analytics & Tag Manager <img alt="Google Analytics" src="https://simpleicons.org/icons/googleanalytics.svg" width="15px"> & <img alt="Google Tag Manager" src="https://simpleicons.org/icons/googletagmanager.svg" width="15px"> | Intermediate
-- Basic Adobe Suite <img alt="Adobe Vreative Suite" src="https://simpleicons.org/icons/adobe.svg" width="15px"> | Novice
-- BPMN & UML | Advanced in BPMN, novice in UML
-- MacOS & Windows & Linux <img alt="Apple" src="https://simpleicons.org/icons/apple.svg" width="15px"> & <img alt="Windows" src="https://simpleicons.org/icons/windows.svg" width="15px"> & <img alt="Linux" src="https://simpleicons.org/icons/linux.svg" width="15px"> | Advanced
-- Basic understanding of: R & JavaScript & Node.js <img alt="R" src="https://simpleicons.org/icons/r.svg" width="15px"> & <img alt="JavaScript" src="https://simpleicons.org/icons/javascript.svg" width="15px"> & <img alt="Node.js" src="https://simpleicons.org/icons/node-dot-js.svg" width="15px"> | Novice
+- Microsoft Excel <img alt="microsoftexcel" src="https://simpleicons.org/icons/microsoftexcel.svg" width="15px"> \| Advanced
+- Microsoft Power Query <img alt="microsoftpowerquery" src="https://simpleicons.org/icons/microsoft.svg" width="15px"> \| Intermediate
+- Visual Basic for Applications (VBA) <img alt="visualbasicforapplications" src="https://cdn3.iconfinder.com/data/icons/flat-design-spreadsheet-set-5/24/macros-vba-512.png" width="15px"> \| Itermediate
+- git <img alt="git" src="https://simpleicons.org/icons/git.svg" width="15px"> \| Advanced
+- GitHub & GitLab <img alt="github" src="https://simpleicons.org/icons/github.svg" width="15px"> & <img alt="gitlab" src="https://simpleicons.org/icons/gitlab.svg" width="15px"> \| Advanced
+- Tableau <img alt="tableau" src="https://simpleicons.org/icons/tableau.svg" width="15px"> \| Intermediate
+- Microsoft Power BI <img alt="microsoftpowerbi" src="https://simpleicons.org/icons/powerbi.svg" width="15px"> \| Intermediate
+- REST API <img alt="Rest API" src="https://img.icons8.com/ios/64/000000/api-settings.png" width="15px"> \| Intermediate, user level
+- JSON, XML, YAML \| Advanced
+- Selenium <img alt="selenium" src="https://img.icons8.com/wired/64/000000/selenium-test-automation.png" width="15px"> \| Advanced, in IDE
+- HTML5 <img alt="html5" src="https://simpleicons.org/icons/html5.svg" width="15px"> \| Intermediate
+- CSS <img alt="css3" src="https://simpleicons.org/icons/css3.svg" width="15px"> \| Intermediate
+- Python <img alt="python" src="https://simpleicons.org/icons/python.svg" width="15px"> \| Novice
+- MySQL <img alt="MySQL" src="https://simpleicons.org/icons/mysql.svg" width="15px"> \| Intermediate
+- Markdown & Pandoc <img alt="Markdown" src="https://simpleicons.org/icons/markdown.svg" width="15px"> \| Advanced
+- Terminal & Shell scripting (bash) <img alt="GNU Bash" src="https://simpleicons.org/icons/gnubash.svg" width="15px"> \| Itermediate
+- LaTeX <img alt="LaTeX" src="https://simpleicons.org/icons/latex.svg" width="15px"> \| Intermediate
+- Microsoft Office <img alt="Microsoft Office" src="https://simpleicons.org/icons/microsoftoffice.svg" width="15px"> \| Advanced
+- Microsoft Power Automate & Integromat <img alt="Microsoft Power Automate" src="https://img.icons8.com/fluent/48/000000/microsoft-power-automate-2020.png" width="15px"> & <img alt="Integromat" src="https://images.saasworthy.com/integromat_1954_logo_1576566957_wkfxu.png" width="15px"> \| Advanced
+- Google Cloud Platform (GCP) & Microsoft Azure <img alt="Google Cloud Platform" src="https://simpleicons.org/icons/googlecloud.svg" width="15px"> & <img alt="Microsoft Azure" src="https://simpleicons.org/icons/microsoftazure.svg" width="15px"> \| Novice, user level
+- Google Analytics & Tag Manager <img alt="Google Analytics" src="https://simpleicons.org/icons/googleanalytics.svg" width="15px"> & <img alt="Google Tag Manager" src="https://simpleicons.org/icons/googletagmanager.svg" width="15px"> \| Intermediate
+- Basic Adobe Suite <img alt="Adobe Vreative Suite" src="https://simpleicons.org/icons/adobe.svg" width="15px"> \| Novice
+- BPMN & UML \| Advanced in BPMN, novice in UML
+- MacOS & Windows & Linux <img alt="Apple" src="https://simpleicons.org/icons/apple.svg" width="15px"> & <img alt="Windows" src="https://simpleicons.org/icons/windows.svg" width="15px"> & <img alt="Linux" src="https://simpleicons.org/icons/linux.svg" width="15px"> \| Advanced
+- Basic understanding of: R & JavaScript & Node.js <img alt="R" src="https://simpleicons.org/icons/r.svg" width="15px"> & <img alt="JavaScript" src="https://simpleicons.org/icons/javascript.svg" width="15px"> & <img alt="Node.js" src="https://simpleicons.org/icons/node-dot-js.svg" width="15px"> \| Novice
 
 
 ## Languages
