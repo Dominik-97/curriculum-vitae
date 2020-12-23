@@ -25,9 +25,9 @@ language: cz
 
 </div>
 
-## Momentálně
+## Aktuálně
 
-Pracuji jako Data Konsultant aa Reporting Specialista v Behavee & Studuji právo.
+Pracuji jako Data Konsultant a Reporting Specialista v Behavee & Studuji právo.
 
 ### Specializace
 
@@ -83,7 +83,7 @@ Datová analytika.
 `2017-Současnost`
 __CEVRO Institut, Praha, Česká republika__ <br>
 - `2017-2020` - Bc., v oboru __Právo V Obchodních vztazích__ <br>
-- `2020-Present` - Studium Mgr., v oboru __Právo V Obchodních vztazích__ <br>
+- `2020-Současnost` - Studium Mgr., v oboru __Právo V Obchodních vztazích__ <br>
 
 `2010-2017`
 __Mensa Gymnázium, Praha, Česká republika__ <br>
@@ -162,7 +162,7 @@ __Open Gate Boarding School, Babice u Říčan, Česká republika__ <br>
 - Jazyk: **Čeština**
   - Rodilý mluvčí
 - Jazyk: **Angličtina**
-  - Plynule mluvou i písmem
+  - Plynule slovem i písmem
 - Jazyk: **Španělština**
   - Základní pasivní znalost
 - Jazyk: **Němčina**
