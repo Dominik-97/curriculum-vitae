@@ -260,7 +260,7 @@ a[data-tool-tip]::after {
   border-radius: 5px;
   font-size: 0.80em;
   bottom: 0;
-  left: 0;
+  left: -400%;
   white-space: nowrap;
   transform: scale(0);
   transition: 
