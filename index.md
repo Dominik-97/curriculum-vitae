@@ -7,7 +7,10 @@ language: en
 <div class="fixed">
 
 <h1>Dominik Bálint</h1>
-<p>Student of Law, Data Consultant and Reporting Specialist at Behavee.</p>
+<p>
+  Student of law, product management specialist and development consultant at Denevy. <br>
+  Helping businesses succeed | Taking care of product management, test management and (big) data management/legal compliance
+</p>
 
 <div id="webaddress">
 <a href="email@email.cz">email@email.org</a>
@@ -27,15 +30,55 @@ language: en
 
 ## Currently
 
-Working as Data Consultant and Reporting Specialist at Behavee \& Studying law.
+Working as automation development lead on various in-house and external projects at Denevy. <br>
+
+I am focusing on driving improvements in both business and technical areas as well as technical training. <br>
+
+I am an estabilished profesional in IT space with proven track record of sucessfull projects. <br>
+
+Rich B2B and B2C experience.
+
+Building sofware with internation presence, which helps businesses to ... product lifecycle management.
+
+From alpha versions to launch in the EU markets to a mature products with huge numbers of clients.
+
+Focusing on big data, backend development (with overreach to frontend), product management, automated testing (E2E FE, Unit, Integration) and varisous consulting and training regarding agile practices, development, testing, data and data compliance and reporting (ETL) and visualize.
+
+I have more than 5 years in both startup (SMBs) and corporate environment experience. This gave me experiences and skills in various areas to understand how to help companies with various activities ranging from business process analysis, data analysis, testing through product management to product launch and life cycle management. This all helps me to help bring improvements and success to businesses in business and inter personal way.
+
+I have experiences from smaller companies all tha way to corporates like T-Mobile, Asseco, Renomia and Packeta. It has been extremely enriching experience which helped me to understand the current market needs and help businesses to translate them into efficient and succesfull internal activities from which the company can higly benefit.
+
+The main areas I currently tend to focus on are automated testing, automation in general and technical training and data ETL and visualizations. In case your QA is not working as efficiently as it could, or you dont know how to visualize or consume data or automate your data streams or build your internal knowledge base? Does your product suffers from inadequte or inefficient QA processes? Has it impaired or negatively affected your product management and/or launch and delivery? Do you have problems with processes or information pipelines and getting it across various project levels but you do not know how to manage all this to release a sucesful product? There are many cases which can negatively affect your product, and a lot of it can do with QA and processes, there are many scenarios. I can help you solve these problems and help you to manage your product sucesfully.
+
+I am a people man, so I love transfering these skill that I have learned over the year to other people through mentoring, coaching and training, so the companies can retain the added value i brought in to future to apply the improvements and solve various business and technical problems they might encounter. I love communication and connecting people, to deliver the product value. I can always find a solution to a problem, analyse it, propose solution, implement solution, implement procesess and write documentation and methodologies.
+
+I can analyze business and QA needs and translate them into comprehensive requirements (defining new, improved and better features for new systems and apps and leading employees/managers towards a better way of handling just another day at work) which can be implemented to bring improvements and value to the business.
+
+Liason between stakeholders and developers, translating business needs into comprehensive requirements and transparently managing product backlog and features to bring value to the business.
+
+Interested in:
+
+- Testing, test automation, honesty, courage, challenges, learning and teaching and writing
 
 ### Specialized in
 
-Data analysis.
+Data analysis and visualization, development, product management, testing and training.
 
 
 ## Work experience
-`2018-Present` __Behavee__ **Data Consultant, Reporting Specialist** - Self-employed <br>
+`2021-Present` __Denevy__ **Development and Testing consultant** - Full-time <br>
+
+- Working on various in-house and external projects for companies like Renomia, Asseco and Packeta
+  - Renomia - automation lead
+  - Asseco - automation consultant
+  - Packeta - pipelines and project consultant
+- Delivering (driving) improvements in automation processes, testing automation, development and data pipelines and visualizations
+- Training
+- Analysis
+- Documentation
+- Leading internal projects (product owner) and managing automation teams as automation lead
+
+`2018-2021` __Behavee__ **Data Consultant, Reporting Specialist** - Self-employed <br>
 
 - Examining data, processes and technologies to evaluate the current state and reveal critical problems.
   - Design, research plans and analysis.
@@ -154,6 +197,60 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 - BPMN & UML &nbsp;\|&nbsp; Advanced in BPMN, novice in UML
 - MacOS & Windows & Linux <img alt="Apple" src="https://simpleicons.org/icons/apple.svg" width="15px"> & <img alt="Windows" src="https://simpleicons.org/icons/windows.svg" width="15px"> & <img alt="Linux" src="https://simpleicons.org/icons/linux.svg" width="15px"> &nbsp;\|&nbsp; Advanced
 - Basic understanding of: R & JavaScript & Node.js <img alt="R" src="https://simpleicons.org/icons/r.svg" width="15px"> & <img alt="JavaScript" src="https://simpleicons.org/icons/javascript.svg" width="15px"> & <img alt="Node.js" src="https://simpleicons.org/icons/node-dot-js.svg" width="15px"> &nbsp;\|&nbsp; Novice
+
+- FE:
+  - JavaScript/Typescript
+  - HTML5
+  - CSS3
+  - XPaths
+- Testing
+  - RobotFramework
+  - Selenium
+  - Cucumber
+  - PlayWright
+  - Gherkin
+- Backend
+  - Node.js
+  - Python
+  - Go
+- Other technologies
+  - MacOS
+  - Linux
+  - AWS, GCP
+  - VMs
+  - Docker
+  - Markup languages - Markdown
+  - LaTeX
+  - Shell Scripting - Bash, ZSH
+  - Make
+  - SQL (MySQL, PostgreSQL)
+  - APIs
+- Other
+  - Agile
+  - Scrum
+  - BPMN
+  - Leadership
+  - Writing
+  - Design
+  - Integrations
+  - SAP
+  - Process improvement
+  - Product delivery
+  - Telecomunications
+  - Project delivery
+  - Project coordination
+  - Process management and improvement
+  - Product launch
+  - Testing
+  - QA Lead
+  - Consultion
+  - COmmunication
+  - Training
+  - Presentation
+  - Team-oriented
+  - Mentoring
+  - Coaching
+  - Process quality improvements
 
 
 ## Languages
