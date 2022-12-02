@@ -95,17 +95,6 @@ Data analysis and visualization, development, product management, testing and tr
   - Designing a solution for consolidation and migration of data from local ERP systems to international solutions, designing and reviewing of transitional and to-be processes.
   - Responsibility for data preparation in the field of legal documents, plant maintenance, human resources and asset accounting.
 
-`2018-2019` __Proxy__ **Support consultant** - Part-time <br>
-
-- Technical and customer support.
-- Preparation of tax returns and similar documents related to taxes and other levies.
-- Maintaining databases.
-
-`2018-2018` __Engel & Völkers Prague__ **Talent sourcer** - 2 months Internship <br>
-
-- Responsible for identifying and recruiting candidates with highly technical and specialized skills to fill current or future vacancies.
-- Interaction with potential candidates personally or online, and scheduling interviews with HR staff members.
-
 `2017-2018` __Komerční banka__ **Customer Service Representative** - Part-time <br>
 
 - Helping customers with complaints and questions.
