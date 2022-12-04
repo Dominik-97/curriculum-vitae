@@ -8,8 +8,8 @@ language: en
 
 <h1>Dominik Bálint</h1>
 <p>
-  Student of law, product management specialist and development consultant at Denevy. <br>
-  Helping businesses succeed | Taking care of product management, test management and (big) data management/legal compliance
+  Student of law, <b>product management</b> specialist and <b>automation development consultant</b> at Denevy with rich B2B and B2C experiences <br>
+  Helping businesses succeed | Taking care of <b>product management</b> && <b>BE/FE development</b> && <b>process and test automation</b> | Extremely interested in (big) data management and legal compliance
 </p>
 
 <div id="webaddress">
@@ -30,13 +30,21 @@ language: en
 
 ## Currently
 
-Working as automation development lead on various in-house and external projects at Denevy. <br>
+Working as **automation development lead** on various in-house and external projects at Denevy, mostly focusing on test automation, process automation and reporting. <br>
 
-I am focusing on driving improvements in both business and technical areas as well as technical training. <br>
+I am helping businesses suceed by driving improvements in both business and technical areas. <br>
 
-I am an estabilished profesional in IT space with proven track record of sucessfull projects. <br>
 
-Rich B2B and B2C experience.
+
+
+
+
+
+
+
+<!-- I am focusing on driving improvements in both business and technical areas as well as technical training. <br> -->
+
+<!-- I am an estabilished profesional in IT space with proven track record of sucessfull projects. <br>
 
 Building sofware with internation presence, which helps businesses to ... product lifecycle management.
 
@@ -240,6 +248,12 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
   - Mentoring
   - Coaching
   - Process quality improvements
+  - Networking
+  - Nginx
+  - Pipelines Gl
+  - Docker
+  - API
+  - VM
 
 
 ## Languages
