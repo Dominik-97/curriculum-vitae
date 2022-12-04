@@ -34,7 +34,7 @@ Working as **automation development lead** on various in-house and external proj
 
 My goal is to help businesses suceed by driving improvements in both business and technical areas and providing technical training to share my knowledge.<br>
 
-I am an estabilished professional in IT space with proven track record of participating on sucessfull projects throughuut its lifecycle, ranging from internal tools to boost productivity to building software with international presence which keep helping people worldwide with areas such as marketing or product management or telecomunications. <br>
+I am an estabilished professional with more than 5 years of experience in both startup and corporate environment in IT space with proven track record of participating on sucessfull projects throughuut its lifecycle, ranging from internal tools to boost productivity to building software with international presence which keep helping people worldwide with areas such as marketing or product management or telecomunications. <br>
 
 
 <!-- From alpha versions to launch in the EU markets to a mature products with huge numbers of clients.
