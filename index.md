@@ -36,27 +36,6 @@ My goal is to help businesses suceed by driving improvements in both business an
 
 I am an estabilished professional with more than 5 years of experience in both startup and corporate environment in IT space with proven track record of participating on sucessfull projects throughuut its lifecycle, ranging from internal tools to boost productivity to building software with international presence which keep helping people worldwide with areas such as marketing or product management or telecomunications. <br>
 
-
-<!-- From alpha versions to launch in the EU markets to a mature products with huge numbers of clients.
-
-Focusing on big data, backend development (with overreach to frontend), product management, automated testing (E2E FE, Unit, Integration) and varisous consulting and training regarding agile practices, development, testing, data and data compliance and reporting (ETL) and visualize.
-
-I have more than 5 years in both startup (SMBs) and corporate environment experience. This gave me experiences and skills in various areas to understand how to help companies with various activities ranging from business process analysis, data analysis, testing through product management to product launch and life cycle management. This all helps me to help bring improvements and success to businesses in business and inter personal way.
-
-I have experiences from smaller companies all tha way to corporates like T-Mobile, Asseco, Renomia and Packeta. It has been extremely enriching experience which helped me to understand the current market needs and help businesses to translate them into efficient and succesfull internal activities from which the company can higly benefit.
-
-The main areas I currently tend to focus on are automated testing, automation in general and technical training and data ETL and visualizations. In case your QA is not working as efficiently as it could, or you dont know how to visualize or consume data or automate your data streams or build your internal knowledge base? Does your product suffers from inadequte or inefficient QA processes? Has it impaired or negatively affected your product management and/or launch and delivery? Do you have problems with processes or information pipelines and getting it across various project levels but you do not know how to manage all this to release a sucesful product? There are many cases which can negatively affect your product, and a lot of it can do with QA and processes, there are many scenarios. I can help you solve these problems and help you to manage your product sucesfully.
-
-I am a people man, so I love transfering these skill that I have learned over the year to other people through mentoring, coaching and training, so the companies can retain the added value i brought in to future to apply the improvements and solve various business and technical problems they might encounter. I love communication and connecting people, to deliver the product value. I can always find a solution to a problem, analyse it, propose solution, implement solution, implement procesess and write documentation and methodologies.
-
-I can analyze business and QA needs and translate them into comprehensive requirements (defining new, improved and better features for new systems and apps and leading employees/managers towards a better way of handling just another day at work) which can be implemented to bring improvements and value to the business.
-
-Liason between stakeholders and developers, translating business needs into comprehensive requirements and transparently managing product backlog and features to bring value to the business.
-
-Interested in:
-
-- Testing, test automation, honesty, courage, challenges, learning and teaching and writing
-
 ### Specialized in
 
 Data analysis and visualization, development, product management, testing and training.
@@ -257,6 +236,29 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 - Language: **German**
   - Elementary proficiency
 
+## Something more
+
+If you read it till here, heres something more about me to keep you going (mostly professional, but I threw some vocation stuff in as well :-) ):
+
+<!-- From alpha versions to launch in the EU markets to a mature products with huge numbers of clients.
+
+Focusing on big data, backend development (with overreach to frontend), product management, automated testing (E2E FE, Unit, Integration) and varisous consulting and training regarding agile practices, development, testing, data and data compliance and reporting (ETL) and visualize.
+
+I have more than 5 years in both startup (SMBs) and corporate environment experience. This gave me experiences and skills in various areas to understand how to help companies with various activities ranging from business process analysis, data analysis, testing through product management to product launch and life cycle management. This all helps me to help bring improvements and success to businesses in business and inter personal way.
+
+I have experiences from smaller companies all tha way to corporates like T-Mobile, Asseco, Renomia and Packeta. It has been extremely enriching experience which helped me to understand the current market needs and help businesses to translate them into efficient and succesfull internal activities from which the company can higly benefit.
+
+The main areas I currently tend to focus on are automated testing, automation in general and technical training and data ETL and visualizations. In case your QA is not working as efficiently as it could, or you dont know how to visualize or consume data or automate your data streams or build your internal knowledge base? Does your product suffers from inadequte or inefficient QA processes? Has it impaired or negatively affected your product management and/or launch and delivery? Do you have problems with processes or information pipelines and getting it across various project levels but you do not know how to manage all this to release a sucesful product? There are many cases which can negatively affect your product, and a lot of it can do with QA and processes, there are many scenarios. I can help you solve these problems and help you to manage your product sucesfully.
+
+I am a people man, so I love transfering these skill that I have learned over the year to other people through mentoring, coaching and training, so the companies can retain the added value i brought in to future to apply the improvements and solve various business and technical problems they might encounter. I love communication and connecting people, to deliver the product value. I can always find a solution to a problem, analyse it, propose solution, implement solution, implement procesess and write documentation and methodologies.
+
+I can analyze business and QA needs and translate them into comprehensive requirements (defining new, improved and better features for new systems and apps and leading employees/managers towards a better way of handling just another day at work) which can be implemented to bring improvements and value to the business.
+
+Liason between stakeholders and developers, translating business needs into comprehensive requirements and transparently managing product backlog and features to bring value to the business.
+
+Interested in:
+
+- Testing, test automation, honesty, courage, challenges, learning and teaching and writing
 
 <!-- ### Footer
 
