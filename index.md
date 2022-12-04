@@ -28,25 +28,16 @@ language: en
 
 </div>
 
-## Currently
+## About
 
 Working as **automation development lead** on various in-house and external projects at Denevy, mostly focusing on test automation, process automation and reporting. <br>
 
-I am helping businesses suceed by driving improvements in both business and technical areas. <br>
+My goal is to help businesses suceed by driving improvements in both business and technical areas and providing technical training to share my knowledge.<br>
+
+I am an estabilished professional in IT space with proven track record of participating on sucessfull projects, ranging from internal tools to boost productivity to building software with international presence which keep helping people worldwide with areas such as marketing or product management or telecomunications. <br>
 
 
-
-
-
-
-
-
-
-<!-- I am focusing on driving improvements in both business and technical areas as well as technical training. <br> -->
-
-<!-- I am an estabilished profesional in IT space with proven track record of sucessfull projects. <br>
-
-Building sofware with internation presence, which helps businesses to ... product lifecycle management.
+<!-- Building sofware with internation presence, which helps businesses to ... product lifecycle management.
 
 From alpha versions to launch in the EU markets to a mature products with huge numbers of clients.
 
