@@ -106,15 +106,30 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 &nbsp;
 &nbsp;
 
-### Industry Knowledge
+### General knowledge
+
+- Programming
+- Product management
+- Test management
+- Testing
+- Test automation
+- Professional writing
+
+### Domain knowledge
+
+- Telecomunications
+- Financial Analysis & Basic knowledge of accounting
+- Financial products such as investment products, insurance products, loans
+- Marketing
+- PPC
+- UX/UI Design
+
+### Industry or domain Knowledge
 
 - Financial Analysis & Basic knowledge of accounting
-- Business Strategy
-- Business Development
-- Business Analysis
-- Analytical Skills
-- Pivot Tables
-- Shell Scripting
+- Financial products
+- Product management
+- Test management
 - Testing
 - Test Automation
 - Telecommunication
@@ -152,7 +167,7 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 - Python <img alt="python" src="https://simpleicons.org/icons/python.svg" width="15px"> &nbsp;\|&nbsp; Novice
 - MySQL <img alt="MySQL" src="https://simpleicons.org/icons/mysql.svg" width="15px"> &nbsp;\|&nbsp; Intermediate
 - Markdown & Pandoc <img alt="Markdown" src="https://simpleicons.org/icons/markdown.svg" width="15px"> &nbsp;\|&nbsp; Advanced
-- Terminal & Shell scripting (bash) <img alt="GNU Bash" src="https://simpleicons.org/icons/gnubash.svg" width="15px"> &nbsp;\|&nbsp; Itermediate
+- Terminal & Shell scripting (bash, zsh) <img alt="GNU Bash" src="https://simpleicons.org/icons/gnubash.svg" width="15px"> &nbsp;\|&nbsp; Itermediate
 - LaTeX <img alt="LaTeX" src="https://simpleicons.org/icons/latex.svg" width="15px"> &nbsp;\|&nbsp; Intermediate
 - Microsoft Office <img alt="Microsoft Office" src="https://simpleicons.org/icons/microsoftoffice.svg" width="15px"> &nbsp;\|&nbsp; Advanced
 - Microsoft Power Automate & Integromat <img alt="Microsoft Power Automate" src="https://img.icons8.com/fluent/48/000000/microsoft-power-automate-2020.png" width="15px"> & <img alt="Integromat" src="https://images.saasworthy.com/integromat_1954_logo_1576566957_wkfxu.png" width="15px"> &nbsp;\|&nbsp; Advanced
@@ -223,6 +238,30 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
   - API
   - VM
   - Product lifecycle management
+  - Pivot Tables
+  - Shell Scripting
+  - Business Strategy
+  - Business Development
+  - Business Analysis
+  - Analytical Skills
+  - technical documentation
+  - terminal
+  - photography
+  - music guitar
+  - traveling
+  - pandas
+  - matplotlib
+  - r
+  - NumPy
+  - API testing
+  - Pen testing - OWASP
+  - Perf testing - JMeter
+  - RobotFramework
+  - JS, TS - Playwright
+  - Cucumber BDD Gherkin
+  - PostgreSQL
+  - Excel
+  - Figma
 
 
 ## Languages
