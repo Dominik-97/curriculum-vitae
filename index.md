@@ -178,6 +178,23 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 - MacOS & Windows & Linux <img alt="Apple" src="https://simpleicons.org/icons/apple.svg" width="15px"> & <img alt="Windows" src="https://simpleicons.org/icons/windows.svg" width="15px"> & <img alt="Linux" src="https://simpleicons.org/icons/linux.svg" width="15px"> &nbsp;\|&nbsp; Advanced
 - Basic understanding of: R & JavaScript & Node.js <img alt="R" src="https://simpleicons.org/icons/r.svg" width="15px"> & <img alt="JavaScript" src="https://simpleicons.org/icons/javascript.svg" width="15px"> & <img alt="Node.js" src="https://simpleicons.org/icons/node-dot-js.svg" width="15px"> &nbsp;\|&nbsp; Novice
 
+<ul>
+{% for toolAndTechnology in site.data.cv_data_yaml.toolsAndTechnologies %}
+<li>
+  {{ toolAndTechnology.name }}
+  {% for image in toolAndTechnology.images %}
+    <img alt="{{image.alt}}" src="{{image.src}}" width="15px">
+    {% unless forloop.last %} & {% endunless %}
+  {% endfor %}
+  | {% if page.language == "en" %}
+  {{ toolAndTechnology.level.en }}
+  {% elsif page.language == "cz" %}
+  {{ toolAndTechnology.level.cz }}
+  {% endif %}
+</li>
+{% endfor %}
+</ul>
+
 - FE:
   - JavaScript/Typescript
   - HTML5

@@ -28,7 +28,7 @@
         },
         {
             "name": "Microsoft Excel",
-            "image": [
+            "images": [
                 {
                     "alt": "microsoftexcel",
                     "src": "https://simpleicons.org/icons/microsoftexcel.svg"
@@ -41,7 +41,7 @@
         },
         {
             "name": "Microsoft Power Query",
-            "image": [
+            "images": [
                 {
                     "alt": "microsoftpowerquery",
                     "src": "https://simpleicons.org/icons/microsoft.svg"
@@ -54,7 +54,7 @@
         },
         {
             "name": "Visual Basic for Applications (VBA)",
-            "image": [
+            "images": [
                 {
                     "alt": "visualbasicforapplications",
                     "src": "https://cdn3.iconfinder.com/data/icons/flat-design-spreadsheet-set-5/24/macros-vba-512.png"
@@ -67,7 +67,7 @@
         },
         {
             "name": "git",
-            "image": [
+            "images": [
                 {
                     "alt": "git",
                     "src": "https://simpleicons.org/icons/git.svg"
@@ -80,7 +80,7 @@
         },
         {
             "name": "GitHub & GitLab",
-            "image": [
+            "images": [
                 {
                     "alt": "github",
                     "src": "https://simpleicons.org/icons/github.svg"
@@ -97,7 +97,7 @@
         },
         {
             "name": "Tableau",
-            "image": [
+            "images": [
                 {
                     "alt": "tableau",
                     "src": "https://simpleicons.org/icons/tableau.svg"
@@ -110,7 +110,7 @@
         },
         {
             "name": "Microsoft Power BI",
-            "image": [
+            "images": [
                 {
                     "alt": "microsoftpowerbi",
                     "src": "https://simpleicons.org/icons/powerbi.svg"
@@ -123,7 +123,7 @@
         },
         {
             "name": "REST API",
-            "image": [
+            "images": [
                 {
                     "alt": "Rest API",
                     "src": "https://img.icons8.com/ios/64/000000/api-settings.png"
@@ -136,7 +136,7 @@
         },
         {
             "name": "JSON, XML, YAML",
-            "image": [],
+            "images": [],
             "level": {
                 "en": "Advanced",
                 "cz": "Pokročilý"
@@ -144,7 +144,7 @@
         },
         {
             "name": "Selenium",
-            "image": [
+            "images": [
                 {
                     "alt": "selenium",
                     "src": "https://img.icons8.com/wired/64/000000/selenium-test-automation.png"
@@ -157,7 +157,7 @@
         },
         {
             "name": "HTML5",
-            "image": [
+            "images": [
                 {
                     "alt": "html5",
                     "src": "https://simpleicons.org/icons/html5.svg"
@@ -170,7 +170,7 @@
         },
         {
             "name": "CSS",
-            "image": [
+            "images": [
                 {
                     "alt": "css3",
                     "src": "https://simpleicons.org/icons/css3.svg"
@@ -183,7 +183,7 @@
         },
         {
             "name": "Python",
-            "image": [
+            "images": [
                 {
                     "alt": "python",
                     "src": "https://simpleicons.org/icons/python.svg"
@@ -196,7 +196,7 @@
         },
         {
             "name": "MySQL",
-            "image": [
+            "images": [
                 {
                     "alt": "MySQL",
                     "src": "https://simpleicons.org/icons/mysql.svg"
@@ -209,7 +209,7 @@
         },
         {
             "name": "Markdown & Pandoc",
-            "image": [
+            "images": [
                 {
                     "alt": "Markdown",
                     "src": "https://simpleicons.org/icons/markdown.svg"
@@ -222,7 +222,7 @@
         },
         {
             "name": "Terminal & Shell scripting (bash, zsh)",
-            "image": [
+            "images": [
                 {
                     "alt": "GNU Bash",
                     "src": "https://simpleicons.org/icons/gnubash.svg"
@@ -235,7 +235,7 @@
         },
         {
             "name": "LaTeX",
-            "image": [
+            "images": [
                 {
                     "alt": "LaTeX",
                     "src": "https://simpleicons.org/icons/latex.svg"
@@ -248,7 +248,7 @@
         },
         {
             "name": "Microsoft Office",
-            "image": [
+            "images": [
                 {
                     "alt": "Microsoft Office",
                     "src": "https://simpleicons.org/icons/microsoftoffice.svg"
@@ -261,7 +261,7 @@
         },
         {
             "name": "Microsoft Power Automate & Integromat",
-            "image": [
+            "images": [
                 {
                     "alt": "Microsoft Power Automate",
                     "src": "https://img.icons8.com/fluent/48/000000/microsoft-power-automate-2020.png"
@@ -278,7 +278,7 @@
         },
         {
             "name": "Google Cloud Platform (GCP) & Microsoft Azure",
-            "image": [
+            "images": [
                 {
                     "alt": "Google Cloud Platform",
                     "src": "https://simpleicons.org/icons/googlecloud.svg"
@@ -295,7 +295,7 @@
         },
         {
             "name": "Google Analytics & Tag Manager",
-            "image": [
+            "images": [
                 {
                     "alt": "Google Analytics",
                     "src": "https://simpleicons.org/icons/googleanalytics.svg"
@@ -312,7 +312,7 @@
         },
         {
             "name": "Basic Adobe Suite",
-            "image": [
+            "images": [
                 {
                     "alt": "Adobe Creative Suite",
                     "src": "https://simpleicons.org/icons/adobe.svg"
@@ -325,7 +325,7 @@
         },
         {
             "name": "BPMN & UML",
-            "image": [],
+            "images": [],
             "level": {
                 "en": "Advanced in BPMN, intermediate in UML",
                 "cz": "Začátečník v BPMN, Středně pokročilý v UML"
@@ -333,7 +333,7 @@
         },
         {
             "name": "MacOS & Windows & Linux",
-            "image": [
+            "images": [
                 {
                     "alt": "Apple",
                     "src": "https://simpleicons.org/icons/apple.svg"
@@ -354,7 +354,7 @@
         },
         {
             "name": "Basic understanding of: R & JavaScript & Node.js",
-            "image": [
+            "images": [
                 {
                     "alt": "R",
                     "src": "https://simpleicons.org/icons/r.svg"

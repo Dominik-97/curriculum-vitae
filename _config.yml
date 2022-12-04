@@ -1,4 +1,13 @@
+title: Curriculum vitae
+description: >-
+  This page holds my curriculum vitae as a static HTML page.
 baseurl:   "/curriculum-vitae"
 url:   "https://dominik-97.github.io"
 markdown:   kramdown
 style:  kjhealy
+github_username:  Dominik-97
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
