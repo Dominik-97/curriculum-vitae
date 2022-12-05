@@ -49,7 +49,11 @@ I am an estabilished professional with more than 5 years of experience in both s
 - Training
 
 ## Work experience
-`2021-Present` __Denevy__ **Development and Testing consultant** - Full-time <br>
+`2021-Present` __Denevy__ **Development and Testing consultant/Product owner** - Full-time <br>
+
+- mar 2021 - sep 2022 - Owner Juno
+- jun 2022 - present - Renomia - Automation Lead
+- aug 2022 - present - Asseco - Automation Specialist
 
 - Working on various in-house and external projects for companies like Renomia, Asseco and Packeta
   - Renomia - automation lead
@@ -60,8 +64,14 @@ I am an estabilished professional with more than 5 years of experience in both s
 - Analysis
 - Documentation
 - Leading internal projects (product owner) and managing automation teams as automation lead
+Implementing new strategies and processes.
+- Driving the implementation of appropriate changes.
+- Consulting stakeholders, collecting feedback and monitoring market to create actionable steps for iterative development of an in-house tools.
+- Managing development and testing teams.
+- Direct participation on development, testing automation and data management.
+- Product delivery, automation, test and data consultant.
 
-`2018-2021` __Behavee__ **Data Consultant, Reporting Specialist** - Self-employed <br>
+`2018-2021` __Behavee__ **Data & Development Consultant, Reporting Specialist** - Self-employed <br>
 
 - Examining data, processes and technologies to evaluate the current state and reveal critical problems.
   - Design, research plans and analysis.
@@ -69,8 +79,9 @@ I am an estabilished professional with more than 5 years of experience in both s
 - Assisting Development team to create and implement data strategies, design and build data flows and develop conceptual data models.
 - Creating automated data reports and documentation.
 - Maintaining data integrity and databases.
+- Implementing new strategies and processes.
 
-`2018-2020` __T-Mobile__ **Data Consultant** - Self-employed <br>
+`2018-2020` __T-Mobile__ **Data & Development Consultant** - Self-employed <br>
 
 - Participating on the T-Mobile Czech Republic project - Data migration, testing, reporting
   - Support for migration activities during the transition period, preparation and data consolidation, data testing, reporting, handover of prepared data.
@@ -264,6 +275,59 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
   - Integration testing
   - E2E FE manual testing
   - UAT
+  - Excel
+  - SAP
+  - MySQL
+  - Project Management
+  - CRM
+  - Business strategy
+  - Business Development
+  - Business Analysis
+  - Customer and Stakeholder satisfaction
+  - Analytical Skills
+  - Pivot Tables
+  - Shell Scripting
+  - Testing
+  - Test Automation
+  - SharePoint
+  - Microsoft Access
+  - Microsoft Power Query
+  - Visual Basic for Applications (VBA)
+  - git
+  - GitHub
+  - Tableau
+  - Microsoft Power BI
+  - REST API
+  - Selenium
+  - HTML 5
+  - CSS
+  - JavaScript
+  - TypeScript
+  - Node.js
+  - LaTeX
+  - Microsoft Office
+  - R
+  - Microsoft Power Automate
+  - Microsoft Power Apps
+  - Google Cloud Platform
+  - Microsoft Azure
+  - Google Analytics
+  - Python
+  - Time Management
+  - Team Leadership
+  - Team Management
+  - Teamwork
+  - Leadership
+  - Speaker
+  - Communication
+  - English
+  - Spanish
+  - German
+  - Czech
+  - Bash
+  - HTML
+  - Go
+  - SQL
 
 
 ## Languages
