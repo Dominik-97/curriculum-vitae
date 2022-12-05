@@ -357,6 +357,9 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
   - HTML
   - Go
   - SQL
+  - Agile
+  - Scrum
+  - Kanban
 
 
 ## Languages
