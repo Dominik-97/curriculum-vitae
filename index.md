@@ -227,18 +227,6 @@ Listed below are my hard skills, my technical knowledge:
 {% endfor %}
 </ul>
 
-- Other technologies
-  - MacOS
-  - Linux
-  - AWS, GCP
-  - VMs
-  - Docker
-  - Markup languages - Markdown
-  - LaTeX
-  - Shell Scripting - Bash, ZSH
-  - Make
-  - SQL (MySQL, PostgreSQL)
-  - APIs
 - Other
   - Agile
   - Scrum

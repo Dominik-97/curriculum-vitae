@@ -208,6 +208,19 @@
             }
         },
         {
+            "name": "PostgreSQL",
+            "images": [
+                {
+                    "alt": "PostgreSQL",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "Intermediate",
+                "cz": "Středně pokročilý"
+            }
+        },
+        {
             "name": "Markdown & Pandoc",
             "images": [
                 {
@@ -277,7 +290,7 @@
             }
         },
         {
-            "name": "Google Cloud Platform (GCP) & Microsoft Azure",
+            "name": "Google Cloud Platform (GCP) & Microsoft Azure & AWS",
             "images": [
                 {
                     "alt": "Google Cloud Platform",
@@ -286,6 +299,10 @@
                 {
                     "alt": "Microsoft Azure",
                     "src": "https://simpleicons.org/icons/microsoftazure.svg"
+                },
+                {
+                    "alt": "",
+                    "src": ""
                 }
             ],
             "level": {
@@ -489,10 +506,61 @@
                 "en": "",
                 "cz": ""
             }
-        }
-        ,
+        },
         {
             "name": "GO",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            }
+        },
+        {
+            "name": "VMs",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            }
+        },
+        {
+            "name": "Docker",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            }
+        },
+        {
+            "name": "Make",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            }
+        },
+        {
+            "name": "APIs - SOAP, REST",
             "images": [
                 {
                     "alt": "",
