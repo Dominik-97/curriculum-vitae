@@ -37,11 +37,11 @@ Pracuji jako **automation development lead** na různých interních a externíc
 
 Mým cílem je pomáhat podnikům k úspěchu tím, že zdokonaluji businessové i technické oblasti a poskytuji **technická školení**, kde sdílím své znalosti s ostatními. <br>
 
-Jsem profesionál s více než pětiletou praxí ve startupovém i firemním prostředí v oblasti IT s prokazatelnou řadou úspěšných projektů, na kterých je participoval po celou dobu jejich životního cyklu, ať už se jednalo o interní nástroje pro zvýšení produktivity až po budování softwaru s mezinárodní působností, který stále pomáhá lidem po celém světě v oblastech, jako je **marketing** nebo **řízení produktů** či **telekomunikace**. Je to pro mě nesmírně obohacující zkušenost, která mi pomohla a stále pomáhá chápat aktuální potřeby trhu a pomoci podnikům převést je do efektivních a úspěšných interních aktivit, z nichž mohou mít nesmírný užitek. <br>
+Jsem profesionál s více než pětiletou praxí ve startupovém i firemním prostředí v oblasti IT s prokazatelnou řadou úspěšných projektů, na kterých jsem participoval po celou dobu jejich životního cyklu, ať už se jednalo o interní nástroje pro zvýšení produktivity až po budování softwaru s mezinárodní působností, který stále pomáhá lidem po celém světě v oblastech, jako je **marketing** nebo **řízení produktů** či **telekomunikace**. Je to pro mě nesmírně obohacující zkušenost, která mi pomohla a stále pomáhá chápat aktuální potřeby trhu a pomoci podnikům převést je do efektivních a úspěšných interních aktivit, z nichž mohou mít nesmírný užitek. <br>
 
 Díky mé praxi jsem získal zkušenosti a dovednosti v různých oblastech, abych pochopil, jak pomáhat společnostem s různými činnostmi od **analýzy business procesů**, **analýzy dat** a **testování** přes **řízení produktů** až po jejich **uvedení na trh** a **řízení životního cyklu**. To vše mi pomáhá přinášet efektivitu a úspěch v obchodní i mezilidské oblasti do projektů, v kterých působím. <br>
 
-
+Pokud zrovna nepomáhám týmům s automatizací a vývojem, věnuji se primárně **produktovému managementu**, abych pomohl zefektivnit další důležité části životního cyklu produktu a pomohl firmě vytěžit z projektu maximum tím, že dodám kvalitní iterace a zvýším spokojenost v celém projektovém týmu.
 
 ### Specializace
 

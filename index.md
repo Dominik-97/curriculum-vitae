@@ -41,7 +41,7 @@ I am an established professional with more than five years of experience in both
 
 This gave me experiences and skills in various areas to understand how to help companies with various activities ranging from **business process analysis**, **data analysis** and **testing** through **product management** to **product launch** and **life cycle management**. This all helps me to help bring improvements and success to businesses in business and interpersonal ways. <br>
 
-If I am not helping teams with automations I focus on **product management** to help streamline the other essential parts of the product lifecycle and to help the business to get the maximum out of the project by delivering high-quality products and boosting team satisfaction.
+If I am not helping teams with automations or development I primarily focus on **product management** to help streamline the other essential parts of the product lifecycle and to help the business to get the maximum out of the project by delivering high-quality products and boosting team satisfaction.
 
 ### Specialized in
 
