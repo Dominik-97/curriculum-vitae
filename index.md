@@ -33,11 +33,13 @@ language: en
 
 ## About
 
-Working as **automation development lead** on various in-house and external projects at Denevy, mostly focusing on test automation, process automation and reporting. <br>
+Working as **automation development lead** on various in-house and external projects at Denevy, mostly focusing on **test automation**, **process automation** and **reporting**. <br>
 
-My goal is to help businesses suceed by driving improvements in both business and technical areas and providing technical training to share my knowledge.<br>
+My goal is to help businesses suceed by driving improvements in both business and technical areas and providing technical training to share my knowledge with others. <br>
 
 I am an estabilished professional with more than 5 years of experience in both startup and corporate environment in IT space with proven track record of participating on sucessfull projects throughuut its lifecycle, ranging from internal tools to boost productivity to building software with international presence which keep helping people worldwide with areas such as marketing or product management or telecomunications. <br>
+
+If I am not helping teams with automations I focus on **product management** to help streamline the other essential parts of product lifecycle and to help the business to get the maximum out of the project by delivering high quality product and boosting team satisfaction.
 
 ### Specialized in
 
@@ -55,14 +57,16 @@ I am an estabilished professional with more than 5 years of experience in both s
 - Building test automation pipelines for financial products platforms.
 - Defining automated test scenarios.
 - Implementing automated tests scenarios, ETL pipelines and test execution result visualizations.
-- Workshops.
+- Leading workshops focused on transfering knowledge pertaining automated tests.
+- Leading and helping other contractual team members to deliver high quality tests.
 
 `June 2022 - Present` __Renomia__ **Automation Lead** - Contractual <br>
 
 - Working on Test Automation project in Insurance field.
 - Analyzing test automation proceses and defining technical requirements.
 - Implementing automated tests scenarios, ETL pipelines and test execution result visualizations.
-- Workshops.
+- Leading workshops focused on transfering knowledge pertaining automated tests.
+- Leading and helping other contractual team members to deliver high quality tests.
 
 `2021-Present` __Denevy__ **Development and Testing consultant/Product owner** - Full-time <br>
 
@@ -76,13 +80,14 @@ I am an estabilished professional with more than 5 years of experience in both s
     - Managing product roadmap.
 - March 2021 - Present
   - Development and Testing consultant
+    - Working on various in-house and external projects for companies like Renomia, Asseco and Packeta
+      - Leading the way to:
+        - Deliver high quality automations (especially test automation and data pipelines)
+        - Consult on chnages leading to higher satisfaction and effectivness
+        - Helping with CI/CD processes
     - Product delivery, automation, test and data consulting.
     - Leading and training testing team.
     - Implementing new strategies and processes to boost efficiency and to streamline development.
-
-- mar 2021 - sep 2022 - Owner Juno
-- jun 2022 - present - Renomia - Automation Lead
-- aug 2022 - present - Asseco - Automation Specialist
 
 - Working on various in-house and external projects for companies like Renomia, Asseco and Packeta
   - Renomia - automation lead

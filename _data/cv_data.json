@@ -372,6 +372,19 @@
                 "en": "Intermediate",
                 "cz": "Středně pokročilý"
             }
+        },
+        {
+            "name": "Gherkin",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            }
         }
     ]
 }
