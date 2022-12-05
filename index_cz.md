@@ -7,7 +7,13 @@ language: cz
 <div class="fixed">
 
 <h1>Dominik Bálint</h1>
-<p>Student práva, Data Konsultant a Reporting Specialista v Behavee.</p>
+<p>
+  <strong>Student práva</strong>, <strong>product management</strong> specialista <br> 
+  <strong>automation development konzultant</strong> ve společnosti Denevy s bohatými zkušenostmi v oblasti B2B a B2C. | <br>
+  Pomáhám podnikům uspět | <br>
+  Starám se o<strong>produkt management</strong> && <strong>BE/FE vývoj</strong> && <strong>automatizaci procesů a testů</strong> | <br>
+  Velice se zajímám o (big) data management a legal compliance
+</p>
 
 <div id="webaddress">
 <a href="email@email.cz">email@email.org</a>
@@ -25,9 +31,17 @@ language: cz
 
 </div>
 
-## Aktuálně
+## O mě
 
-Pracuji jako Data Konsultant a Reporting Specialista v Behavee & Studuji právo.
+Pracuji jako **automation development lead** na různých interních a externích projektech ve společnosti Denevy. Nejvíce se soustředím na **automatizaci testů**, **automatizaci procesů** a **reporting**. <br>
+
+Mým cílem je pomáhat podnikům k úspěchu tím, že zdokonaluji businessové i technické oblasti a poskytuji **technická školení**, kde sdílím své znalosti s ostatními. <br>
+
+Jsem profesionál s více než pětiletou praxí ve startupovém i firemním prostředí v oblasti IT s prokazatelnou řadou úspěšných projektů, na kterých je participoval po celou dobu jejich životního cyklu, ať už se jednalo o interní nástroje pro zvýšení produktivity až po budování softwaru s mezinárodní působností, který stále pomáhá lidem po celém světě v oblastech, jako je **marketing** nebo **řízení produktů** či **telekomunikace**. Je to pro mě nesmírně obohacující zkušenost, která mi pomohla a stále pomáhá chápat aktuální potřeby trhu a pomoci podnikům převést je do efektivních a úspěšných interních aktivit, z nichž mohou mít nesmírný užitek. <br>
+
+Díky mé praxi jsem získal zkušenosti a dovednosti v různých oblastech, abych pochopil, jak pomáhat společnostem s různými činnostmi od **analýzy business procesů**, **analýzy dat** a **testování** přes **řízení produktů** až po jejich **uvedení na trh** a **řízení životního cyklu**. To vše mi pomáhá přinášet efektivitu a úspěch v obchodní i mezilidské oblasti do projektů, v kterých působím. <br>
+
+
 
 ### Specializace
 
