@@ -160,7 +160,6 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 - Data analysis
 - Basic knowledge of Marketing
 - Basic knowledge of PPC
-- Leadership
 - Private law
 - Writing (Profesional)
 - Customer journey
@@ -196,6 +195,21 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 - Communication
 - Dedicated
 - Thorough
+- Leadership
+- Training
+  - Presentation
+  - Team-oriented
+  - Mentoring
+  - Coaching
+  Analytical Skills
+  Problemsolving skills
+  Time Management
+  - Team Leadership
+  - Team Management
+  Teamwork
+  - Leadership
+  - Speaker
+  - Communication
 
 
 ### Tools & Technologies
@@ -247,8 +261,8 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 - Other
   - Agile
   - Scrum
-  - BPMN
-  - Leadership
+  - BPMN, UML
+  - ~~Leadership~~
   - Writing
   - Design
   - Integrations
@@ -263,12 +277,12 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
   - Testing
   - QA Lead
   - Consultion
-  - COmmunication
-  - Training
-  - Presentation
-  - Team-oriented
-  - Mentoring
-  - Coaching
+  - ~~COmmunication~~
+  - ~~Training~~
+  - ~~Presentation~~
+  - ~~Team-oriented~~
+  - ~~Mentoring~~
+  - ~~Coaching~~
   - Process quality improvements
   - Networking
   - Nginx
@@ -282,7 +296,7 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
   - Business Strategy
   - Business Development
   - Business Analysis
-  - Analytical Skills
+  - ~~Analytical Skills~~
   - technical documentation
   - terminal
   - photography
@@ -345,13 +359,13 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
   - Microsoft Azure
   - Google Analytics
   - Python
-  - Time Management
-  - Team Leadership
-  - Team Management
-  - Teamwork
-  - Leadership
-  - Speaker
-  - Communication
+  - ~~Time Management~~
+  - ~~Team Leadership~~
+  - ~~Team Management~~
+  - ~~Teamwork~~
+  - ~~Leadership~~
+  - ~~Speaker~~
+  - ~~Communication~~
   - English
   - Spanish
   - German
