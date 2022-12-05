@@ -11,7 +11,8 @@
             "level": {
                 "en": "Intermediate",
                 "cz": "Středně pokročilý"
-            }
+            },
+            "use": true
         },
         {
             "name": "Microsoft Access",
@@ -24,7 +25,8 @@
             "level": {
                 "en": "Intermediate",
                 "cz": "Středně pokročilý"
-            }
+            },
+            "use": true
         },
         {
             "name": "Microsoft Excel",
@@ -37,7 +39,8 @@
             "level": {
                 "en": "Advanced",
                 "cz": "Pokročilý"
-            }
+            },
+            "use": true
         },
         {
             "name": "Microsoft Power Query",
@@ -50,7 +53,8 @@
             "level": {
                 "en": "Intermediate",
                 "cz": "Středně pokročilý"
-            }
+            },
+            "use": true
         },
         {
             "name": "Visual Basic for Applications (VBA)",
@@ -63,7 +67,8 @@
             "level": {
                 "en": "Intermediate",
                 "cz": "Středně pokročilý"
-            }
+            },
+            "use": true
         },
         {
             "name": "git",
@@ -76,7 +81,8 @@
             "level": {
                 "en": "Advanced",
                 "cz": "Pokročilý"
-            }
+            },
+            "use": true
         },
         {
             "name": "GitHub & GitLab",
@@ -93,7 +99,8 @@
             "level": {
                 "en": "Advanced",
                 "cz": "Pokročilý"
-            }
+            },
+            "use": true
         },
         {
             "name": "Tableau",
@@ -106,7 +113,8 @@
             "level": {
                 "en": "Intermediate",
                 "cz": "Středně pokročilý"
-            }
+            },
+            "use": true
         },
         {
             "name": "Microsoft Power BI",
@@ -119,7 +127,8 @@
             "level": {
                 "en": "Intermediate",
                 "cz": "Středně pokročilý"
-            }
+            },
+            "use": true
         },
         {
             "name": "REST API",
@@ -130,17 +139,32 @@
                 }
             ],
             "level": {
-                "en": "Intermediate, user level",
-                "cz": "Středně pokročilý"
-            }
+                "en": "Advances",
+                "cz": "Pokročilý"
+            },
+            "use": true
         },
         {
             "name": "JSON, XML, YAML",
-            "images": [],
+            "images": [
+                {
+                    "alt": "json",
+                    "src": "https://simpleicons.org/icons/json.svg"
+                },
+                {
+                    "alt": "xml",
+                    "src": "https://img.icons8.com/material-outlined/512/xml-file.png"
+                },
+                {
+                    "alt": "yaml",
+                    "src": "https://cdn1.iconfinder.com/data/icons/hawcons/32/699266-icon-38-file-yml-1024.png"
+                }
+            ],
             "level": {
                 "en": "Advanced",
                 "cz": "Pokročilý"
-            }
+            },
+            "use": true
         },
         {
             "name": "Selenium",
@@ -153,7 +177,8 @@
             "level": {
                 "en": "Advanced",
                 "cz": "Pokročilý"
-            }
+            },
+            "use": true
         },
         {
             "name": "HTML5",
@@ -166,7 +191,8 @@
             "level": {
                 "en": "Intermediate",
                 "cz": "Středně pokročilý"
-            }
+            },
+            "use": true
         },
         {
             "name": "CSS",
@@ -179,7 +205,8 @@
             "level": {
                 "en": "Intermediate",
                 "cz": "Středně pokročilý"
-            }
+            },
+            "use": true
         },
         {
             "name": "Python",
@@ -192,7 +219,8 @@
             "level": {
                 "en": "Advanced",
                 "cz": "Pokročilý"
-            }
+            },
+            "use": true
         },
         {
             "name": "MySQL",
@@ -203,22 +231,24 @@
                 }
             ],
             "level": {
-                "en": "Intermediate",
-                "cz": "Středně pokročilý"
-            }
+                "en": "Advanced",
+                "cz": "Pokročilý"
+            },
+            "use": true
         },
         {
             "name": "PostgreSQL",
             "images": [
                 {
                     "alt": "PostgreSQL",
-                    "src": ""
+                    "src": "https://simpleicons.org/icons/postgresql.svg"
                 }
             ],
             "level": {
-                "en": "Intermediate",
-                "cz": "Středně pokročilý"
-            }
+                "en": "Advanced",
+                "cz": "Pokročilý"
+            },
+            "use": true
         },
         {
             "name": "Markdown & Pandoc",
@@ -231,10 +261,11 @@
             "level": {
                 "en": "Advanced",
                 "cz": "Pokročilý"
-            }
+            },
+            "use": true
         },
         {
-            "name": "Terminal & Shell scripting (bash, zsh)",
+            "name": "Terminal & Shell scripting (Bash, zsh)",
             "images": [
                 {
                     "alt": "GNU Bash",
@@ -244,7 +275,8 @@
             "level": {
                 "en": "Advanced",
                 "cz": "Pokročilý"
-            }
+            },
+            "use": true
         },
         {
             "name": "LaTeX",
@@ -257,7 +289,8 @@
             "level": {
                 "en": "Advanced",
                 "cz": "Pokročilý"
-            }
+            },
+            "use": true
         },
         {
             "name": "Microsoft Office",
@@ -270,7 +303,8 @@
             "level": {
                 "en": "Advanced",
                 "cz": "Pokročilý"
-            }
+            },
+            "use": true
         },
         {
             "name": "Microsoft Power Automate & Integromat",
@@ -287,7 +321,8 @@
             "level": {
                 "en": "Advanced",
                 "cz": "Pokročilý"
-            }
+            },
+            "use": true
         },
         {
             "name": "Google Cloud Platform (GCP) & Microsoft Azure & AWS",
@@ -301,14 +336,15 @@
                     "src": "https://simpleicons.org/icons/microsoftazure.svg"
                 },
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "Amazon Web Services",
+                    "src": "https://simpleicons.org/icons/amazonaws.svg"
                 }
             ],
             "level": {
                 "en": "Novice, user level",
                 "cz": "Začátečník"
-            }
+            },
+            "use": true
         },
         {
             "name": "Google Analytics & Tag Manager",
@@ -325,7 +361,8 @@
             "level": {
                 "en": "Intermediate",
                 "cz": "Středně pokročilý"
-            }
+            },
+            "use": true
         },
         {
             "name": "Basic Adobe Suite",
@@ -338,15 +375,22 @@
             "level": {
                 "en": "Novice, user level",
                 "cz": "Začátečník"
-            }
+            },
+            "use": true
         },
         {
             "name": "BPMN & UML",
-            "images": [],
+            "images": [
+                {
+                    "alt": "Flow Chart",
+                    "src": "https://img.icons8.com/material-rounded/512/flow-chart.png"
+                }
+            ],
             "level": {
                 "en": "Advanced in BPMN, intermediate in UML",
-                "cz": "Začátečník v BPMN, Středně pokročilý v UML"
-            }
+                "cz": "Pokročilý v BPMN, středně pokročilý v UML"
+            },
+            "use": true
         },
         {
             "name": "MacOS & Windows & Linux",
@@ -367,10 +411,11 @@
             "level": {
                 "en": "Advanced",
                 "cz": "Pokročilý"
-            }
+            },
+            "use": true
         },
         {
-            "name": "Basic understanding of: R & JavaScript & Node.js",
+            "name": "R & JavaScript & Node.js",
             "images": [
                 {
                     "alt": "R",
@@ -388,7 +433,8 @@
             "level": {
                 "en": "Intermediate",
                 "cz": "Středně pokročilý"
-            }
+            },
+            "use": false
         },
         {
             "name": "Gherkin",
@@ -401,20 +447,22 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "JavaScript",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "JavaScript",
+                    "src": "https://simpleicons.org/icons/javascript.svg"
                 }
             ],
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "TypeScript",
@@ -427,7 +475,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "XPath",
@@ -440,7 +489,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Testing: RobotFramework",
@@ -453,7 +503,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Testing: Selenium",
@@ -466,7 +517,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Testing: Cucumber.js",
@@ -479,7 +531,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Testing: PlayWright",
@@ -492,20 +545,22 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Node.js",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "Node.js",
+                    "src": "https://simpleicons.org/icons/node-dot-js.svg"
                 }
             ],
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "GO",
@@ -518,7 +573,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "VMs",
@@ -531,7 +587,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Docker",
@@ -544,7 +601,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Make",
@@ -557,7 +615,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "APIs - SOAP, REST",
@@ -570,7 +629,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Integrations",
@@ -583,7 +643,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "SAP",
@@ -596,7 +657,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "pandas",
@@ -609,7 +671,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "matplotlib",
@@ -622,20 +685,22 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "R",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "R",
+                    "src": "https://simpleicons.org/icons/r.svg"
                 }
             ],
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "NumPy",
@@ -648,7 +713,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "API Testing",
@@ -661,7 +727,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Pen testing - OWASP Zap",
@@ -674,7 +741,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Perf testing - JMeter",
@@ -687,7 +755,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Networking",
@@ -700,7 +769,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Nginx",
@@ -713,7 +783,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Pipelines GH, GL, Jenkins",
@@ -726,7 +797,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Pivot Tables",
@@ -739,7 +811,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Technical and business documentation",
@@ -752,7 +825,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Figma",
@@ -765,7 +839,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "POM",
@@ -778,7 +853,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Unit testing",
@@ -791,7 +867,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Integration testing",
@@ -804,7 +881,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "E2E FE manual testing",
@@ -817,7 +895,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "UAT",
@@ -830,7 +909,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "CRM - SalesForce",
@@ -843,7 +923,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Microsoft Power Apps",
@@ -856,7 +937,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Database management",
@@ -869,7 +951,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Full-Stack Web Development",
@@ -882,7 +965,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Google Ads",
@@ -895,7 +979,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         },
         {
             "name": "Grafana",
@@ -908,7 +993,8 @@
             "level": {
                 "en": "",
                 "cz": ""
-            }
+            },
+            "use": true
         }
     ],
     "Others": [

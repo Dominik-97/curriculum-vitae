@@ -216,6 +216,7 @@ Listed below are my hard skills, my technical knowledge:
 
 <ul>
 {% for skill in site.data.cv_data.HardSkills %}
+{% if skill.use %}
 <li>
   {{ skill.name }}
   {% for image in skill.images %}
@@ -224,6 +225,7 @@ Listed below are my hard skills, my technical knowledge:
   {% endfor %}
   | {{ skill.level.en }}
 </li>
+{% endif %}
 {% endfor %}
 </ul>
 
