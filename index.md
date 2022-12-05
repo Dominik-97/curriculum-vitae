@@ -228,7 +228,6 @@ Listed below are my hard skills, my technical knowledge (Tools & Technologies & 
 </ul>
 
 - Other
-  - BPMN, UML
   - Integrations
   - SAP
   - Process improvement
@@ -243,9 +242,6 @@ Listed below are my hard skills, my technical knowledge (Tools & Technologies & 
   - Networking
   - Nginx
   - Pipelines Gl
-  - Docker
-  - API
-  - VM
   - Product lifecycle management
   - Pivot Tables
   - Shell Scripting
@@ -314,17 +310,6 @@ Listed below are my hard skills, my technical knowledge (Tools & Technologies & 
   - Microsoft Azure
   - Google Analytics
   - Python
-  - ~~Time Management~~
-  - ~~Team Leadership~~
-  - ~~Team Management~~
-  - ~~Teamwork~~
-  - ~~Leadership~~
-  - ~~Speaker~~
-  - ~~Communication~~
-  - English
-  - Spanish
-  - German
-  - Czech
   - Bash
   - HTML
   - Go
