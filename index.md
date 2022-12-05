@@ -211,27 +211,19 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 Listed below are my hard skills, my technical knowledge (Tools & Technologies & Framework & Methodologies..):
 
 <ul>
-{% for toolAndTechnology in site.data.cv_data_yaml.toolsAndTechnologies %}
+{% for skill in site.data.cv_data.HardSkills %}
 <li>
-  {{ toolAndTechnology.name }}
-  {% for image in toolAndTechnology.images %}
+  {{ skill.name }}
+  {% for image in skill.images %}
     <img alt="{{image.alt}}" src="{{image.src}}" width="15px">
     {% unless forloop.last %} & {% endunless %}
   {% endfor %}
-  | {% if page.language == "en" %}
-  {{ toolAndTechnology.level.en }}
-  {% elsif page.language == "cz" %}
-  {{ toolAndTechnology.level.cz }}
-  {% endif %}
+  | {{ toolAndTechnology.level.en }}
 </li>
 {% endfor %}
 </ul>
 
 - Other
-  - Process improvement
-  - Product delivery
-  - Project delivery
-  - Project coordination
   - Process management and improvement
   - Product launch
   - QA Lead

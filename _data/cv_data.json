@@ -1,5 +1,5 @@
 {
-    "toolsAndTechnologies": [
+    "HardSkills": [
         {
             "name": "SharePoint",
             "images": [
@@ -727,6 +727,28 @@
                 "en": "",
                 "cz": ""
             }
+        }
+    ],
+    "Others": [
+        {
+            "name": "Process improvement",
+            "images": [],
+            "level": {}
+        },
+        {
+            "name": "Product delivery",
+            "images": [],
+            "level": {}
+        },
+        {
+            "name": "Project delivery",
+            "images": [],
+            "level": {}
+        },
+        {
+            "name": "Project coordination",
+            "images": [],
+            "level": {}
         }
     ]
 }
