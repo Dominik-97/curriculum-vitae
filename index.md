@@ -37,7 +37,7 @@ Working as an **automation development lead** on various in-house and external p
 
 My goal is to help businesses succeed by driving improvements in both business and technical areas and providing **technical training** to share my knowledge with others. <br>
 
-I am an established professional with more than five years of experience in both startup and corporate environments in the IT space with a proven track record of participating in successful projects throughout their lifecycle, ranging from internal tools to boost productivity to building software with an international presence which keeps helping people worldwide with areas such as **marketing** or **product management** or **telecommunications**. It has been an extremely enriching experience that helped me to understand the current market needs and help businesses to translate them into efficient and successful internal activities from which the company can highly benefit. <br>
+I am an established professional with more than five years of experience in both startup and corporate environments in the IT space with a proven track record of participating in successful projects throughout their lifecycle, ranging from internal tools to boost productivity to building software with an international presence which keeps helping people worldwide with areas such as **marketing** or **product management** or **telecommunications**. It has been an extremely enriching experience that helped me to understand the current market needs and help businesses to translate them into efficient and successful internal activities from which they can highly benefit. <br>
 
 This gave me experiences and skills in various areas to understand how to help companies with various activities ranging from **business process analysis**, **data analysis** and **testing** through **product management** to **product launch** and **life cycle management**. This all helps me to help bring improvements and success to businesses in business and interpersonal ways. <br>
 
@@ -48,7 +48,7 @@ If I am not helping teams with automations I focus on **product management** to 
 - Product management.
 - BE development with overreach to FE.
 - Automations.
-- Testings.
+- Testing.
 - Data analysis, visualization and reporting.
 - Training.
 
@@ -75,7 +75,7 @@ If I am not helping teams with automations I focus on **product management** to 
 - `March 2021 - September 2022`
   - **Juno.one product owner**
     - Driving the implementation of appropriate changes.
-    - Consulting stakeholders, collecting feedback and monitoring the market to create actionable steps for iterative development of in-house tools.
+    - Consulting stakeholders, collecting feedback and monitoring the market to create actionable steps for iterative development of an in-house tool.
     - Managing the development and testing teams.
     - Direct participation in development, testing automation and data management.
     - Managing documentation.
@@ -113,7 +113,7 @@ If I am not helping teams with automations I focus on **product management** to 
   - Data testing, data cleansing and migration tools development.
   - Designing a solution for consolidation and migration of data from local ERP systems to international solutions, designing and reviewing transitional and to-be processes.
   - Responsible for data preparation in the field of legal documents, plant maintenance, human resources and asset accounting.
-  - Leading team.
+  - Leading data delivery team.
 
 `2017-2018` __Komerční banka__ **Customer Service Representative** - Part-time <br>
 
@@ -171,13 +171,13 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 
 ### Domain knowledge
 
-- Listed are the fields I worked in, and I consider myself to grasp a solid understanding of the underlying concepts:
+- Listed are the fields I worked in, and grasped a solid understanding of the underlying concepts:
   - telecommunications,
   - financial products such as investment products, insurance products, loans,
   - human resources,
   - banking,
   - corporate law,
-  - basic knowledge of accounting.
+  - accounting.
 
 ### Soft Skills
 
@@ -193,17 +193,16 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
   - coaching,
   - dedicated,
   - thorough,
-  - presentation,
-  - analytical Skills,
+  - presentation skills,
+  - analytical skills,
   - problem-solving skills,
-  - time Management,
-  - team Management,
+  - time management,
+  - team management,
   - speaker,
   - integrity,
   - dependability,
   - open-mindedness,
   - creativity,
-  - problem-solving,
   - critical thinking,
   - adaptability,
   - organization,
@@ -212,7 +211,7 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 
 ### Tools & Technologies
 
-Listed below is my technical knowledge.
+Listed below is my technical knowledge of tools and technologies, such as programming languages, frameworks and suites.
 
 <br>
 
@@ -233,7 +232,7 @@ Listed below is my technical knowledge.
 
 ### Other hard skills
 
-Listed below are other more specific hard skills (Framework & Methodologies..). Other (Other skills maybe not directly fitting into other categories), other specific skills which might not be directly technology and perhaps are not so broad to be general knowledge can be found here.
+Listed below are other more specific hard skills (Frameworks & Methodologies..) which might not directly fit into the Tools & Technologies area or General knowledge.
 
 <br>
 

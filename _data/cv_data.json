@@ -623,20 +623,6 @@
             "use": true
         },
         {
-            "name": "Integrations",
-            "images": [
-                {
-                    "alt": "API",
-                    "src": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-integration-computer-programming-icons-flaticons-lineal-color-flat-icons-2.png"
-                }
-            ],
-            "level": {
-                "en": "Advanced",
-                "cz": "Pokročilý"
-            },
-            "use": true
-        },
-        {
             "name": "SAP",
             "images": [
                 {
@@ -702,20 +688,6 @@
             "use": true
         },
         {
-            "name": "API Testing",
-            "images": [
-                {
-                    "alt": "API",
-                    "src": "https://img.icons8.com/ios-glyphs/512/api-settings.png"
-                }
-            ],
-            "level": {
-                "en": "Advanced",
-                "cz": "Pokročilý"
-            },
-            "use": true
-        },
-        {
             "name": "Pen testing - OWASP Zap",
             "images": [
                 {
@@ -744,15 +716,6 @@
             "use": true
         },
         {
-            "name": "Networking",
-            "images": [],
-            "level": {
-                "en": "Beginner",
-                "cz": "Začátečník"
-            },
-            "use": true
-        },
-        {
             "name": "NGINX",
             "images": [
                 {
@@ -776,24 +739,6 @@
             "use": true
         },
         {
-            "name": "Pivot Tables",
-            "images": [],
-            "level": {
-                "en": "Advanced",
-                "cz": "Pokročilý"
-            },
-            "use": true
-        },
-        {
-            "name": "Technical and business documentation",
-            "images": [],
-            "level": {
-                "en": "Advanced",
-                "cz": "Pokročilý"
-            },
-            "use": true
-        },
-        {
             "name": "Figma",
             "images": [
                 {
@@ -808,33 +753,6 @@
             "use": true
         },
         {
-            "name": "POM",
-            "images": [],
-            "level": {
-                "en": "Advanced",
-                "cz": "Pokročilý"
-            },
-            "use": true
-        },
-        {
-            "name": "Unit testing",
-            "images": [],
-            "level": {
-                "en": "Advanced",
-                "cz": "Pokročilý"
-            },
-            "use": true
-        },
-        {
-            "name": "Integration testing",
-            "images": [],
-            "level": {
-                "en": "Intermediate",
-                "cz": "Středně pokročilý"
-            },
-            "use": true
-        },
-        {
             "name": "E2E FE manual testing",
             "images": [],
             "level": {
@@ -842,15 +760,6 @@
                 "cz": "Pokročilý"
             },
             "use": false
-        },
-        {
-            "name": "UAT",
-            "images": [],
-            "level": {
-                "en": "Advanced",
-                "cz": "Pokročilý"
-            },
-            "use": true
         },
         {
             "name": "CRM - SalesForce",
@@ -877,24 +786,6 @@
             "level": {
                 "en": "Advanced",
                 "cz": "Pokročilý"
-            },
-            "use": true
-        },
-        {
-            "name": "Database management",
-            "images": [],
-            "level": {
-                "en": "Advanced",
-                "cz": "Pokročilý"
-            },
-            "use": true
-        },
-        {
-            "name": "Full-Stack Web Development",
-            "images": [],
-            "level": {
-                "en": "Intermediate",
-                "cz": "Středně pokročilý"
             },
             "use": true
         },
@@ -1238,6 +1129,115 @@
             "name": "OOP",
             "images": [],
             "level": {},
+            "use": true
+        },
+        {
+            "name": "Integrations",
+            "images": [
+                {
+                    "alt": "API",
+                    "src": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-integration-computer-programming-icons-flaticons-lineal-color-flat-icons-2.png"
+                }
+            ],
+            "level": {
+                "en": "Advanced",
+                "cz": "Pokročilý"
+            },
+            "use": true
+        },
+        {
+            "name": "API Testing",
+            "images": [
+                {
+                    "alt": "API",
+                    "src": "https://img.icons8.com/ios-glyphs/512/api-settings.png"
+                }
+            ],
+            "level": {
+                "en": "Advanced",
+                "cz": "Pokročilý"
+            },
+            "use": true
+        },
+        {
+            "name": "Networking",
+            "images": [],
+            "level": {
+                "en": "Beginner",
+                "cz": "Začátečník"
+            },
+            "use": true
+        },
+        {
+            "name": "Pivot Tables",
+            "images": [],
+            "level": {
+                "en": "Advanced",
+                "cz": "Pokročilý"
+            },
+            "use": true
+        },
+        {
+            "name": "Technical and business documentation",
+            "images": [],
+            "level": {
+                "en": "Advanced",
+                "cz": "Pokročilý"
+            },
+            "use": true
+        },
+        {
+            "name": "POM",
+            "images": [],
+            "level": {
+                "en": "Advanced",
+                "cz": "Pokročilý"
+            },
+            "use": true
+        },
+        {
+            "name": "Unit testing",
+            "images": [],
+            "level": {
+                "en": "Advanced",
+                "cz": "Pokročilý"
+            },
+            "use": true
+        },
+        {
+            "name": "Integration testing",
+            "images": [],
+            "level": {
+                "en": "Intermediate",
+                "cz": "Středně pokročilý"
+            },
+            "use": true
+        },
+        {
+            "name": "UAT",
+            "images": [],
+            "level": {
+                "en": "Advanced",
+                "cz": "Pokročilý"
+            },
+            "use": true
+        },
+        {
+            "name": "Database management",
+            "images": [],
+            "level": {
+                "en": "Advanced",
+                "cz": "Pokročilý"
+            },
+            "use": true
+        },
+        {
+            "name": "Full-Stack Web Development",
+            "images": [],
+            "level": {
+                "en": "Intermediate",
+                "cz": "Středně pokročilý"
+            },
             "use": true
         }
     ]
