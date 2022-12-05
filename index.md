@@ -164,6 +164,8 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
   - Private law
   - Writing (Profesional)
   - Customer journey
+  - Consulting
+  - Product lifecycle management
 
 ### Domain knowledge
 
@@ -247,24 +249,13 @@ Listed below are other more specific hard skills (Framework & Methodologies..):
 </ul>
 
 - Other (Other skills maybe not directly fitting into other categories)
-  - Consulting
-  - Product lifecycle management
   - Business Strategy
   - Business Development
   - Business Analysis
   - Customer and Stakeholder satisfaction
-  - Analytical Skills
-  - Testing
-  - Test Automation
   - Service delivery
-  - Telecommunications
   - Process management
-  - Communication
-  - Team-oriented
-  - Mentoring
-  - Coaching
   - Error analysis
-  - Product management
   - Product marketing
   - E-commerce
   - Econometrics
@@ -272,16 +263,11 @@ Listed below are other more specific hard skills (Framework & Methodologies..):
   - Web Analytics
   - Video editing
   - Photo editing
-  - PPC
-  - UX
   - Investments
   - Social Networking
   - SaaS
-  - Team leadership
-  - Agile development
   - Product strategy
   - Competiton monitoring
-  - Data analysis
   - Mockup building
 
 
