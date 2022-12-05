@@ -636,6 +636,97 @@
                 "en": "",
                 "cz": ""
             }
+        },
+        {
+            "name": "pandas",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            }
+        },
+        {
+            "name": "matplotlib",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            }
+        },
+        {
+            "name": "R",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            }
+        },
+        {
+            "name": "NumPy",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            }
+        },
+        {
+            "name": "API Testing",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            }
+        },
+        {
+            "name": "Pen testing - OWASP Zap",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            }
+        },
+        {
+            "name": "Perf testing - JMeter",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            }
         }
     ]
 }
