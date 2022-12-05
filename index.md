@@ -269,7 +269,17 @@ If I am not helping the technical teams I am more that happy to jump to business
 
 If I am not coding or bussin (doing business) I love traveling, playing my guitar and taking photos.
 
-I have worked on various projects for the past 5 years, where I built Dockerized full-stack internal and external applications, various automation tools such as custom format parsers for generating Open API specs, deploying applications with regards to semantic versioning and uptodate changelog and much more.
+### Even more
+
+Thank you very much for showing interest and for reading till here.
+
+So here are some more details about what I actually worked on:
+
+<!-- Just to say something about what I actually worked on -->
+
+I have worked on various projects for the past 5 years, where I built Dockerized full-stack internal and external applications for example for information transferring (various messaging and iternal/external newletter apps), various automation tools such as custom format parsers for generating Open API specs, deploying applications with regards to semantic versioning and uptodate changelog and much more.
+
+I have also worked on creating my own frameworks that can be utilized with Cucumber.js and implements POM structure with playwright and very similar framework that can be used with robotframework.
 
 I have also built deployment and testing pipelines utilizing mainly GitLab CI/CD and Jenkins.
 
