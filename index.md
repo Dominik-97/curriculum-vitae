@@ -273,7 +273,7 @@ If I am not working I love traveling, playing my acoustic and electric guitar an
 
 Lets get back to professional stuff now. I realize, that reading succint description of individual projects I worked on and the list of skills which can sometimes be rather arbitrary does not really show the individual projects I worked on in detail, so here is something more about what I did. <br>
 
-I have worked on various projects for the past 5 years, where I built Dockerized full-stack internal and external applications for example for information transferring (various messaging and iternal/external newletter apps with custom backend and frontend), various automation tools such as custom format parsers for generating Open API specs, deploying applications with regards to semantic versioning and auto uptodate changelog, data ETL pipelines and visualizations in Grafana, Power BI or Tableau and much more. <br>
+I have worked on various projects for the past 5 years (in both startup (SMBs) and corporate environments), where I built Dockerized full-stack internal and external applications for example for information transferring (various messaging and iternal/external newletter apps with custom backend and frontend), various automation tools such as custom format parsers for generating Open API specs, deploying applications with regards to semantic versioning and auto uptodate changelog, data ETL pipelines and visualizations in Grafana, Power BI or Tableau and much more. <br>
 
 I have also worked on creating my own frameworks that can be utilized with Cucumber.js and implements POM structure with playwright and very similar framework that can be used with robotframework. <br>
 
@@ -301,6 +301,8 @@ I am a people man, so I love transfering these skill that I have learned over th
 
 
 Liason between stakeholders and developers, translating business needs into comprehensive requirements and transparently managing product backlog and features to bring value to the business.
+
+---
 
 Interested in:
 
