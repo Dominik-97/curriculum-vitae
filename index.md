@@ -223,12 +223,8 @@ Listed below are my hard skills, my technical knowledge (Tools & Technologies & 
 {% endfor %}
 </ul>
 
-- Other
-  - Process management and improvement
-  - Product launch
-  - QA Lead
+- Other (Other skills maybe not directly fitting into other categories)
   - Consulting
-  - Process quality improvements
   - Networking
   - Nginx
   - Pipelines Gl
@@ -250,7 +246,6 @@ Listed below are my hard skills, my technical knowledge (Tools & Technologies & 
   - Integration testing
   - E2E FE manual testing
   - UAT
-  - Project Management
   - CRM
   - Customer and Stakeholder satisfaction
   - Analytical Skills
@@ -273,44 +268,28 @@ Listed below are my hard skills, my technical knowledge (Tools & Technologies & 
   - Adobe software suite
   - Service delivery
   - Telecommunications
-  - Profesionals services
-  - Outsourcing
-  - Global delivery
-  - Managed services
-  - BPO
-  - Project coordinator
   - Process management
   - Communication
   - Team-oriented
   - Mentoring
   - Coaching
-  - Managed security services
   - Error analysis
-  - FCE
   - Full-Stack Web Development
   - Product management
   - Product marketing
-  - Public speaking
-  - FMCG
   - E-commerce
   - Econometrics
-  - Marketing strategy
-  - Marketing research
   - Research
-  - Digital marketing
   - Web Analytics
   - Video editing
   - Photo editing
   - PPC
-  - Email marketing
   - UX
   - Investments
   - Social Networking
   - CRM
   - SaaS
   - Google Analytics
-  - Facebook
-  - Youtube
   - Team leadership
   - Agile development
   - Google Ads
@@ -318,8 +297,6 @@ Listed below are my hard skills, my technical knowledge (Tools & Technologies & 
   - Competiton monitoring
   - Data analysis
   - Microsoft Excel
-  - Copywriting
-  - Pricing and strategy
   - Mockup building
 
 
