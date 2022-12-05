@@ -86,24 +86,13 @@ If I am not helping teams with automations I focus on **product management** to 
         - Deliver high quality automations (especially test automation and data pipelines)
         - Consult on chnages leading to higher satisfaction and effectivness
         - Helping with CI/CD processes
-    - Product delivery, automation, test and data consulting.
+    - Product delivery, automation, test and data management consulting.
     - Driving improvements in automation processes, testing automation, development and data pipelines and visualizations.
+    - Direct participation on BE and FE development
     - Analysing weakspots and providing custom tailored solutions.
     - Writing high quality technical and business documentation as well as participating on creating well managed onboarding process for QA.
-    - Leading and training testing team.
+    - Leading and training testing and development team.
     - Implementing new strategies and processes to boost efficiency and to streamline development.
-
-
-
-- Documentation
-- Leading internal projects (product owner) and managing automation teams as automation lead
-Implementing new strategies and processes.
-- Driving the implementation of appropriate changes.
-- Consulting stakeholders, collecting feedback and monitoring market to create actionable steps for iterative development of an in-house tools.
-- Managing development and testing teams.
-- Direct participation on development, testing automation and data management.
-- Product delivery, automation, test and data consultant.
-- Leading team.
 
 `2018-2021` __Behavee__ **Data & Development Consultant, Reporting Specialist** - Self-employed <br>
 
