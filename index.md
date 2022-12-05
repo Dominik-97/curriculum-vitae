@@ -248,25 +248,10 @@ Listed below are other more specific hard skills (Framework & Methodologies..):
 
 - Other (Other skills maybe not directly fitting into other categories)
   - Consulting
-  - Networking
-  - Nginx
-  - Pipelines Gl
   - Product lifecycle management
-  - Pivot Tables
   - Business Strategy
   - Business Development
   - Business Analysis
-  - technical documentation
-  - photography
-  - music guitar
-  - traveling
-  - JS, TS - Playwright
-  - Cucumber BDD Gherkin
-  - Figma
-  - POM
-  - Data driven testing
-  - Unit testing
-  - Integration testing
   - E2E FE manual testing
   - UAT
   - CRM
@@ -372,6 +357,10 @@ Liason between stakeholders and developers, translating business needs into comp
 Interested in:
 
 - Testing, test automation, honesty, courage, challenges, learning and teaching and writing
+
+- photography
+- music guitar
+- traveling
 
 <!-- ### Footer
 
