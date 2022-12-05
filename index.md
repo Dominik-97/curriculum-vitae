@@ -301,10 +301,8 @@ I value honesty, courage, diligence, learning, teaching and writing. I am always
 
 <!-- ### Footer
 
-Last updated: December 2020 -->
+Last updated: December 2022
 
-<!-- Icons by Flaticon/Shield.io/Simpleicons if not by them, then by
+Icons by Flaticon/Shield.io/Simpleicons if not by them, then by https://icons8.com/icon/55497/rest-api OR found by Google Image Search, licence checked OR used Adobe Icons as part of Creative Cloud.
 
-https://icons8.com/icon/55497/rest-api OR found by Google Image Search, licence checked OR used Adobe Icons as part of Creative Cloud -->
-
-
+-->
