@@ -126,7 +126,6 @@ If I am not helping teams with automations I focus on **product management** to 
 - Planning and organization of public events.
 - Setting up equipment (electrical and other).
 
-
 ## Education
 
 `2017-Present`
@@ -156,6 +155,15 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 - Testing
 - Test automation
 - Professional writing
+- Basic knowledge of UX/UI Design
+- Data management
+- Data analysis
+- Basic knowledge of Marketing
+- Basic knowledge of PPC
+- Leadership
+- Private law
+- Writing (Profesional)
+- Customer journey
 
 ### Domain knowledge
 
@@ -168,17 +176,17 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 
 ### Industry or domain Knowledge
 
-- Financial Analysis & Basic knowledge of accounting
+- ~~Financial Analysis~~ & Basic knowledge of accounting
 - Financial products
-- Product management
-- Test management
-- Testing
-- Test Automation
+- ~~Product management~~
+- ~~Test management~~
+- ~~Testing~~
+- ~~Test Automation~~
 - Telecommunication
-- Professional Writing
-- Marketing
-- PPC
-- Design
+- ~~Professional Writing~~
+- ~~Marketing~~
+- ~~PPC~~
+- ~~Design~~
 - BDD (Gherkin)
 
 
