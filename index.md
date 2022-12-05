@@ -267,7 +267,7 @@ First something briefly about me personally, to break the monotony. I am passion
 
 My life paths have lead me to various positions, but I eventually got to IT which I learned to love. I started as data analyst but I participated on a lot of projects where I focused on both technical and business sides. Eventually I found myself loving automating things and especially tests and data pipelines the most, however I still actively participate on BE and FE development as I found out its a thing I really enjoy. <br>
 
-If I am not helping the technical teams I am more that happy to jump to business and help the project succeed from business side of things. <br>
+If I am not helping the technical teams I am more that happy to jump to business and help the project succeed from business side of things. Because of my experiences in both business and technical teams I can be and effective liason between stakeholders and developers, translating business needs into comprehensive requirements and transparently managing product backlog and features to bring value to the business.<br>
 
 If I am not working I love traveling, playing my acoustic and electric guitar and taking photos. <br>
 
@@ -300,7 +300,6 @@ I am a people man, so I love transfering these skill that I have learned over th
 
 
 
-Liason between stakeholders and developers, translating business needs into comprehensive requirements and transparently managing product backlog and features to bring value to the business.
 
 ---
 
