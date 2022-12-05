@@ -263,9 +263,13 @@ Listed below are other more specific hard skills (Framework & Methodologies..). 
 
 If you read it till here, heres something more about me to keep you going (mostly professional, but I threw some vocation stuff in as well :-) ):
 
-<!-- 
+First something briefly about me personally, to break the monotony. I am passionata musician and photographer who loves law based in Prague, Czech republic, which I am still studying. My life paths have lead me to various positions, but I eventually got to IT which I learned to love. I started as data analyst but I participated on a lot of projects where I focused on both technical and business sides. Eventually I found myself loving automating things and especially tests and data pipelines the most, however I still actively participate on BE and FE development as I found out its a thing I really enjoy.
 
-I have worked on various projects, where I built Dockerized full-stack internal and external applications, various automation tools such as custom format parsers for generating Open API specs, deploying applications with regards to semantic versioning and uptodate changelog and much more.
+If I am not helping the technical teams I am more that happy to jump to business and help the project succeed from business side of things.
+
+If I am not coding or bussin (doing business) I love traveling, playing my guitar and taking photos.
+
+I have worked on various projects for the past 5 years, where I built Dockerized full-stack internal and external applications, various automation tools such as custom format parsers for generating Open API specs, deploying applications with regards to semantic versioning and uptodate changelog and much more.
 
 I have also built deployment and testing pipelines utilizing mainly GitLab CI/CD and Jenkins.
 
