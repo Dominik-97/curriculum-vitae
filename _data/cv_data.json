@@ -1116,6 +1116,126 @@
                 "cz": ""
             },
             "use": true
+        },
+        {
+            "name": "Business Strategy",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Business Development",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Business Analysis",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Customer and Stakeholder satisfaction",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Service delivery",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Process management",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Error analysis",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Product marketing",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "E-commerce",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Econometrics",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Research",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Web Analytics",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Video editing",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Photo editing",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Investments",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Social Networking",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "SaaS",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Product strategy",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Competiton monitoring",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Mockup building",
+            "images": [],
+            "level": {},
+            "use": true
         }
     ]
 }

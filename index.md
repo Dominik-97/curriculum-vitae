@@ -227,7 +227,7 @@ Listed below are my hard skills, my technical knowledge:
 
 ### Other hard skills
 
-Listed below are other more specific hard skills (Framework & Methodologies..):
+Listed below are other more specific hard skills (Framework & Methodologies..). Other (Other skills maybe not directly fitting into other categories), other specific skill which might not be directly technology and maybe is not so broad to be general knowledge can be found here:
 
 <ul>
 {% for skill in site.data.cv_data.Others %}
@@ -247,29 +247,6 @@ Listed below are other more specific hard skills (Framework & Methodologies..):
 {% endif %}
 {% endfor %}
 </ul>
-
-- Other (Other skills maybe not directly fitting into other categories)
-  - Business Strategy
-  - Business Development
-  - Business Analysis
-  - Customer and Stakeholder satisfaction
-  - Service delivery
-  - Process management
-  - Error analysis
-  - Product marketing
-  - E-commerce
-  - Econometrics
-  - Research
-  - Web Analytics
-  - Video editing
-  - Photo editing
-  - Investments
-  - Social Networking
-  - SaaS
-  - Product strategy
-  - Competiton monitoring
-  - Mockup building
-
 
 ## Languages
 
