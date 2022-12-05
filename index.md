@@ -206,9 +206,9 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
   - Willingness to learn
   - Empathy
 
-### Hard Skills
+### Tools & Technologies
 
-Listed below are my hard skills, my technical knowledge (Tools & Technologies & Framework & Methodologies..):
+Listed below are my hard skills, my technical knowledge:
 
 <ul>
 {% for skill in site.data.cv_data.HardSkills %}
@@ -222,6 +222,10 @@ Listed below are my hard skills, my technical knowledge (Tools & Technologies & 
 </li>
 {% endfor %}
 </ul>
+
+### Other hard skills
+
+Listed below are other more specific hard skills (Framework & Methodologies..):
 
 <ul>
 {% for skill in site.data.cv_data.Others %}
@@ -241,8 +245,6 @@ Listed below are my hard skills, my technical knowledge (Tools & Technologies & 
 {% endif %}
 {% endfor %}
 </ul>
-
-### Other hard skills
 
 - Other (Other skills maybe not directly fitting into other categories)
   - Consulting
