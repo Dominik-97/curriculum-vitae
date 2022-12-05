@@ -206,9 +206,9 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
   - Willingness to learn
   - Empathy
 
-### Tools & Technologies
+### Hard Skills
 
-Listed below are my hard skills, my technical knowledge:
+Listed below are my hard skills, my technical knowledge (Tools & Technologies & Framework & Methodologies..):
 
 <ul>
 {% for toolAndTechnology in site.data.cv_data_yaml.toolsAndTechnologies %}
@@ -228,8 +228,6 @@ Listed below are my hard skills, my technical knowledge:
 </ul>
 
 - Other
-  - Agile
-  - Scrum
   - BPMN, UML
   - Integrations
   - SAP
@@ -331,9 +329,6 @@ Listed below are my hard skills, my technical knowledge:
   - HTML
   - Go
   - SQL
-  - Agile
-  - Scrum
-  - Kanban
   - BDD (Gherkin)
   - Database management
   - Adobe software suite

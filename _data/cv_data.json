@@ -571,6 +571,45 @@
                 "en": "",
                 "cz": ""
             }
+        },
+        {
+            "name": "Agile",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            }
+        },
+        {
+            "name": "Scrum",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            }
+        },
+        {
+            "name": "Kanban",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            }
         }
     ]
 }
