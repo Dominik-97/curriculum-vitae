@@ -268,31 +268,31 @@ Listed below are other more specific hard skills (Frameworks & Methodologies..) 
 
 ## Something more
 
-If you read it till here, here's something more about me to keep you going (primarily professional, but I threw some vocational stuff in as well). <br>
+If you read it till here, here's something more about me to keep you going (primarily professional, but I threw some leisure stuff in as well). <br>
 
 First, something brief about me personally to break the monotony. I am passionate musician and photographer who loves the law, which I am still studying. I am currently based in Prague, Czech Republic. <br>
 
 My life paths have led me to various positions, but I eventually got to IT, which I learned to love. I started as a **data analyst**, but I participated in a lot of projects where I focused on both the **technical** and **business** sides. Eventually, I found myself loving **automating** things and especially **tests** and **data pipelines** the most, however I still actively participate in **BE** and **FE** development as I found out it's something I really enjoy. <br>
 
-If I am not helping the technical teams, I am more than happy to jump to **business** and support the project succeed from the business side of things. Because of my experiences in both business and technical teams, I can be an **effective liaison** between stakeholders and developers, translating business needs into comprehensive requirements and transparently managing the product backlog and features to bring value to the business.<br>
+If I am not helping the technical teams, I am more than happy to jump to **business** and help the project succeed from the business side of things. Because of my experiences in both business and technical teams, I can be an **effective liaison** between stakeholders and developers, translating business needs into comprehensive requirements and transparently managing the product backlog and features to bring value to the business.<br>
 
 If I am not working, I love traveling, playing my acoustic and electric guitars and taking photos. <br>
 
-Let's get back to professional stuff now. I realize that reading succinct description of individual projects I worked on and the list of skills, which can sometimes be rather arbitrary, does not really show the individual projects I worked on in detail, so here is something more about what I did. <br>
+Let's get back to vocational stuff now. I realize that reading succinct description of individual projects I worked on and the list of skills, which can sometimes be rather arbitrary, does not really show the individual projects I worked on in detail, so here is something more about what I did. <br>
 
 I have worked on various projects for the past five years (in both startup (SMBs) and corporate environments), where I built Dockerized full-stack internal and external applications, for example, for information transferring (various messaging and internal/external newsletter apps with custom backend and frontend), various automation tools such as custom format parsers for generating Open API specs, deploying applications with regards to semantic versioning and auto up to date changelog, data ETL pipelines and visualizations in Grafana, Power BI or Tableau and much more. <br>
 
-I have also worked on creating my own frameworks that can be utilized with Cucumber.js and implements POM structure with playwright and a very similar framework that can be used with robotframework. <br>
+I have also worked on creating my own framework that can be utilized with Cucumber.js and aims to help with implementing the POM structure with Playwright and a very similar framework that aims to do the same thing but is meant to be used with Robot Framework. <br>
 
 I have also built deployment and testing pipelines utilizing mainly GitLab CI/CD, GitHub and Jenkins to facilitate testing, deployment and various other automatizations to help deliver the product from alpha versions to launch in the EU market to mature products with a huge number of clients worldwide. <br>
 
-My current main focus is to **streamline automation** in general with a specific focus on **automated testing**, where I set the complete testing workflow from business processes to CI/CD pipelines and automated tests implementation and result consumption (reporting, automated ticket workflows etc.). To do this, I can analyze business and QA needs and translate them into comprehensive requirements which can be implemented. Defining new, improved and better workflows for the QA teams and teaching them to the employees/managers to ensure a more efficient and enjoyable way of handling just another day at work goes towards bringing huge value to the business. <br>
+My current main focus is to **streamline automation** in general with a specific focus on **automated testing**, where I set the complete testing workflow from business processes to CI/CD pipelines and automated tests implementation and result consumption (reporting, automated ticket workflows etc.). To do this, I can analyze business and QA needs and translate them into comprehensive requirements which can be implemented. Defining new, improved and better workflows for the QA teams and teaching them to the employees/managers to ensure a more efficient and enjoyable way of handling just another day at work can go a long way towards bringing huge value to the business. <br>
 
 In case your QA is not working as efficiently as it could, or you don't know how to visualize or consume data or automate your data streams or build your internal knowledge base? Does your product suffer from inadequate or inefficient QA processes? Has it impaired or negatively affected your product management and/or launch and delivery? Do you have problems with processes or information pipelines and getting it across various project levels but do not know how to manage all this to release a successful product? There are many cases that can negatively affect your product, and a lot of them can do with QA and processes; there are many scenarios. I can help you solve these problems and help you to manage your product successfully. <br>
 
-And finally, I am a **people person**, so I love transferring these skills that I have learned over the year to other people through **mentoring**, **coaching** and **training**, so the companies can retain the added value I brought in to future to apply the improvements and solve various business and technical problems they might encounter. I love **communication** and **connecting people** to deliver product value. I can always find a solution to a problem, analyze it, propose a solution, implement the solution, implement procesess and write documentation and methodologies. <br>
+And finally, I am a **people person**, so I love transferring these skills that I have learned over the years to other people through **mentoring**, **coaching** and **training**, so the businesses can retain the added value I brought in to apply the improvements and solve various business and technical problems they might encounter in the future. I love **communication** and **connecting people** to deliver product value. I can always find a solution to a problem, analyze it, propose a solution, implement the solution, implement procesess and write documentation and methodologies. <br>
 
-I value honesty, courage, diligence, learning, teaching and writing. I am always open to new challenges.
+I value honesty, courage, diligence, learning, teaching. I am always open to new challenges.
 
 ## Interested in
 
@@ -303,6 +303,7 @@ I value honesty, courage, diligence, learning, teaching and writing. I am always
 - Product management.
 - Consulting and training.
 - Agile practices.
+- Writing.
 
 <!-- ### Footer
 
