@@ -149,63 +149,58 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 
 ### General knowledge
 
-Listed are areas I consider to be my general knowledge, I can apply this knowledge across multiple domains:
-
-- Programming
-- Product management
-- Test management
-- Testing
-- Test automation
-- Professional writing
-- Basic knowledge of UX/UI Design
-- Data management
-- Data analysis
-- Basic knowledge of Marketing
-- Basic knowledge of PPC
-- Private law
-- Writing (Profesional)
-- Customer journey
+- Listed are areas I consider to be my general knowledge, I can apply this knowledge across multiple domains:
+  - Programming
+  - Product management
+  - Test management
+  - Testing
+  - Test automation
+  - Professional writing
+  - Basic knowledge of UX/UI Design
+  - Data management
+  - Data analysis
+  - Basic knowledge of Marketing
+  - Basic knowledge of PPC
+  - Private law
+  - Writing (Profesional)
+  - Customer journey
 
 ### Domain knowledge
 
-Listed are fields I worked in and I consider myselft to grasp solid understanding of the underlying concepts:
-
-- Telecomunications
-- Financial producs such as investment products, insurance products, loans
-- Human resources
-- Banking
-- Corporate law
-- Basic knowledge of accounting
+- Listed are fields I worked in and I consider myselft to grasp solid understanding of the underlying concepts:
+  - Telecomunications
+  - Financial producs such as investment products, insurance products, loans
+  - Human resources
+  - Banking
+  - Corporate law
+  - Basic knowledge of accounting
 
 ### Soft Skills
 
-Lister are, important to say in my opinion, my soft skills, as its easy to say, that some might overlap to hardskills:
-
-- Interpersonal skills
-- Teamwork
-- Communication
-- Collaboration
-- Leadership
-- Knowledge transfer and training
-- Team-oriented
-- Mentoring
-- Coaching
-
-
-- Dedicated
-- Thorough
-- Leadership
-- Training
+- Listed are, important to say in my opinion, my soft skills, as its easy to say, that some might overlap to hardskills:
+  - Interpersonal skills
+  - Teamwork
+  - Communication
+  - Collaboration
+  - Leadership
+  - Knowledge transfer and training
+  - Team-oriented
+  - Mentoring
+  - Coaching
+  - Dedicated
+  - Thorough
+  - Leadership
+  - Training
   - Presentation
   - Team-oriented
   - Mentoring
   - Coaching
-  Analytical Skills
-  Problemsolving skills
-  Time Management
+  - Analytical Skills
+  - Problemsolving skills
+  - Time Management
   - Team Leadership
   - Team Management
-  Teamwork
+  - Teamwork
   - Leadership
   - Speaker
   - Communication
