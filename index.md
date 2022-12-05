@@ -35,22 +35,22 @@ language: en
 
 Working as **automation development lead** on various in-house and external projects at Denevy, mostly focusing on **test automation**, **process automation** and **reporting**. <br>
 
-My goal is to help businesses suceed by driving improvements in both business and technical areas and providing technical training to share my knowledge with others. <br>
+My goal is to help businesses suceed by driving improvements in both business and technical areas and providing **technical training** to share my knowledge with others. <br>
 
-I am an estabilished professional with more than 5 years of experience in both startup and corporate environment in IT space with proven track record of participating on sucessfull projects throughuut its lifecycle, ranging from internal tools to boost productivity to building software with international presence which keep helping people worldwide with areas such as marketing or product management or telecomunications. It has been extremely enriching experience which helped me to understand the current market needs and help businesses to translate them into efficient and succesfull internal activities from which the company can higly benefit. <br>
+I am an estabilished professional with more than 5 years of experience in both startup and corporate environment in IT space with proven track record of participating on sucessfull projects throughuut its lifecycle, ranging from internal tools to boost productivity to building software with international presence which keep helping people worldwide with areas such as **marketing** or **product management** or **telecomunications**. It has been extremely enriching experience which helped me to understand the current market needs and help businesses to translate them into efficient and succesfull internal activities from which the company can higly benefit. <br>
 
-This gave me experiences and skills in various areas to understand how to help companies with various activities ranging from business process analysis, data analysis, testing through product management to product launch and life cycle management. This all helps me to help bring improvements and success to businesses in business and inter personal way. <br>
+This gave me experiences and skills in various areas to understand how to help companies with various activities ranging from **business process analysis**, **data analysis**, **testing** through **product management** to **product launch** and **life cycle management**. This all helps me to help bring improvements and success to businesses in business and inter personal way. <br>
 
 If I am not helping teams with automations I focus on **product management** to help streamline the other essential parts of product lifecycle and to help the business to get the maximum out of the project by delivering high quality product and boosting team satisfaction.
 
 ### Specialized in
 
-- Product management
-- BE development with overreach to FE
-- Automations
-- Testings
-- Data analysis, visualization and reporing
-- Training
+- Product management.
+- BE development with overreach to FE.
+- Automations.
+- Testings.
+- Data analysis, visualization and reporing.
+- Training.
 
 ## Work experience
 
@@ -83,14 +83,14 @@ If I am not helping teams with automations I focus on **product management** to 
 
 - `March 2021 - Present`
   - **Development and Testing consultant**
-    - Working on various in-house and external projects for companies like Renomia, Asseco and Packeta
+    - Working on various in-house and external projects for companies like Renomia, Asseco and Packeta.
       - Leading the way to:
-        - Deliver high quality automations (especially test automation and data pipelines)
-        - Consult on chnages leading to higher satisfaction and effectivness
-        - Helping with CI/CD processes
+        - deliver high quality automations (especially test automation and data pipelines),
+        - consult on chnages leading to higher satisfaction and effectivness,
+        - helping with CI/CD processes.
     - Product delivery, automation, test and data management consulting.
     - Driving improvements in automation processes, testing automation, development and data pipelines and visualizations.
-    - Direct participation on BE and FE development
+    - Direct participation on BE and FE development.
     - Analysing weakspots and providing custom tailored solutions.
     - Writing high quality technical and business documentation as well as participating on creating well managed onboarding process for QA.
     - Leading and training testing and development team.
@@ -108,7 +108,7 @@ If I am not helping teams with automations I focus on **product management** to 
 
 `2018-2020` __T-Mobile__ **Data & Development Consultant** - Self-employed <br>
 
-- Participating on the T-Mobile Czech Republic project - Data migration, testing, reporting
+- Participating on the T-Mobile Czech Republic project - Data migration, testing, reporting.
   - Support for migration activities during the transition period, preparation and data consolidation, data testing, reporting, handover of prepared data.
   - Data testing, data cleansing and migration tools development.
   - Designing a solution for consolidation and migration of data from local ERP systems to international solutions, designing and reviewing of transitional and to-be processes.
@@ -152,67 +152,69 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 ### General knowledge
 
 - Listed are areas I consider to be my general knowledge, I can apply this knowledge across multiple domains:
-  - Programming
-  - Product management
-  - Test management
-  - Testing
-  - Test automation
-  - Professional writing
-  - Basic knowledge of UX/UI Design
-  - Data management
-  - Data analysis
-  - Basic knowledge of Marketing
-  - Basic knowledge of PPC
-  - Private law
-  - Writing (Profesional)
-  - Customer journey
-  - Consulting
-  - Product lifecycle management
+  - programming,
+  - product management,
+  - test management,
+  - testing,
+  - test automation,
+  - professional writing,
+  - basic knowledge of UX/UI Design,
+  - data management,
+  - data analysis,
+  - basic knowledge of Marketing,
+  - basic knowledge of PPC,
+  - private law,
+  - writing (Profesional),
+  - customer journey,
+  - consulting,
+  - product lifecycle management.
 
 ### Domain knowledge
 
 - Listed are fields I worked in and I consider myselft to grasp solid understanding of the underlying concepts:
-  - Telecomunications
-  - Financial producs such as investment products, insurance products, loans
-  - Human resources
-  - Banking
-  - Corporate law
-  - Basic knowledge of accounting
+  - telecomunications,
+  - financial producs such as investment products, insurance products, loans,
+  - human resources,
+  - banking,
+  - corporate law,
+  - basic knowledge of accounting.
 
 ### Soft Skills
 
 - Listed are, important to say in my opinion, my soft skills, as its easy to say, that some might overlap to hardskills:
-  - Interpersonal skills
-  - Teamwork
-  - Effective communication
-  - Collaboration
-  - Leadership
-  - Knowledge transfer and training
-  - Team-oriented
-  - Mentoring
-  - Coaching
-  - Dedicated
-  - Thorough
-  - Presentation
-  - Analytical Skills
-  - Problemsolving skills
-  - Time Management
-  - Team Management
-  - Speaker
-  - Integrity
-  - Dependability
-  - Open-mindness
-  - Creativity
-  - Problem-solving
-  - Crithical thinking
-  - Adaptability
-  - Organization
-  - Willingness to learn
-  - Empathy
+  - interpersonal skills,
+  - teamwork,
+  - effective communication,
+  - collaboration,
+  - leadership,
+  - knowledge transfer and training,
+  - team-oriented,
+  - mentoring,
+  - coaching,
+  - dedicated,
+  - thorough,
+  - presentation,
+  - analytical Skills,
+  - problemsolving skills,
+  - time Management,
+  - team Management,
+  - speaker,
+  - integrity,
+  - dependability,
+  - open-mindness,
+  - creativity,
+  - problem-solving,
+  - crithical thinking,
+  - adaptability,
+  - organization,
+  - willingness to learn,
+  - empathy.
 
 ### Tools & Technologies
 
-Listed below are my hard skills, my technical knowledge:
+Listed below are my hard skills, my technical knowledge.
+
+<br>
 
 <ul>
 {% for skill in site.data.cv_data.HardSkills %}
@@ -231,7 +233,9 @@ Listed below are my hard skills, my technical knowledge:
 
 ### Other hard skills
 
-Listed below are other more specific hard skills (Framework & Methodologies..). Other (Other skills maybe not directly fitting into other categories), other specific skill which might not be directly technology and maybe is not so broad to be general knowledge can be found here:
+Listed below are other more specific hard skills (Framework & Methodologies..). Other (Other skills maybe not directly fitting into other categories), other specific skill which might not be directly technology and maybe is not so broad to be general knowledge can be found here.
+
+<br>
 
 <ul>
 {% for skill in site.data.cv_data.Others %}
@@ -293,13 +297,13 @@ I value honesty, courage, diligence, learning, teaching and writing. I am always
 
 ## Interested in
 
-- Testing, 
-- test automation (E2E FE, Unit, Integration),
-- (big) data and data compliance, reporting, ETL pipelines and visualization,
-- backend development (with overreach to frontend),
-- product management,
-- consulting and training,
-- agile practices.
+- Testing.
+- Test automation (E2E FE, Unit, Integration).
+- (Big) Data and data compliance, reporting, ETL pipelines and visualization.
+- Backend development (with overreach to frontend).
+- Product management.
+- Consulting and training.
+- Agile practices.
 
 <!-- ### Footer
 
