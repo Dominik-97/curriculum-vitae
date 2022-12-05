@@ -281,6 +281,8 @@ I have also built deployment and testing pipelines utilizing mainly GitLab CI/CD
 
 My current main focus is to streamline automation in general with specific focus to automated testing, where I set the complete testing workflow from business processes to CI/CD pipelines and automated tests implementation and result consumption (reporting, automated ticket workflows etc.). To do this I can analyze business and QA needs and translate them into comprehensive requirements which can be implemented. Defining new, improved and better workflows for the QA teams and teaching them to the employees/managers to ensure more efficient and enjoyable way of handling just another day at work goes towards bringing huge value to the business. <br>
 
+In case your QA is not working as efficiently as it could, or you dont know how to visualize or consume data or automate your data streams or build your internal knowledge base? Does your product suffers from inadequte or inefficient QA processes? Has it impaired or negatively affected your product management and/or launch and delivery? Do you have problems with processes or information pipelines and getting it across various project levels but you do not know how to manage all this to release a sucesful product? There are many cases which can negatively affect your product, and a lot of it can do with QA and processes, there are many scenarios. I can help you solve these problems and help you to manage your product sucesfully. <br>
+
 ---
 
 
@@ -292,7 +294,7 @@ I have more than 5 years in both startup (SMBs) and corporate environment experi
 
 I have experiences from smaller companies all tha way to corporates like T-Mobile, Asseco, Renomia and Packeta. It has been extremely enriching experience which helped me to understand the current market needs and help businesses to translate them into efficient and succesfull internal activities from which the company can higly benefit.
 
-The main areas I currently tend to focus on are automated testing, automation in general and technical training and data ETL and visualizations. In case your QA is not working as efficiently as it could, or you dont know how to visualize or consume data or automate your data streams or build your internal knowledge base? Does your product suffers from inadequte or inefficient QA processes? Has it impaired or negatively affected your product management and/or launch and delivery? Do you have problems with processes or information pipelines and getting it across various project levels but you do not know how to manage all this to release a sucesful product? There are many cases which can negatively affect your product, and a lot of it can do with QA and processes, there are many scenarios. I can help you solve these problems and help you to manage your product sucesfully.
+ 
 
 I am a people man, so I love transfering these skill that I have learned over the year to other people through mentoring, coaching and training, so the companies can retain the added value i brought in to future to apply the improvements and solve various business and technical problems they might encounter. I love communication and connecting people, to deliver the product value. I can always find a solution to a problem, analyse it, propose solution, implement solution, implement procesess and write documentation and methodologies.
 
