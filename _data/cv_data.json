@@ -139,7 +139,7 @@
                 }
             ],
             "level": {
-                "en": "Advances",
+                "en": "Advanced",
                 "cz": "Pokročilý"
             },
             "use": true
@@ -440,13 +440,13 @@
             "name": "Gherkin",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "Cucumber",
+                    "src": "https://simpleicons.org/icons/cucumber.svg"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         },
@@ -459,8 +459,8 @@
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         },
@@ -468,41 +468,36 @@
             "name": "TypeScript",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "TypeScript",
+                    "src": "https://simpleicons.org/icons/typescript.svg"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         },
         {
             "name": "XPath",
-            "images": [
-                {
-                    "alt": "",
-                    "src": ""
-                }
-            ],
+            "images": [],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         },
         {
-            "name": "Testing: RobotFramework",
+            "name": "Testing: Robot Framework",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "RobotFramework",
+                    "src": "https://simpleicons.org/icons/robotframework.svg"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         },
@@ -510,13 +505,13 @@
             "name": "Testing: Selenium",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "Selenium",
+                    "src": "https://simpleicons.org/icons/selenium.svg"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         },
@@ -524,27 +519,27 @@
             "name": "Testing: Cucumber.js",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "Cucumber",
+                    "src": "https://simpleicons.org/icons/cucumber.svg"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         },
         {
-            "name": "Testing: PlayWright",
+            "name": "Testing: Playwright",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "Playwright",
+                    "src": "https://simpleicons.org/icons/playwright.svg"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         },
@@ -553,68 +548,63 @@
             "images": [
                 {
                     "alt": "Node.js",
-                    "src": "https://simpleicons.org/icons/node-dot-js.svg"
+                    "src": "https://simpleicons.org/icons/nodedotjs.svg"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         },
         {
-            "name": "GO",
+            "name": "Go Programming Language",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "go",
+                    "src": "https://simpleicons.org/icons/go.svg"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Intermediate",
+                "cz": "Středně pokročilý"
             },
             "use": true
         },
         {
-            "name": "VMs",
+            "name": "VMs - VirtualBox",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "Oracle VirtualBox",
+                    "src": "https://simpleicons.org/icons/virtualbox.svg"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Beginner, user lever",
+                "cz": "Začátečník"
             },
             "use": true
         },
         {
-            "name": "Docker",
+            "name": "Docker and Docker Compose",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "Docker",
+                    "src": "https://simpleicons.org/icons/docker.svg"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         },
         {
             "name": "Make",
-            "images": [
-                {
-                    "alt": "",
-                    "src": ""
-                }
-            ],
+            "images": [],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Intermediate",
+                "cz": "Středně pokročilý"
             },
             "use": true
         },
@@ -622,13 +612,13 @@
             "name": "APIs - SOAP, REST",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "API",
+                    "src": "https://img.icons8.com/ios-glyphs/512/api-settings.png"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced in REST, intermediate in SOAP",
+                "cz": "Pokročilý v REST API, středně pokročilý v SOAP API"
             },
             "use": true
         },
@@ -636,13 +626,13 @@
             "name": "Integrations",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "API",
+                    "src": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-integration-computer-programming-icons-flaticons-lineal-color-flat-icons-2.png"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         },
@@ -650,41 +640,36 @@
             "name": "SAP",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "SAP",
+                    "src": "https://simpleicons.org/icons/sap.svg"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Intermediate",
+                "cz": "Středně pokročilý"
             },
             "use": true
         },
         {
-            "name": "pandas",
+            "name": "Pandas",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "Pandas",
+                    "src": "https://simpleicons.org/icons/pandas.svg"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         },
         {
-            "name": "matplotlib",
-            "images": [
-                {
-                    "alt": "",
-                    "src": ""
-                }
-            ],
+            "name": "Matplotlib",
+            "images": [],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Intermediate",
+                "cz": "Středně pokročilý"
             },
             "use": true
         },
@@ -697,8 +682,8 @@
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Beginner, user lever",
+                "cz": "Začátečník"
             },
             "use": true
         },
@@ -706,13 +691,13 @@
             "name": "NumPy",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "NumPy",
+                    "src": "https://simpleicons.org/icons/numpy.svg"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Intermediate",
+                "cz": "Středně pokročilý"
             },
             "use": true
         },
@@ -720,13 +705,13 @@
             "name": "API Testing",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "API",
+                    "src": "https://img.icons8.com/ios-glyphs/512/api-settings.png"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         },
@@ -734,13 +719,13 @@
             "name": "Pen testing - OWASP Zap",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "Owasp",
+                    "src": "https://simpleicons.org/icons/owasp.svg"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Intermediate",
+                "cz": "Středně pokročilý"
             },
             "use": true
         },
@@ -748,83 +733,63 @@
             "name": "Perf testing - JMeter",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "JMeter",
+                    "src": "https://simpleicons.org/icons/apachejmeter.svg"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Intermediate",
+                "cz": "Středně pokročilý"
             },
             "use": true
         },
         {
             "name": "Networking",
-            "images": [
-                {
-                    "alt": "",
-                    "src": ""
-                }
-            ],
+            "images": [],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Beginner",
+                "cz": "Začátečník"
             },
             "use": true
         },
         {
-            "name": "Nginx",
+            "name": "NGINX",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "NGINX",
+                    "src": "https://simpleicons.org/icons/nginx.svg"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Beginner",
+                "cz": "Začátečník"
             },
             "use": true
         },
         {
-            "name": "Pipelines GH, GL, Jenkins",
-            "images": [
-                {
-                    "alt": "",
-                    "src": ""
-                }
-            ],
+            "name": "Pipelines GitHub, GitLab, Jenkins",
+            "images": [],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         },
         {
             "name": "Pivot Tables",
-            "images": [
-                {
-                    "alt": "",
-                    "src": ""
-                }
-            ],
+            "images": [],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         },
         {
             "name": "Technical and business documentation",
-            "images": [
-                {
-                    "alt": "",
-                    "src": ""
-                }
-            ],
+            "images": [],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         },
@@ -832,83 +797,58 @@
             "name": "Figma",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "Figma",
+                    "src": "https://simpleicons.org/icons/figma.svg"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Beginner",
+                "cz": "Začátečník"
             },
             "use": true
         },
         {
             "name": "POM",
-            "images": [
-                {
-                    "alt": "",
-                    "src": ""
-                }
-            ],
+            "images": [],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         },
         {
             "name": "Unit testing",
-            "images": [
-                {
-                    "alt": "",
-                    "src": ""
-                }
-            ],
+            "images": [],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         },
         {
             "name": "Integration testing",
-            "images": [
-                {
-                    "alt": "",
-                    "src": ""
-                }
-            ],
+            "images": [],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Intermediate",
+                "cz": "Středně pokročilý"
             },
             "use": true
         },
         {
             "name": "E2E FE manual testing",
-            "images": [
-                {
-                    "alt": "",
-                    "src": ""
-                }
-            ],
+            "images": [],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
-            "use": true
+            "use": false
         },
         {
             "name": "UAT",
-            "images": [
-                {
-                    "alt": "",
-                    "src": ""
-                }
-            ],
+            "images": [],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         },
