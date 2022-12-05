@@ -70,6 +70,7 @@ Implementing new strategies and processes.
 - Managing development and testing teams.
 - Direct participation on development, testing automation and data management.
 - Product delivery, automation, test and data consultant.
+- Leading team.
 
 `2018-2021` __Behavee__ **Data & Development Consultant, Reporting Specialist** - Self-employed <br>
 
@@ -88,6 +89,7 @@ Implementing new strategies and processes.
   - Data testing, data cleansing and migration tools development.
   - Designing a solution for consolidation and migration of data from local ERP systems to international solutions, designing and reviewing of transitional and to-be processes.
   - Responsibility for data preparation in the field of legal documents, plant maintenance, human resources and asset accounting.
+  - Leading team.
 
 `2017-2018` __Komerční banka__ **Customer Service Representative** - Part-time <br>
 
