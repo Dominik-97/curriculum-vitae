@@ -30,7 +30,7 @@ time, mark, audio, video {
 
 .fixed{
   overflow: hidden;
-  position: fixed; /* Set the navbar to fixed position */
+  position: sticky; /* Set the navbar to fixed position */
   background:white;
   z-index: 99;
   opacity: 1;

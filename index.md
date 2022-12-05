@@ -27,7 +27,7 @@ language: en
 <div class="picture-borders picture-itself"></div>
 </div>
 
-<hr style="margin-top: 80px;">
+<hr style="margin-top: 20px;">
 
 </div>
 
@@ -41,19 +41,12 @@ I am an estabilished professional with more than 5 years of experience in both s
 
 ### Specialized in
 
-I have worked on various projects, where I built Dockerized full-stack internal and external applications, various automation tools such as custom format parsers for generating Open API specs, deploying applications with regards to semantic versioning and uptodate changelog and much more.
-
-I have also built deployment and testing pipelines utilizing mainly GitLab CI/CD and Jenkins.
-
-My main focus is to streamline automation in general with specific focus to automated testing, where I set the complete testing workflow from business processes to CI/CD pipelines and automated tests implementation and result consumption (reporting, automated ticket workflows etc.).
-
-
-deployment pipelines, testing pipelines and 
-
-Automation development in general, I have worked 
-
-Data analysis and visualization, development, product management, testing and training.
-
+- Product management
+- BE development with overreach to FE
+- Automations
+- Testings
+- Data analysis, visualization and reporing
+- Training
 
 ## Work experience
 `2021-Present` __Denevy__ **Development and Testing consultant** - Full-time <br>
@@ -288,7 +281,22 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 
 If you read it till here, heres something more about me to keep you going (mostly professional, but I threw some vocation stuff in as well :-) ):
 
-<!-- From alpha versions to launch in the EU markets to a mature products with huge numbers of clients.
+<!-- 
+
+I have worked on various projects, where I built Dockerized full-stack internal and external applications, various automation tools such as custom format parsers for generating Open API specs, deploying applications with regards to semantic versioning and uptodate changelog and much more.
+
+I have also built deployment and testing pipelines utilizing mainly GitLab CI/CD and Jenkins.
+
+My main focus is to streamline automation in general with specific focus to automated testing, where I set the complete testing workflow from business processes to CI/CD pipelines and automated tests implementation and result consumption (reporting, automated ticket workflows etc.).
+
+
+deployment pipelines, testing pipelines and 
+
+Automation development in general, I have worked 
+
+Data analysis and visualization, development, product management, testing and training.
+
+From alpha versions to launch in the EU markets to a mature products with huge numbers of clients.
 
 Focusing on big data, backend development (with overreach to frontend), product management, automated testing (E2E FE, Unit, Integration) and varisous consulting and training regarding agile practices, development, testing, data and data compliance and reporting (ETL) and visualize.
 
