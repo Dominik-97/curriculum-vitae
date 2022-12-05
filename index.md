@@ -49,7 +49,34 @@ I am an estabilished professional with more than 5 years of experience in both s
 - Training
 
 ## Work experience
+
+`August 2022 - Present` __Asseco Central Europe__ - Contractual <br>
+
+- Building test automation pipelines for financial products platforms.
+- Defining automated test scenarios.
+- Implementing automated tests scenarios, ETL pipelines and test execution result visualizations.
+
+`June 2022 - Present` __Renomia__ **Automation Lead** - Contractual <br>
+
+- Working on Test Automation project in Insurance field.
+- Analyzing test automation proceses and defining technical requirements.
+- Implementing automated tests scenarios, ETL pipelines and test execution result visualizations.
+
 `2021-Present` __Denevy__ **Development and Testing consultant/Product owner** - Full-time <br>
+
+- March 2021 - September 2022
+  - Juno.one product owner
+    - Driving the implementation of appropriate changes.
+    - Consulting stakeholders, collecting feedback and monitoring market to create actionable steps for iterative development of an in-house tools.
+    - Managing development and testing teams.
+    - Direct participation on development, testing automation and data management.
+    - Managing documentation.
+    - Managing product roadmap.
+- March 2021 - Present
+  - Development and Testing consultant
+    - Product delivery, automation, test and data consulting.
+    - Leading and training testing team.
+    - Implementing new strategies and processes to boost efficiency and to streamline development.
 
 - mar 2021 - sep 2022 - Owner Juno
 - jun 2022 - present - Renomia - Automation Lead
