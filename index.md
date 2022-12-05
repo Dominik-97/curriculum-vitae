@@ -154,6 +154,8 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 - Listed are areas I consider to be my general knowledge; I can apply this knowledge across multiple domains:
   - programming,
   - product management,
+  - project management,
+  - process management,
   - test management,
   - testing,
   - test automation,
@@ -164,7 +166,6 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
   - basic understanding of Marketing,
   - basic knowledge of PPC,
   - private law,
-  - writing (Profesional),
   - customer journey,
   - consulting,
   - product lifecycle management.
@@ -298,12 +299,12 @@ I value honesty, courage, diligence, learning, teaching. I am always open to new
 
 - Testing.
 - Test automation (E2E FE, Unit, Integration).
+- Writing.
 - (Big) Data and data compliance, reporting, ETL pipelines and visualization.
 - Backend development (with overreach to frontend).
 - Product management.
 - Consulting and training.
 - Agile practices.
-- Writing.
 
 <!-- ### Footer
 

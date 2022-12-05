@@ -901,7 +901,7 @@
             "name": "BPO",
             "images": [],
             "level": {},
-            "use": true
+            "use": false
         },
         {
             "name": "Project Coordinator",
@@ -919,7 +919,7 @@
             "name": "FCE",
             "images": [],
             "level": {},
-            "use": true
+            "use": false
         },
         {
             "name": "Public speaking",
@@ -931,7 +931,7 @@
             "name": "FMCG",
             "images": [],
             "level": {},
-            "use": true
+            "use": false
         },
         {
             "name": "Marketing strategy",
@@ -961,13 +961,13 @@
             "name": "Facebook",
             "images": [],
             "level": {},
-            "use": true
+            "use": false
         },
         {
             "name": "Youtube",
             "images": [],
             "level": {},
-            "use": true
+            "use": false
         },
         {
             "name": "Copywriting",
