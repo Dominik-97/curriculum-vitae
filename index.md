@@ -238,10 +238,6 @@ Listed below are my hard skills, my technical knowledge:
 {% endfor %}
 </ul>
 
-- Backend
-  - Node.js
-  - Python
-  - Go
 - Other technologies
   - MacOS
   - Linux
