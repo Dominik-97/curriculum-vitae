@@ -372,7 +372,63 @@ Listed below are my hard skills, my technical knowledge:
   - BDD (Gherkin)
   - Database management
   - Adobe software suite
-
+  - Process improvements
+  - Service delivery
+  - Telecommunications
+  - Profesionals services
+  - Project delivery
+  - Outsourcing
+  - Global delivery
+  - Managed services
+  - BPO
+  - Project coordinator
+  - Process management
+  - Product launch
+  - COnsulting
+  - Communication
+  - Team-oriented
+  - Mentoring
+  - Coaching
+  - Process quality improvements
+  - Managed security services
+  - Error analysis
+  - FCE
+  - Full-Stack Web Development
+  - Product management
+  - Product marketing
+  - Public speaking
+  - Consulting
+  - Project management
+  - FMCG
+  - E-commerce
+  - Econometrics
+  - Marketing strategy
+  - Marketing research
+  - Research
+  - Digital marketing
+  - Web Analytics
+  - Video editing
+  - Photo editing
+  - PPC
+  - Email marketing
+  - UX
+  - Investments
+  - Social Networking
+  - CRM
+  - SaaS
+  - Google Analytics
+  - Facebook
+  - Youtube
+  - Team leadership
+  - Agile development
+  - Google Ads
+  - Product strategy
+  - Competiton monitoring
+  - Data analysis
+  - Microsoft Excel
+  - Copywriting
+  - Pricing and strategy
+  - Mockup building
 
 
 ## Languages
