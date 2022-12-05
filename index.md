@@ -177,12 +177,9 @@ Listed are fields I worked in and I consider myselft to grasp solid understandin
 - Corporate law
 - Basic knowledge of accounting
 
-### Industry or domain Knowledge
-
-
-
-
 ### Soft Skills
+
+Lister are, important to say in my opinion, my soft skills, as its easy to say, that some might overlap to hardskills:
 
 - Interpersonal skills
 - Teamwork
@@ -215,6 +212,8 @@ Listed are fields I worked in and I consider myselft to grasp solid understandin
 
 
 ### Tools & Technologies
+
+Listed below are my hard skills, my technical knowledge:
 
 <ul>
 {% for toolAndTechnology in site.data.cv_data_yaml.toolsAndTechnologies %}
