@@ -573,45 +573,6 @@
             }
         },
         {
-            "name": "Agile",
-            "images": [
-                {
-                    "alt": "",
-                    "src": ""
-                }
-            ],
-            "level": {
-                "en": "",
-                "cz": ""
-            }
-        },
-        {
-            "name": "Scrum",
-            "images": [
-                {
-                    "alt": "",
-                    "src": ""
-                }
-            ],
-            "level": {
-                "en": "",
-                "cz": ""
-            }
-        },
-        {
-            "name": "Kanban",
-            "images": [
-                {
-                    "alt": "",
-                    "src": ""
-                }
-            ],
-            "level": {
-                "en": "",
-                "cz": ""
-            }
-        },
-        {
             "name": "Integrations",
             "images": [
                 {
@@ -733,137 +694,206 @@
         {
             "name": "Process improvement",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Product delivery",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Project delivery",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Project coordination",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Process management and improvement",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Product launch",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "QA Lead",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Process quality improvements",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Project Management",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Profesionals services",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Outsourcing",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Global delivery",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Managed services",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "BPO",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Project coordinator",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Managed security services",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "FCE",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Public speaking",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "FMCG",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Marketing strategy",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Marketing research",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Digital marketing",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Email marketing",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Facebook",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Youtube",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Copywriting",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
         },
         {
             "name": "Pricing and strategy",
             "images": [],
-            "level": {}
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Agile",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            },
+            "use": true
+        },
+        {
+            "name": "Scrum",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            },
+            "use": true
+        },
+        {
+            "name": "Kanban",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            },
+            "use": true
         }
     ]
 }

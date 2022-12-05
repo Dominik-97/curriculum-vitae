@@ -218,10 +218,31 @@ Listed below are my hard skills, my technical knowledge (Tools & Technologies & 
     <img alt="{{image.alt}}" src="{{image.src}}" width="15px">
     {% unless forloop.last %} & {% endunless %}
   {% endfor %}
-  | {{ toolAndTechnology.level.en }}
+  | {{ skill.level.en }}
 </li>
 {% endfor %}
 </ul>
+
+<ul>
+{% for skill in site.data.cv_data.Others %}
+{% if skill.use %}
+<li>
+  {{ skill.name }}
+  {% if skill.images.lenght > 0 %}
+  {% for image in skill.images %}
+    <img alt="{{image.alt}}" src="{{image.src}}" width="15px">
+    {% unless forloop.last %} & {% endunless %}
+  {% endfor %}
+  {% endif %}
+  {% if skill.level.en %}
+  | {{ skill.level.en }}
+  {% endif %}
+</li>
+{% endif %}
+{% endfor %}
+</ul>
+
+### Other hard skills
 
 - Other (Other skills maybe not directly fitting into other categories)
   - Consulting
