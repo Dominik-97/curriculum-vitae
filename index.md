@@ -39,6 +39,8 @@ My goal is to help businesses suceed by driving improvements in both business an
 
 I am an estabilished professional with more than 5 years of experience in both startup and corporate environment in IT space with proven track record of participating on sucessfull projects throughuut its lifecycle, ranging from internal tools to boost productivity to building software with international presence which keep helping people worldwide with areas such as marketing or product management or telecomunications. <br>
 
+This gave me experiences and skills in various areas to understand how to help companies with various activities ranging from business process analysis, data analysis, testing through product management to product launch and life cycle management. This all helps me to help bring improvements and success to businesses in business and inter personal way. <br>
+
 If I am not helping teams with automations I focus on **product management** to help streamline the other essential parts of product lifecycle and to help the business to get the maximum out of the project by delivering high quality product and boosting team satisfaction.
 
 ### Specialized in
@@ -285,13 +287,6 @@ In case your QA is not working as efficiently as it could, or you dont know how 
 
 ---
 
-
-
-
-Focusing on big data, backend development (with overreach to frontend), product management, automated testing (E2E FE, Unit, Integration) and varisous consulting and training regarding agile practices, development, testing, data and data compliance and reporting (ETL) and visualize.
-
-I have more than 5 years in both startup (SMBs) and corporate environment experience. This gave me experiences and skills in various areas to understand how to help companies with various activities ranging from business process analysis, data analysis, testing through product management to product launch and life cycle management. This all helps me to help bring improvements and success to businesses in business and inter personal way.
-
 I have experiences from smaller companies all tha way to corporates like T-Mobile, Asseco, Renomia and Packeta. It has been extremely enriching experience which helped me to understand the current market needs and help businesses to translate them into efficient and succesfull internal activities from which the company can higly benefit.
 
  
@@ -310,6 +305,8 @@ Interested in:
 - photography
 - music guitar
 - traveling
+
+big data, backend development (with overreach to frontend), product management, automated testing (E2E FE, Unit, Integration) and varisous consulting and training regarding agile practices, development, testing, data and data compliance and reporting (ETL) and visualize.
 
 <!-- ### Footer
 
