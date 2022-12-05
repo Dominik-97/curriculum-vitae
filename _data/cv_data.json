@@ -856,13 +856,13 @@
             "name": "CRM - SalesForce",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "SalesForce",
+                    "src": "https://simpleicons.org/icons/salesforce.svg"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Beginner",
+                "cz": "Začátečník"
             },
             "use": true
         },
@@ -870,41 +870,31 @@
             "name": "Microsoft Power Apps",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "Microsoft Power Apps",
+                    "src": "https://simpleicons.org/icons/powerapps.svg"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         },
         {
             "name": "Database management",
-            "images": [
-                {
-                    "alt": "",
-                    "src": ""
-                }
-            ],
+            "images": [],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         },
         {
             "name": "Full-Stack Web Development",
-            "images": [
-                {
-                    "alt": "",
-                    "src": ""
-                }
-            ],
+            "images": [],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Intermediate",
+                "cz": "Středně pokročilý"
             },
             "use": true
         },
@@ -912,13 +902,13 @@
             "name": "Google Ads",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "Google Ads",
+                    "src": "https://simpleicons.org/icons/googleads.svg"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Beginner",
+                "cz": "Začátečník"
             },
             "use": true
         },
@@ -926,13 +916,13 @@
             "name": "Grafana",
             "images": [
                 {
-                    "alt": "",
-                    "src": ""
+                    "alt": "Grafana",
+                    "src": "https://simpleicons.org/icons/grafana.svg"
                 }
             ],
             "level": {
-                "en": "",
-                "cz": ""
+                "en": "Advanced",
+                "cz": "Pokročilý"
             },
             "use": true
         }
@@ -1102,12 +1092,7 @@
         },
         {
             "name": "Agile Development",
-            "images": [
-                {
-                    "alt": "",
-                    "src": ""
-                }
-            ],
+            "images": [],
             "level": {
                 "en": "",
                 "cz": ""
@@ -1116,12 +1101,7 @@
         },
         {
             "name": "Scrum",
-            "images": [
-                {
-                    "alt": "",
-                    "src": ""
-                }
-            ],
+            "images": [],
             "level": {
                 "en": "",
                 "cz": ""
@@ -1130,12 +1110,7 @@
         },
         {
             "name": "Kanban",
-            "images": [
-                {
-                    "alt": "",
-                    "src": ""
-                }
-            ],
+            "images": [],
             "level": {
                 "en": "",
                 "cz": ""
@@ -1144,12 +1119,7 @@
         },
         {
             "name": "BDD, TDD, DDT",
-            "images": [
-                {
-                    "alt": "",
-                    "src": ""
-                }
-            ],
+            "images": [],
             "level": {
                 "en": "",
                 "cz": ""
