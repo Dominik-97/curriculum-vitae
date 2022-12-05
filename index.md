@@ -279,7 +279,7 @@ I have also worked on creating my own frameworks that can be utilized with Cucum
 
 I have also built deployment and testing pipelines utilizing mainly GitLab CI/CD, GitHub and Jenkins to facilitate testing, deployment and various other automatizations to help deliver the product from alpha versions to launch in the EU market to a mature products with huge number of clients. <br>
 
-My current main focus is to streamline automation in general with specific focus to automated testing, where I set the complete testing workflow from business processes to CI/CD pipelines and automated tests implementation and result consumption (reporting, automated ticket workflows etc.). To do this I can analyze business and QA needs and translate them into comprehensive requirements (defining new, improved and better workflows for the QA teams and teaching them to the employees/managers to ensure more efficient and enjoyable way of handling just another day at work) which can be implemented to bring improvements and value to the business. <br>
+My current main focus is to streamline automation in general with specific focus to automated testing, where I set the complete testing workflow from business processes to CI/CD pipelines and automated tests implementation and result consumption (reporting, automated ticket workflows etc.). To do this I can analyze business and QA needs and translate them into comprehensive requirements which can be implemented. Defining new, improved and better workflows for the QA teams and teaching them to the employees/managers to ensure more efficient and enjoyable way of handling just another day at work goes towards bringing huge value to the business. <br>
 
 ---
 
