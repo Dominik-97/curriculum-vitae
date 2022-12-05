@@ -204,7 +204,18 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
   - Leadership
   - Speaker
   - Communication
-
+  - Integrity
+  - Dependability
+  - Effective communication
+  - Open-mindness
+  - Teamwork
+  - Creativity
+  - Problem-solving
+  - Crithical thinking
+  - Adaptability
+  - Organization
+  - Willingness to learn
+  - Empathy
 
 ### Tools & Technologies
 
@@ -374,6 +385,9 @@ Listed below are my hard skills, my technical knowledge:
   - Scrum
   - Kanban
   - BDD (Gherkin)
+  - Database management
+  - Adobe software suite
+  
 
 
 ## Languages
