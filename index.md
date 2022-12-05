@@ -37,7 +37,7 @@ Working as **automation development lead** on various in-house and external proj
 
 My goal is to help businesses suceed by driving improvements in both business and technical areas and providing technical training to share my knowledge with others. <br>
 
-I am an estabilished professional with more than 5 years of experience in both startup and corporate environment in IT space with proven track record of participating on sucessfull projects throughuut its lifecycle, ranging from internal tools to boost productivity to building software with international presence which keep helping people worldwide with areas such as marketing or product management or telecomunications. <br>
+I am an estabilished professional with more than 5 years of experience in both startup and corporate environment in IT space with proven track record of participating on sucessfull projects throughuut its lifecycle, ranging from internal tools to boost productivity to building software with international presence which keep helping people worldwide with areas such as marketing or product management or telecomunications. It has been extremely enriching experience which helped me to understand the current market needs and help businesses to translate them into efficient and succesfull internal activities from which the company can higly benefit. <br>
 
 This gave me experiences and skills in various areas to understand how to help companies with various activities ranging from business process analysis, data analysis, testing through product management to product launch and life cycle management. This all helps me to help bring improvements and success to businesses in business and inter personal way. <br>
 
@@ -287,7 +287,6 @@ In case your QA is not working as efficiently as it could, or you dont know how 
 
 ---
 
-I have experiences from smaller companies all tha way to corporates like T-Mobile, Asseco, Renomia and Packeta. It has been extremely enriching experience which helped me to understand the current market needs and help businesses to translate them into efficient and succesfull internal activities from which the company can higly benefit.
 
  
 
