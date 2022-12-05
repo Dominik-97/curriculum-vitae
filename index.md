@@ -238,12 +238,6 @@ Listed below are my hard skills, my technical knowledge:
 {% endfor %}
 </ul>
 
-- Testing
-  - RobotFramework
-  - Selenium
-  - Cucumber
-  - PlayWright
-  - Gherkin
 - Backend
   - Node.js
   - Python
