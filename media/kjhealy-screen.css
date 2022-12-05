@@ -211,10 +211,10 @@ strong {
 	make one column somehow...
 }*/
 
-@media only screen and (max-width: 1080px) {
+@media only screen and (max-width: 1400px) {
   .topcorner{
     position:absolute;
-    top:10px;
+    top: 10px;
     left: 10px;
     width: 200px;
   }

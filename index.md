@@ -8,8 +8,11 @@ language: en
 
 <h1>Dominik Bálint</h1>
 <p>
-  Student of law, <b>product management</b> specialist and <b>automation development consultant</b> at Denevy with rich B2B and B2C experiences <br>
-  Helping businesses succeed | Taking care of <b>product management</b> && <b>BE/FE development</b> && <b>process and test automation</b> | Extremely interested in (big) data management and legal compliance
+  <strong>Student of law</strong>, <strong>product management</strong> specialist <br> 
+  and <strong>automation development consultant</strong> at Denevy with rich B2B and B2C experiences | <br>
+  Helping businesses succeed | <br>
+  Taking care of <strong>product management</strong> && <strong>BE/FE development</strong> && <strong>process and test automation</strong> | <br>
+  Extremely interested in (big) data management and legal compliance
 </p>
 
 <div id="webaddress">
@@ -37,6 +40,17 @@ My goal is to help businesses suceed by driving improvements in both business an
 I am an estabilished professional with more than 5 years of experience in both startup and corporate environment in IT space with proven track record of participating on sucessfull projects throughuut its lifecycle, ranging from internal tools to boost productivity to building software with international presence which keep helping people worldwide with areas such as marketing or product management or telecomunications. <br>
 
 ### Specialized in
+
+I have worked on various projects, where I built Dockerized full-stack internal and external applications, various automation tools such as custom format parsers for generating Open API specs, deploying applications with regards to semantic versioning and uptodate changelog and much more.
+
+I have also built deployment and testing pipelines utilizing mainly GitLab CI/CD and Jenkins.
+
+My main focus is to streamline automation in general with specific focus to automated testing, where I set the complete testing workflow from business processes to CI/CD pipelines and automated tests implementation and result consumption (reporting, automated ticket workflows etc.).
+
+
+deployment pipelines, testing pipelines and 
+
+Automation development in general, I have worked 
 
 Data analysis and visualization, development, product management, testing and training.
 
@@ -150,34 +164,6 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 
 ### Tools & Technologies
 
-- SharePoint <img alt="microsoftsharepoint" src="https://simpleicons.org/icons/microsoftsharepoint.svg" width="15px"> &nbsp;\|&nbsp; Intermediate
-- Microsoft Access <img alt="microsoftaccess" src="https://simpleicons.org/icons/microsoftaccess.svg" width="15px"> &nbsp;\|&nbsp; Intermediate
-- Microsoft Excel <img alt="microsoftexcel" src="https://simpleicons.org/icons/microsoftexcel.svg" width="15px"> &nbsp;\|&nbsp; Advanced
-- Microsoft Power Query <img alt="microsoftpowerquery" src="https://simpleicons.org/icons/microsoft.svg" width="15px"> &nbsp;\|&nbsp; Intermediate
-- Visual Basic for Applications (VBA) <img alt="visualbasicforapplications" src="https://cdn3.iconfinder.com/data/icons/flat-design-spreadsheet-set-5/24/macros-vba-512.png" width="15px"> &nbsp;\|&nbsp; Itermediate
-- git <img alt="git" src="https://simpleicons.org/icons/git.svg" width="15px"> &nbsp;\|&nbsp; Advanced
-- GitHub & GitLab <img alt="github" src="https://simpleicons.org/icons/github.svg" width="15px"> & <img alt="gitlab" src="https://simpleicons.org/icons/gitlab.svg" width="15px"> &nbsp;\|&nbsp; Advanced
-- Tableau <img alt="tableau" src="https://simpleicons.org/icons/tableau.svg" width="15px"> &nbsp;\|&nbsp; Intermediate
-- Microsoft Power BI <img alt="microsoftpowerbi" src="https://simpleicons.org/icons/powerbi.svg" width="15px"> &nbsp;\|&nbsp; Intermediate
-- REST API <img alt="Rest API" src="https://img.icons8.com/ios/64/000000/api-settings.png" width="15px"> &nbsp;\|&nbsp; Intermediate, user level
-- JSON, XML, YAML &nbsp;\|&nbsp; Advanced
-- Selenium <img alt="selenium" src="https://img.icons8.com/wired/64/000000/selenium-test-automation.png" width="15px"> &nbsp;\|&nbsp; Advanced, in IDE
-- HTML5 <img alt="html5" src="https://simpleicons.org/icons/html5.svg" width="15px"> &nbsp;\|&nbsp; Intermediate
-- CSS <img alt="css3" src="https://simpleicons.org/icons/css3.svg" width="15px"> &nbsp;\|&nbsp; Intermediate
-- Python <img alt="python" src="https://simpleicons.org/icons/python.svg" width="15px"> &nbsp;\|&nbsp; Novice
-- MySQL <img alt="MySQL" src="https://simpleicons.org/icons/mysql.svg" width="15px"> &nbsp;\|&nbsp; Intermediate
-- Markdown & Pandoc <img alt="Markdown" src="https://simpleicons.org/icons/markdown.svg" width="15px"> &nbsp;\|&nbsp; Advanced
-- Terminal & Shell scripting (bash, zsh) <img alt="GNU Bash" src="https://simpleicons.org/icons/gnubash.svg" width="15px"> &nbsp;\|&nbsp; Itermediate
-- LaTeX <img alt="LaTeX" src="https://simpleicons.org/icons/latex.svg" width="15px"> &nbsp;\|&nbsp; Intermediate
-- Microsoft Office <img alt="Microsoft Office" src="https://simpleicons.org/icons/microsoftoffice.svg" width="15px"> &nbsp;\|&nbsp; Advanced
-- Microsoft Power Automate & Integromat <img alt="Microsoft Power Automate" src="https://img.icons8.com/fluent/48/000000/microsoft-power-automate-2020.png" width="15px"> & <img alt="Integromat" src="https://images.saasworthy.com/integromat_1954_logo_1576566957_wkfxu.png" width="15px"> &nbsp;\|&nbsp; Advanced
-- Google Cloud Platform (GCP) & Microsoft Azure <img alt="Google Cloud Platform" src="https://simpleicons.org/icons/googlecloud.svg" width="15px"> & <img alt="Microsoft Azure" src="https://simpleicons.org/icons/microsoftazure.svg" width="15px"> &nbsp;\|&nbsp; Novice, user level
-- Google Analytics & Tag Manager <img alt="Google Analytics" src="https://simpleicons.org/icons/googleanalytics.svg" width="15px"> & <img alt="Google Tag Manager" src="https://simpleicons.org/icons/googletagmanager.svg" width="15px"> &nbsp;\|&nbsp; Intermediate
-- Basic Adobe Suite <img alt="Adobe Vreative Suite" src="https://simpleicons.org/icons/adobe.svg" width="15px"> &nbsp;\|&nbsp; Novice
-- BPMN & UML &nbsp;\|&nbsp; Advanced in BPMN, novice in UML
-- MacOS & Windows & Linux <img alt="Apple" src="https://simpleicons.org/icons/apple.svg" width="15px"> & <img alt="Windows" src="https://simpleicons.org/icons/windows.svg" width="15px"> & <img alt="Linux" src="https://simpleicons.org/icons/linux.svg" width="15px"> &nbsp;\|&nbsp; Advanced
-- Basic understanding of: R & JavaScript & Node.js <img alt="R" src="https://simpleicons.org/icons/r.svg" width="15px"> & <img alt="JavaScript" src="https://simpleicons.org/icons/javascript.svg" width="15px"> & <img alt="Node.js" src="https://simpleicons.org/icons/node-dot-js.svg" width="15px"> &nbsp;\|&nbsp; Novice
-
 <ul>
 {% for toolAndTechnology in site.data.cv_data_yaml.toolsAndTechnologies %}
 <li>
@@ -279,6 +265,12 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
   - PostgreSQL
   - Excel
   - Figma
+  - POM
+  - Data driven testing
+  - Unit testing
+  - Integration testing
+  - E2E FE manual testing
+  - UAT
 
 
 ## Languages

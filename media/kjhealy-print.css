@@ -210,7 +210,7 @@ strong {
 @media only screen and (max-width: 1080px) {
   .topcorner{
     position:absolute;
-    top:5px;
+    top: 5px;
     left: 10px;
     width: 200px;
   }
