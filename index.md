@@ -228,8 +228,6 @@ Listed below are my hard skills, my technical knowledge (Tools & Technologies & 
 </ul>
 
 - Other
-  - Integrations
-  - SAP
   - Process improvement
   - Product delivery
   - Project delivery
@@ -237,7 +235,7 @@ Listed below are my hard skills, my technical knowledge (Tools & Technologies & 
   - Process management and improvement
   - Product launch
   - QA Lead
-  - Consultion
+  - Consulting
   - Process quality improvements
   - Networking
   - Nginx
@@ -267,15 +265,10 @@ Listed below are my hard skills, my technical knowledge (Tools & Technologies & 
   - Integration testing
   - E2E FE manual testing
   - UAT
-  - SAP
   - Project Management
   - CRM
-  - Business strategy
-  - Business Development
-  - Business Analysis
   - Customer and Stakeholder satisfaction
   - Analytical Skills
-  - Pivot Tables
   - Testing
   - Test Automation
   - SharePoint
@@ -293,24 +286,19 @@ Listed below are my hard skills, my technical knowledge (Tools & Technologies & 
   - BDD (Gherkin)
   - Database management
   - Adobe software suite
-  - Process improvements
   - Service delivery
   - Telecommunications
   - Profesionals services
-  - Project delivery
   - Outsourcing
   - Global delivery
   - Managed services
   - BPO
   - Project coordinator
   - Process management
-  - Product launch
-  - COnsulting
   - Communication
   - Team-oriented
   - Mentoring
   - Coaching
-  - Process quality improvements
   - Managed security services
   - Error analysis
   - FCE
@@ -318,8 +306,6 @@ Listed below are my hard skills, my technical knowledge (Tools & Technologies & 
   - Product management
   - Product marketing
   - Public speaking
-  - Consulting
-  - Project management
   - FMCG
   - E-commerce
   - Econometrics

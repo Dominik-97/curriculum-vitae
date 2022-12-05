@@ -610,6 +610,32 @@
                 "en": "",
                 "cz": ""
             }
+        },
+        {
+            "name": "Integrations",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            }
+        },
+        {
+            "name": "SAP",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            }
         }
     ]
 }
