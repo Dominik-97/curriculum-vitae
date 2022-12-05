@@ -385,6 +385,45 @@
                 "en": "",
                 "cz": ""
             }
+        },
+        {
+            "name": "JavaScript",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            }
+        },
+        {
+            "name": "TypeScript",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            }
+        },
+        {
+            "name": "XPath",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            }
         }
     ]
 }

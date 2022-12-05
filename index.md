@@ -238,11 +238,6 @@ Listed below are my hard skills, my technical knowledge:
 {% endfor %}
 </ul>
 
-- FE:
-  - JavaScript/Typescript
-  - HTML5
-  - CSS3
-  - XPaths
 - Testing
   - RobotFramework
   - Selenium
@@ -387,7 +382,7 @@ Listed below are my hard skills, my technical knowledge:
   - BDD (Gherkin)
   - Database management
   - Adobe software suite
-  
+
 
 
 ## Languages
