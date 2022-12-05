@@ -1143,7 +1143,7 @@
                 "en": "Advanced",
                 "cz": "Pokročilý"
             },
-            "use": true
+            "use": false
         },
         {
             "name": "API Testing",
@@ -1157,7 +1157,7 @@
                 "en": "Advanced",
                 "cz": "Pokročilý"
             },
-            "use": true
+            "use": false
         },
         {
             "name": "Networking",
@@ -1166,7 +1166,7 @@
                 "en": "Beginner",
                 "cz": "Začátečník"
             },
-            "use": true
+            "use": false
         },
         {
             "name": "Pivot Tables",
@@ -1175,7 +1175,7 @@
                 "en": "Advanced",
                 "cz": "Pokročilý"
             },
-            "use": true
+            "use": false
         },
         {
             "name": "Technical and business documentation",
@@ -1184,7 +1184,7 @@
                 "en": "Advanced",
                 "cz": "Pokročilý"
             },
-            "use": true
+            "use": false
         },
         {
             "name": "POM",
@@ -1193,7 +1193,7 @@
                 "en": "Advanced",
                 "cz": "Pokročilý"
             },
-            "use": true
+            "use": false
         },
         {
             "name": "Unit testing",
@@ -1202,7 +1202,7 @@
                 "en": "Advanced",
                 "cz": "Pokročilý"
             },
-            "use": true
+            "use": false
         },
         {
             "name": "Integration testing",
@@ -1211,7 +1211,7 @@
                 "en": "Intermediate",
                 "cz": "Středně pokročilý"
             },
-            "use": true
+            "use": false
         },
         {
             "name": "UAT",
@@ -1220,7 +1220,7 @@
                 "en": "Advanced",
                 "cz": "Pokročilý"
             },
-            "use": true
+            "use": false
         },
         {
             "name": "Database management",
@@ -1229,7 +1229,7 @@
                 "en": "Advanced",
                 "cz": "Pokročilý"
             },
-            "use": true
+            "use": false
         },
         {
             "name": "Full-Stack Web Development",
@@ -1238,6 +1238,72 @@
                 "en": "Intermediate",
                 "cz": "Středně pokročilý"
             },
+            "use": false
+        },
+        {
+            "name": "Integrations",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "API Testing",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Networking",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Pivot Tables",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Technical and business documentation",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "POM",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Unit testing",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Integration testing",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "UAT",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Database management",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "Full-Stack Web Development",
+            "images": [],
+            "level": {},
             "use": true
         }
     ]
