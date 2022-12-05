@@ -271,7 +271,7 @@ My life paths have lead me to various positions, but I eventually got to IT whic
 
 If I am not helping the technical teams I am more that happy to jump to business and help the project succeed from business side of things. Because of my experiences in both business and technical teams I can be and effective liason between stakeholders and developers, translating business needs into comprehensive requirements and transparently managing product backlog and features to bring value to the business.<br>
 
-If I am not working I love traveling, playing my acoustic and electric guitar and taking photos. <br>
+If I am not working I love traveling, playing my acoustic and electric guitars and taking photos. <br>
 
 Lets get back to professional stuff now. I realize, that reading succint description of individual projects I worked on and the list of skills which can sometimes be rather arbitrary does not really show the individual projects I worked on in detail, so here is something more about what I did. <br>
 
@@ -279,33 +279,25 @@ I have worked on various projects for the past 5 years (in both startup (SMBs) a
 
 I have also worked on creating my own frameworks that can be utilized with Cucumber.js and implements POM structure with playwright and very similar framework that can be used with robotframework. <br>
 
-I have also built deployment and testing pipelines utilizing mainly GitLab CI/CD, GitHub and Jenkins to facilitate testing, deployment and various other automatizations to help deliver the product from alpha versions to launch in the EU market to a mature products with huge number of clients. <br>
+I have also built deployment and testing pipelines utilizing mainly GitLab CI/CD, GitHub and Jenkins to facilitate testing, deployment and various other automatizations to help deliver the product from alpha versions to launch in the EU market to a mature products with huge number of clients worldwide. <br>
 
 My current main focus is to streamline automation in general with specific focus to automated testing, where I set the complete testing workflow from business processes to CI/CD pipelines and automated tests implementation and result consumption (reporting, automated ticket workflows etc.). To do this I can analyze business and QA needs and translate them into comprehensive requirements which can be implemented. Defining new, improved and better workflows for the QA teams and teaching them to the employees/managers to ensure more efficient and enjoyable way of handling just another day at work goes towards bringing huge value to the business. <br>
 
 In case your QA is not working as efficiently as it could, or you dont know how to visualize or consume data or automate your data streams or build your internal knowledge base? Does your product suffers from inadequte or inefficient QA processes? Has it impaired or negatively affected your product management and/or launch and delivery? Do you have problems with processes or information pipelines and getting it across various project levels but you do not know how to manage all this to release a sucesful product? There are many cases which can negatively affect your product, and a lot of it can do with QA and processes, there are many scenarios. I can help you solve these problems and help you to manage your product sucesfully. <br>
 
----
+And finally I am a people person, so I love transfering these skill that I have learned over the year to other people through mentoring, coaching and training, so the companies can retain the added value i brought in to future to apply the improvements and solve various business and technical problems they might encounter. I love communication and connecting people, to deliver the product value. I can always find a solution to a problem, analyse it, propose solution, implement solution, implement procesess and write documentation and methodologies. <br>
 
+I value honesty, courage, diligence, learning, teaching and writing. I am always opened to new challenges.
 
- 
+## Interested in
 
-I am a people man, so I love transfering these skill that I have learned over the year to other people through mentoring, coaching and training, so the companies can retain the added value i brought in to future to apply the improvements and solve various business and technical problems they might encounter. I love communication and connecting people, to deliver the product value. I can always find a solution to a problem, analyse it, propose solution, implement solution, implement procesess and write documentation and methodologies.
-
-
-
-
----
-
-Interested in:
-
-- Testing, test automation, honesty, courage, challenges, learning and teaching and writing
-
-- photography
-- music guitar
-- traveling
-
-big data, backend development (with overreach to frontend), product management, automated testing (E2E FE, Unit, Integration) and varisous consulting and training regarding agile practices, development, testing, data and data compliance and reporting (ETL) and visualize.
+- Testing, 
+- test automation (E2E FE, Unit, Integration),
+- (big) data and data compliance, reporting, ETL pipelines and visualization,
+- backend development (with overreach to frontend),
+- product management,
+- consulting and training,
+- agile practices.
 
 <!-- ### Footer
 
