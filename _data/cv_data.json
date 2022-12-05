@@ -1013,7 +1013,7 @@
             "use": true
         },
         {
-            "name": "Project coordinator",
+            "name": "Project Coordinator",
             "images": [],
             "level": {},
             "use": true
@@ -1055,7 +1055,7 @@
             "use": true
         },
         {
-            "name": "Digital marketing",
+            "name": "Digital Marketing",
             "images": [],
             "level": {},
             "use": true
@@ -1085,7 +1085,7 @@
             "use": true
         },
         {
-            "name": "Pricing and strategy",
+            "name": "Pricing and Strategy",
             "images": [],
             "level": {},
             "use": true
@@ -1093,37 +1093,25 @@
         {
             "name": "Agile Development",
             "images": [],
-            "level": {
-                "en": "",
-                "cz": ""
-            },
+            "level": {},
             "use": true
         },
         {
             "name": "Scrum",
             "images": [],
-            "level": {
-                "en": "",
-                "cz": ""
-            },
+            "level": {},
             "use": true
         },
         {
             "name": "Kanban",
             "images": [],
-            "level": {
-                "en": "",
-                "cz": ""
-            },
+            "level": {},
             "use": true
         },
         {
             "name": "BDD, TDD, DDT",
             "images": [],
-            "level": {
-                "en": "",
-                "cz": ""
-            },
+            "level": {},
             "use": true
         },
         {
@@ -1169,7 +1157,7 @@
             "use": true
         },
         {
-            "name": "Product marketing",
+            "name": "Product Marketing",
             "images": [],
             "level": {},
             "use": true
@@ -1199,13 +1187,13 @@
             "use": true
         },
         {
-            "name": "Video editing",
+            "name": "Video Editing",
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Photo editing",
+            "name": "Photo Editing",
             "images": [],
             "level": {},
             "use": true
@@ -1235,7 +1223,7 @@
             "use": true
         },
         {
-            "name": "Competiton monitoring",
+            "name": "Competition monitoring",
             "images": [],
             "level": {},
             "use": true

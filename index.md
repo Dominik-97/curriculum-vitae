@@ -33,15 +33,15 @@ language: en
 
 ## About
 
-Working as **automation development lead** on various in-house and external projects at Denevy, mostly focusing on **test automation**, **process automation** and **reporting**. <br>
+Working as an **automation development lead** on various in-house and external projects at Denevy, mostly focusing on **test automation**, **process automation** and **reporting**. <br>
 
-My goal is to help businesses suceed by driving improvements in both business and technical areas and providing **technical training** to share my knowledge with others. <br>
+My goal is to help businesses succeed by driving improvements in both business and technical areas and providing **technical training** to share my knowledge with others. <br>
 
-I am an estabilished professional with more than 5 years of experience in both startup and corporate environment in IT space with proven track record of participating on sucessfull projects throughuut its lifecycle, ranging from internal tools to boost productivity to building software with international presence which keep helping people worldwide with areas such as **marketing** or **product management** or **telecomunications**. It has been extremely enriching experience which helped me to understand the current market needs and help businesses to translate them into efficient and succesfull internal activities from which the company can higly benefit. <br>
+I am an established professional with more than five years of experience in both startup and corporate environments in the IT space with a proven track record of participating in successful projects throughout their lifecycle, ranging from internal tools to boost productivity to building software with an international presence which keeps helping people worldwide with areas such as **marketing** or **product management** or **telecommunications**. It has been an extremely enriching experience that helped me to understand the current market needs and help businesses to translate them into efficient and successful internal activities from which the company can highly benefit. <br>
 
-This gave me experiences and skills in various areas to understand how to help companies with various activities ranging from **business process analysis**, **data analysis**, **testing** through **product management** to **product launch** and **life cycle management**. This all helps me to help bring improvements and success to businesses in business and inter personal way. <br>
+This gave me experiences and skills in various areas to understand how to help companies with various activities ranging from **business process analysis**, **data analysis** and **testing** through **product management** to **product launch** and **life cycle management**. This all helps me to help bring improvements and success to businesses in business and interpersonal ways. <br>
 
-If I am not helping teams with automations I focus on **product management** to help streamline the other essential parts of product lifecycle and to help the business to get the maximum out of the project by delivering high quality product and boosting team satisfaction.
+If I am not helping teams with automations I focus on **product management** to help streamline the other essential parts of the product lifecycle and to help the business to get the maximum out of the project by delivering high-quality products and boosting team satisfaction.
 
 ### Specialized in
 
@@ -49,7 +49,7 @@ If I am not helping teams with automations I focus on **product management** to 
 - BE development with overreach to FE.
 - Automations.
 - Testings.
-- Data analysis, visualization and reporing.
+- Data analysis, visualization and reporting.
 - Training.
 
 ## Work experience
@@ -58,26 +58,26 @@ If I am not helping teams with automations I focus on **product management** to 
 
 - Building test automation pipelines for financial products platforms.
 - Defining automated test scenarios.
-- Implementing automated tests scenarios, ETL pipelines and test execution result visualizations.
-- Leading workshops focused on transfering knowledge pertaining automated tests.
-- Leading and helping other contractual team members to deliver high quality tests.
+- Implementing automated test scenarios, ETL pipelines and test execution result visualizations.
+- Leading workshops focused on transferring knowledge pertaining to automated tests.
+- Leading and helping other contractual team members to deliver high-quality tests.
 
 `June 2022 - Present` __Renomia__ **Automation Lead** - Contractual <br>
 
-- Working on Test Automation project in Insurance field.
-- Analyzing test automation proceses and defining technical requirements.
-- Implementing automated tests scenarios, ETL pipelines and test execution result visualizations.
-- Leading workshops focused on transfering knowledge pertaining automated tests.
-- Leading and helping other contractual team members to deliver high quality tests.
+- Working on a Test Automation project in the Insurance field.
+- Analyzing test automation proccesses and defining technical requirements.
+- Implementing automated test scenarios, ETL pipelines and test execution result visualizations.
+- Leading workshops focused on transferring knowledge pertaining to automated tests.
+- Leading and helping other contractual team members to deliver high-quality tests.
 
 `2021-Present` __Denevy__ **Development and Testing consultant/Product owner** - Full-time <br>
 
 - `March 2021 - September 2022`
   - **Juno.one product owner**
     - Driving the implementation of appropriate changes.
-    - Consulting stakeholders, collecting feedback and monitoring market to create actionable steps for iterative development of an in-house tools.
-    - Managing development and testing teams.
-    - Direct participation on development, testing automation and data management.
+    - Consulting stakeholders, collecting feedback and monitoring the market to create actionable steps for iterative development of in-house tools.
+    - Managing the development and testing teams.
+    - Direct participation in development, testing automation and data management.
     - Managing documentation.
     - Managing product roadmap.
 
@@ -85,46 +85,46 @@ If I am not helping teams with automations I focus on **product management** to 
   - **Development and Testing consultant**
     - Working on various in-house and external projects for companies like Renomia, Asseco and Packeta.
       - Leading the way to:
-        - deliver high quality automations (especially test automation and data pipelines),
-        - consult on chnages leading to higher satisfaction and effectivness,
+        - deliver high-quality automations (especially test automation and data pipelines),
+        - consult on changes leading to higher satisfaction and effectiveness,
         - helping with CI/CD processes.
     - Product delivery, automation, test and data management consulting.
     - Driving improvements in automation processes, testing automation, development and data pipelines and visualizations.
-    - Direct participation on BE and FE development.
-    - Analysing weakspots and providing custom tailored solutions.
-    - Writing high quality technical and business documentation as well as participating on creating well managed onboarding process for QA.
-    - Leading and training testing and development team.
-    - Implementing new strategies and processes to boost efficiency and to streamline development.
+    - Direct participation in BE and FE development.
+    - Analyzing weak spots and providing custom-tailored solutions.
+    - Writing high-quality technical and business documentation as well as participating in creating well-managed onboarding processes for QA.
+    - Leading and training testing and development teams.
+    - Implementing new strategies and processes to boost efficiency and streamline development.
 
 `2018-2021` __Behavee__ **Data & Development Consultant, Reporting Specialist** - Self-employed <br>
 
 - Examining data, processes and technologies to evaluate the current state and reveal critical problems.
   - Design, research plans and analysis.
 - Researching and making recommendations about various business cases improving data use.
-- Assisting Development team to create and implement data strategies, design and build data flows and develop conceptual data models.
+- Assisting the Development team to create and implement data strategies, design and build data flows and develop conceptual data models.
 - Creating automated data reports and documentation.
 - Maintaining data integrity and databases.
 - Implementing new strategies and processes.
 
 `2018-2020` __T-Mobile__ **Data & Development Consultant** - Self-employed <br>
 
-- Participating on the T-Mobile Czech Republic project - Data migration, testing, reporting.
-  - Support for migration activities during the transition period, preparation and data consolidation, data testing, reporting, handover of prepared data.
+- Participating in the T-Mobile Czech Republic project - Data migration, testing and reporting.
+  - Support for migration activities during the transition period, preparation and data consolidation, data testing, reporting and handover of prepared data.
   - Data testing, data cleansing and migration tools development.
-  - Designing a solution for consolidation and migration of data from local ERP systems to international solutions, designing and reviewing of transitional and to-be processes.
-  - Responsibility for data preparation in the field of legal documents, plant maintenance, human resources and asset accounting.
+  - Designing a solution for consolidation and migration of data from local ERP systems to international solutions, designing and reviewing transitional and to-be processes.
+  - Responsible for data preparation in the field of legal documents, plant maintenance, human resources and asset accounting.
   - Leading team.
 
 `2017-2018` __Komerční banka__ **Customer Service Representative** - Part-time <br>
 
 - Helping customers with complaints and questions.
 - Giving customers information about products and services.
-- Taking requests, and processing claims.
-- Taking care of other activities to ensure smooth operation of the branch.
+- Taking requests and processing claims.
+- Taking care of other activities to ensure the smooth operation of the branch.
 
 `2015-2017` __Sinch__ **Event technician** - Part-time <br>
 
-- Organized, implemented, and managed events for the public or private groups.
+- Organized, implemented, and managed events for public or private groups.
 - Planning and organization of public events.
 - Setting up equipment (electrical and other).
 
@@ -151,7 +151,7 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 
 ### General knowledge
 
-- Listed are areas I consider to be my general knowledge, I can apply this knowledge across multiple domains:
+- Listed are areas I consider to be my general knowledge; I can apply this knowledge across multiple domains:
   - programming,
   - product management,
   - test management,
@@ -161,7 +161,7 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
   - basic knowledge of UX/UI Design,
   - data management,
   - data analysis,
-  - basic knowledge of Marketing,
+  - basic understanding of Marketing,
   - basic knowledge of PPC,
   - private law,
   - writing (Profesional),
@@ -171,9 +171,9 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 
 ### Domain knowledge
 
-- Listed are fields I worked in and I consider myselft to grasp solid understanding of the underlying concepts:
-  - telecomunications,
-  - financial producs such as investment products, insurance products, loans,
+- Listed are the fields I worked in, and I consider myself to grasp a solid understanding of the underlying concepts:
+  - telecommunications,
+  - financial products such as investment products, insurance products, loans,
   - human resources,
   - banking,
   - corporate law,
@@ -181,7 +181,7 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 
 ### Soft Skills
 
-- Listed are, important to say in my opinion, my soft skills, as its easy to say, that some might overlap to hardskills:
+- Listed are, it is essential to say, in my opinion, my soft skills, as it's easy to say that some might overlap with hard skills:
   - interpersonal skills,
   - teamwork,
   - effective communication,
@@ -195,16 +195,16 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
   - thorough,
   - presentation,
   - analytical Skills,
-  - problemsolving skills,
+  - problem-solving skills,
   - time Management,
   - team Management,
   - speaker,
   - integrity,
   - dependability,
-  - open-mindness,
+  - open-mindedness,
   - creativity,
   - problem-solving,
-  - crithical thinking,
+  - critical thinking,
   - adaptability,
   - organization,
   - willingness to learn,
@@ -212,7 +212,7 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 
 ### Tools & Technologies
 
-Listed below are my hard skills, my technical knowledge.
+Listed below is my technical knowledge.
 
 <br>
 
@@ -233,7 +233,7 @@ Listed below are my hard skills, my technical knowledge.
 
 ### Other hard skills
 
-Listed below are other more specific hard skills (Framework & Methodologies..). Other (Other skills maybe not directly fitting into other categories), other specific skill which might not be directly technology and maybe is not so broad to be general knowledge can be found here.
+Listed below are other more specific hard skills (Framework & Methodologies..). Other (Other skills maybe not directly fitting into other categories), other specific skills which might not be directly technology and perhaps are not so broad to be general knowledge can be found here.
 
 <br>
 
