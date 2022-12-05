@@ -70,32 +70,31 @@ If I am not helping teams with automations I focus on **product management** to 
 
 `2021-Present` __Denevy__ **Development and Testing consultant/Product owner** - Full-time <br>
 
-- March 2021 - September 2022
-  - Juno.one product owner
+- `March 2021 - September 2022`
+  - **Juno.one product owner**
     - Driving the implementation of appropriate changes.
     - Consulting stakeholders, collecting feedback and monitoring market to create actionable steps for iterative development of an in-house tools.
     - Managing development and testing teams.
     - Direct participation on development, testing automation and data management.
     - Managing documentation.
     - Managing product roadmap.
-- March 2021 - Present
-  - Development and Testing consultant
+
+- `March 2021 - Present`
+  - **Development and Testing consultant**
     - Working on various in-house and external projects for companies like Renomia, Asseco and Packeta
       - Leading the way to:
         - Deliver high quality automations (especially test automation and data pipelines)
         - Consult on chnages leading to higher satisfaction and effectivness
         - Helping with CI/CD processes
     - Product delivery, automation, test and data consulting.
+    - Driving improvements in automation processes, testing automation, development and data pipelines and visualizations.
+    - Analysing weakspots and providing custom tailored solutions.
+    - Writing high quality technical and business documentation as well as participating on creating well managed onboarding process for QA.
     - Leading and training testing team.
     - Implementing new strategies and processes to boost efficiency and to streamline development.
 
-- Working on various in-house and external projects for companies like Renomia, Asseco and Packeta
-  - Renomia - automation lead
-  - Asseco - automation consultant
-  - Packeta - pipelines and project consultant
-- Delivering (driving) improvements in automation processes, testing automation, development and data pipelines and visualizations
-- Training
-- Analysis
+
+
 - Documentation
 - Leading internal projects (product owner) and managing automation teams as automation lead
 Implementing new strategies and processes.
