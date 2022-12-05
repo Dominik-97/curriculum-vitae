@@ -55,12 +55,14 @@ I am an estabilished professional with more than 5 years of experience in both s
 - Building test automation pipelines for financial products platforms.
 - Defining automated test scenarios.
 - Implementing automated tests scenarios, ETL pipelines and test execution result visualizations.
+- Workshops.
 
 `June 2022 - Present` __Renomia__ **Automation Lead** - Contractual <br>
 
 - Working on Test Automation project in Insurance field.
 - Analyzing test automation proceses and defining technical requirements.
 - Implementing automated tests scenarios, ETL pipelines and test execution result visualizations.
+- Workshops.
 
 `2021-Present` __Denevy__ **Development and Testing consultant/Product owner** - Full-time <br>
 
