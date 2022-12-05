@@ -256,8 +256,6 @@ Listed below are other more specific hard skills (Framework & Methodologies..):
   - Analytical Skills
   - Testing
   - Test Automation
-  - Database management
-  - Adobe software suite
   - Service delivery
   - Telecommunications
   - Process management
@@ -266,7 +264,6 @@ Listed below are other more specific hard skills (Framework & Methodologies..):
   - Mentoring
   - Coaching
   - Error analysis
-  - Full-Stack Web Development
   - Product management
   - Product marketing
   - E-commerce
@@ -279,16 +276,12 @@ Listed below are other more specific hard skills (Framework & Methodologies..):
   - UX
   - Investments
   - Social Networking
-  - CRM
   - SaaS
-  - Google Analytics
   - Team leadership
   - Agile development
-  - Google Ads
   - Product strategy
   - Competiton monitoring
   - Data analysis
-  - Microsoft Excel
   - Mockup building
 
 
