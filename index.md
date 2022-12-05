@@ -277,18 +277,16 @@ I have worked on various projects for the past 5 years, where I built Dockerized
 
 I have also worked on creating my own frameworks that can be utilized with Cucumber.js and implements POM structure with playwright and very similar framework that can be used with robotframework. <br>
 
-I have also built deployment and testing pipelines utilizing mainly GitLab CI/CD, GitHub and Jenkins to facilitate testing, deployment and various other automatizations to help deliver the product. <br>
+I have also built deployment and testing pipelines utilizing mainly GitLab CI/CD, GitHub and Jenkins to facilitate testing, deployment and various other automatizations to help deliver the product from alpha versions to launch in the EU market to a mature products with huge number of clients. <br>
 
-My main focus is to streamline automation in general with specific focus to automated testing, where I set the complete testing workflow from business processes to CI/CD pipelines and automated tests implementation and result consumption (reporting, automated ticket workflows etc.).
+My current main focus is to streamline automation in general with specific focus to automated testing, where I set the complete testing workflow from business processes to CI/CD pipelines and automated tests implementation and result consumption (reporting, automated ticket workflows etc.). <br>
+
+I can analyze business and QA needs and translate them into comprehensive requirements (defining new, improved and better features for new systems and apps and leading employees/managers towards a better way of handling just another day at work) which can be implemented to bring improvements and value to the business.
+
+---
 
 
-deployment pipelines, testing pipelines and 
 
-Automation development in general, I have worked 
-
-Data analysis and visualization, development, product management, testing and training.
-
-From alpha versions to launch in the EU markets to a mature products with huge numbers of clients.
 
 Focusing on big data, backend development (with overreach to frontend), product management, automated testing (E2E FE, Unit, Integration) and varisous consulting and training regarding agile practices, development, testing, data and data compliance and reporting (ETL) and visualize.
 
@@ -300,7 +298,7 @@ The main areas I currently tend to focus on are automated testing, automation in
 
 I am a people man, so I love transfering these skill that I have learned over the year to other people through mentoring, coaching and training, so the companies can retain the added value i brought in to future to apply the improvements and solve various business and technical problems they might encounter. I love communication and connecting people, to deliver the product value. I can always find a solution to a problem, analyse it, propose solution, implement solution, implement procesess and write documentation and methodologies.
 
-I can analyze business and QA needs and translate them into comprehensive requirements (defining new, improved and better features for new systems and apps and leading employees/managers towards a better way of handling just another day at work) which can be implemented to bring improvements and value to the business.
+
 
 Liason between stakeholders and developers, translating business needs into comprehensive requirements and transparently managing product backlog and features to bring value to the business.
 
