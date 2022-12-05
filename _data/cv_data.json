@@ -896,6 +896,19 @@
                 "en": "",
                 "cz": ""
             }
+        },
+        {
+            "name": "Grafana",
+            "images": [
+                {
+                    "alt": "",
+                    "src": ""
+                }
+            ],
+            "level": {
+                "en": "",
+                "cz": ""
+            }
         }
     ],
     "Others": [
@@ -1233,6 +1246,12 @@
         },
         {
             "name": "Mockup building",
+            "images": [],
+            "level": {},
+            "use": true
+        },
+        {
+            "name": "OOP",
             "images": [],
             "level": {},
             "use": true

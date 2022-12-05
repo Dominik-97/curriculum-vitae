@@ -261,27 +261,23 @@ Listed below are other more specific hard skills (Framework & Methodologies..). 
 
 ## Something more
 
-If you read it till here, heres something more about me to keep you going (mostly professional, but I threw some vocation stuff in as well :-) ):
+If you read it till here, heres something more about me to keep you going (mostly professional, but I threw some vocation stuff in as well). <br>
 
-First something briefly about me personally, to break the monotony. I am passionata musician and photographer who loves law based in Prague, Czech republic, which I am still studying. My life paths have lead me to various positions, but I eventually got to IT which I learned to love. I started as data analyst but I participated on a lot of projects where I focused on both technical and business sides. Eventually I found myself loving automating things and especially tests and data pipelines the most, however I still actively participate on BE and FE development as I found out its a thing I really enjoy.
+First something briefly about me personally, to break the monotony. I am passionata musician and photographer who loves law, which I am still studying. I am currently based in Prague, Czech republic. <br>
 
-If I am not helping the technical teams I am more that happy to jump to business and help the project succeed from business side of things.
+My life paths have lead me to various positions, but I eventually got to IT which I learned to love. I started as data analyst but I participated on a lot of projects where I focused on both technical and business sides. Eventually I found myself loving automating things and especially tests and data pipelines the most, however I still actively participate on BE and FE development as I found out its a thing I really enjoy. <br>
 
-If I am not coding or bussin (doing business) I love traveling, playing my guitar and taking photos.
+If I am not helping the technical teams I am more that happy to jump to business and help the project succeed from business side of things. <br>
 
-### Even more
+If I am not working I love traveling, playing my acoustic and electric guitar and taking photos. <br>
 
-Thank you very much for showing interest and for reading till here.
+Lets get back to professional stuff now. I realize, that reading succint description of individual projects I worked on and the list of skills which can sometimes be rather arbitrary does not really show the individual projects I worked on in detail, so here is something more about what I did. <br>
 
-So here are some more details about what I actually worked on:
+I have worked on various projects for the past 5 years, where I built Dockerized full-stack internal and external applications for example for information transferring (various messaging and iternal/external newletter apps with custom backend and frontend), various automation tools such as custom format parsers for generating Open API specs, deploying applications with regards to semantic versioning and auto uptodate changelog, data ETL pipelines and visualizations in Grafana, Power BI or Tableau and much more. <br>
 
-<!-- Just to say something about what I actually worked on -->
+I have also worked on creating my own frameworks that can be utilized with Cucumber.js and implements POM structure with playwright and very similar framework that can be used with robotframework. <br>
 
-I have worked on various projects for the past 5 years, where I built Dockerized full-stack internal and external applications for example for information transferring (various messaging and iternal/external newletter apps), various automation tools such as custom format parsers for generating Open API specs, deploying applications with regards to semantic versioning and uptodate changelog and much more.
-
-I have also worked on creating my own frameworks that can be utilized with Cucumber.js and implements POM structure with playwright and very similar framework that can be used with robotframework.
-
-I have also built deployment and testing pipelines utilizing mainly GitLab CI/CD and Jenkins.
+I have also built deployment and testing pipelines utilizing mainly GitLab CI/CD, GitHub and Jenkins to facilitate testing, deployment and various other automatizations to help deliver the product. <br>
 
 My main focus is to streamline automation in general with specific focus to automated testing, where I set the complete testing workflow from business processes to CI/CD pipelines and automated tests implementation and result consumption (reporting, automated ticket workflows etc.).
 
