@@ -149,6 +149,8 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 
 ### General knowledge
 
+Listed are areas I consider to be my general knowledge, I can apply this knowledge across multiple domains:
+
 - Programming
 - Product management
 - Test management
@@ -166,33 +168,33 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
 
 ### Domain knowledge
 
+Listed are fields I worked in and I consider myselft to grasp solid understanding of the underlying concepts:
+
 - Telecomunications
-- Financial Analysis & Basic knowledge of accounting
-- Financial products such as investment products, insurance products, loans
-- Marketing
-- PPC
-- UX/UI Design
+- Financial producs such as investment products, insurance products, loans
+- Human resources
+- Banking
+- Corporate law
+- Basic knowledge of accounting
 
 ### Industry or domain Knowledge
 
-- ~~Financial Analysis~~ & Basic knowledge of accounting
-- Financial products
-- ~~Product management~~
-- ~~Test management~~
-- ~~Testing~~
-- ~~Test Automation~~
-- Telecommunication
-- ~~Professional Writing~~
-- ~~Marketing~~
-- ~~PPC~~
-- ~~Design~~
-- BDD (Gherkin)
 
 
-### Interpersonal Skills
 
+### Soft Skills
+
+- Interpersonal skills
 - Teamwork
 - Communication
+- Collaboration
+- Leadership
+- Knowledge transfer and training
+- Team-oriented
+- Mentoring
+- Coaching
+
+
 - Dedicated
 - Thorough
 - Leadership
@@ -377,6 +379,7 @@ __Open Gate Boarding School, Babice u Říčan, Czech republic__ <br>
   - Agile
   - Scrum
   - Kanban
+  - BDD (Gherkin)
 
 
 ## Languages
