@@ -45,11 +45,58 @@ Pokud zrovna nepomáhám týmům s automatizací a vývojem, věnuji se primárn
 
 ### Specializace
 
-Datová analytika.
-
+- Produkt management.
+- Vývoj BE s přesahem do FE.
+- Automatizace.
+- Testování.
+- Analýza dat, vizualizace a reporting.
+- Školení.
 
 ## Zkušenosti
-`2018-Současnost` __Behavee__ **Data Konsultant, Reporting Specialista** - OSVČ <br>
+
+`August 2022 - Současnost` __Asseco Central Europe__ - Contractual <br>
+
+- Building test automation pipelines for financial products platforms.
+- Defining automated test scenarios.
+- Implementing automated test scenarios, ETL pipelines and test execution result visualizations.
+- Leading workshops focused on transferring knowledge pertaining to automated tests.
+- Leading and helping other contractual team members to deliver high-quality tests.
+
+`June 2022 - Současnost` __Renomia__ **Automation Lead** - Contractual <br>
+
+- Working on a Test Automation project in the Insurance field.
+- Analyzing test automation proccesses and defining technical requirements.
+- Implementing automated test scenarios, ETL pipelines and test execution result visualizations.
+- Leading workshops focused on transferring knowledge pertaining to automated tests.
+- Leading and helping other contractual team members to deliver high-quality tests.
+
+`2021-Současnost` __Denevy__ **Development a Testing consultant/Product owner** - Full-time <br>
+
+- `March 2021 - Září 2022`
+  - **Juno.one produkt owner**
+    - Driving the implementation of appropriate changes.
+    - Consulting stakeholders, collecting feedback and monitoring the market to create actionable steps for iterative development of an in-house tool.
+    - Managing the development and testing teams.
+    - Direct participation in development, testing automation and data management.
+    - Managing documentation.
+    - Managing product roadmap.
+
+- `March 2021 - Současnost`
+  - **Development a Testing konzultant**
+    - Working on various in-house and external projects for companies like Renomia, Asseco and Packeta.
+      - Leading the way to:
+        - deliver high-quality automations (especially test automation and data pipelines),
+        - consult on changes leading to higher satisfaction and effectiveness,
+        - helping with CI/CD processes.
+    - Product delivery, automation, test and data management consulting.
+    - Driving improvements in automation processes, testing automation, development and data pipelines and visualizations.
+    - Direct participation in BE and FE development.
+    - Analyzing weak spots and providing custom-tailored solutions.
+    - Writing high-quality technical and business documentation as well as participating in creating well-managed onboarding processes for QA.
+    - Leading and training testing and development teams.
+    - Implementing new strategies and processes to boost efficiency and streamline development.
+
+`2018-2021` __Behavee__ **Data & Development Konzultant, Reporting Specialista** - OSVČ <br>
 
 - Zkoumání dat, procesů a technologií za účelem vyhodnocení současného stavu a odhalení kritických problémů.
   - Design, výzkumné plány a analýzy.
@@ -57,26 +104,16 @@ Datová analytika.
 - Podpora development týmu při vytváření a implementaci datových strategií, navrhování a budování data flows a vývoji datových modelů.
 - Vytváření automatizovaných reportů a dokumentace.
 - Kontrola integrity dat a správa databází.
+- Zavádění nových efektivních strategií a procesů.
 
-`2018-2020` __T-Mobile__ **Data Konsultant** - OSVČ <br>
+`2018-2020` __T-Mobile__ **Data & Development Konzultant** - OSVČ <br>
 
 - Účast na projektu T-Mobile Czech Republic - Migrace dat, testing, reporting
   - Podpora migračních aktivit při přechodném období, příprava a konsolidace dat, data testing, reporting, handover připravených dat.
   - Data testing, data cleansing a migration tools development.
   - Design řešení pro konsolidaci a migraci dat z lokálních ERP systémů do mezinárodního řešení, design a reviewing přechodných a to-be procesů.
   - Zodpovědnost za přípravu dat v oblasti legal documents, plant maintenance, human resources a asset accounting.
-
-`2018-2019` __Proxy__ **Support konsultant** - Brigáda <br>
-
-- Technická a zákaznická podpora.
-- Příprava daňových přiznání a obdobných dokumentů týkajících se daní a dalších odvodů.
-- Údržba databází.
-
-`2018-2018` __Engel & Völkers Prague__ **Talent sourcer** - 2 měsíční stáž <br>
-
-- Odpovědnost za identifikaci a nábor uchazečů pro obsazení současných nebo budoucích volných pracovních pozic.
-- Interakce s potenciálními kandidáty osobně nebo online a plánování pohovorů v kooperci s HR.
-- Údržba databází kandidátů.
+  - Vedení týmu - data delivery.
 
 `2017-2018` __Komerční banka__ **Customer Service Representative** - Brigáda <br>
 
