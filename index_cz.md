@@ -11,7 +11,7 @@ language: cz
   <strong>Student práva</strong>, <strong>product management</strong> specialista <br> 
   <strong>automation development konzultant</strong> ve společnosti Denevy s bohatými zkušenostmi v oblasti B2B a B2C. | <br>
   Pomáhám podnikům uspět | <br>
-  Starám se o<strong>produkt management</strong> && <strong>BE/FE vývoj</strong> && <strong>automatizaci procesů a testů</strong> | <br>
+  Starám se o <strong>produkt management</strong> && <strong>BE/FE vývoj</strong> && <strong>automatizaci procesů a testů</strong> | <br>
   Velice se zajímám o (big) data management a legal compliance
 </p>
 
@@ -37,7 +37,7 @@ Pracuji jako **automation development lead** na různých interních a externíc
 
 Mým cílem je pomáhat podnikům k úspěchu tím, že zdokonaluji businessové i technické oblasti a poskytuji **technická školení**, kde sdílím své znalosti s ostatními. <br>
 
-Jsem profesionál s více než pětiletou praxí ve startupovém i firemním prostředí v oblasti IT s prokazatelnou řadou úspěšných projektů, na kterých jsem participoval po celou dobu jejich životního cyklu, ať už se jednalo o interní nástroje pro zvýšení produktivity až po budování softwaru s mezinárodní působností, který stále pomáhá lidem po celém světě v oblastech, jako je **marketing** nebo **řízení produktů** či **telekomunikace**. Je to pro mě nesmírně obohacující zkušenost, která mi pomohla a stále pomáhá chápat aktuální potřeby trhu a pomoci podnikům převést je do efektivních a úspěšných interních aktivit, z nichž mohou mít nesmírný užitek. <br>
+Jsem profesionál s více než pětiletou praxí ve startupovém i korporátním prostředí v oblasti IT s prokazatelnou řadou úspěšných projektů, na kterých jsem participoval po celou dobu jejich životního cyklu, ať už se jednalo o interní nástroje pro zvýšení produktivity až po budování softwaru s mezinárodní působností, který stále pomáhá lidem po celém světě v oblastech, jako je **marketing** nebo **řízení produktů** či **telekomunikace**. Je to pro mě nesmírně obohacující zkušenost, která mi pomohla a stále pomáhá chápat aktuální potřeby trhu a pomoci podnikům převést je do efektivních a úspěšných interních aktivit, z nichž mohou mít nesmírný užitek. <br>
 
 Díky mé praxi jsem získal zkušenosti a dovednosti v různých oblastech, abych pochopil, jak pomáhat společnostem s různými činnostmi od **analýzy business procesů**, **analýzy dat** a **testování** přes **řízení produktů** až po jejich **uvedení na trh** a **řízení životního cyklu**. To vše mi pomáhá přinášet efektivitu a úspěch v obchodní i mezilidské oblasti do projektů, v kterých působím. <br>
 
@@ -54,7 +54,7 @@ Pokud zrovna nepomáhám týmům s automatizací a vývojem, věnuji se primárn
 
 ## Zkušenosti
 
-`August 2022 - Současnost` __Asseco Central Europe__ - Smlouva <br>
+`Srpen 2022 - Současnost` __Asseco Central Europe__ - Smlouva <br>
 
 - Vytváření test automation pipeline pro platformy pro zprostředkování finančních produktů.
 - Definování automatizovaných testovacích scénářů.
@@ -62,7 +62,7 @@ Pokud zrovna nepomáhám týmům s automatizací a vývojem, věnuji se primárn
 - Vedení workshopů zaměřených na předávání znalostí týkajících se automatizovaných testů.
 - Vedení a pomoc ostatním členům týmu při dodávkách automatizovaných testů.
 
-`June 2022 - Současnost` __Renomia__ **Automation Lead** - Smlouva <br>
+`Červen 2022 - Současnost` __Renomia__ **Automation Lead** - Smlouva <br>
 
 - Práce na projektu automatizace testování v oblasti pojišťovnictví.
 - Analýza procesů automatizace testů a definování technických požadavků.
@@ -70,22 +70,22 @@ Pokud zrovna nepomáhám týmům s automatizací a vývojem, věnuji se primárn
 - Vedení workshopů zaměřených na předávání znalostí týkajících se automatizovaných testů.
 - Vedení a pomoc ostatním členům týmu při dodávkách automatizovaných testů.
 
-`2021-Současnost` __Denevy__ **Development a Testing consultant/Product owner** - Full-time <br>
+`2021-Současnost` __Denevy__ **Development a Testing consultant/Produkt owner** - Full-time <br>
 
-- `March 2021 - Září 2022`
+- `Březen 2021 - Září 2022`
   - **Juno.one produkt owner**
     - Realizace implementace relevantních změn a funkcí.
-    - Konzultace se stakeholders, shromažďování zpětné vazby a sledování trhu s cílem vytvořit realizovatelné kroky pro iterativní vývoj interního nástroje.
+    - Konzultace se stakeholdery, shromažďování zpětné vazby a sledování trhu s cílem vytvořit realizovatelné kroky pro iterativní vývoj interního nástroje.
     - Řízení vývojových a testovacích týmů.
     - Přímá účast na vývoji, automatizaci testování a správě dat.
     - Správa dokumentace.
     - Správa produktové roadmapy.
 
-- `March 2021 - Současnost`
+- `Březen 2021 - Současnost`
   - **Development a Testing konzultant**
     - Práce na různorodých interních i externích projektech pro společnosti jako Renomia, Asseco a Packeta týkajících se:
       - dodávek vysoce kvalitních automatizací (zejména automatizace testů a datových pipeline),
-      - konzultací, návrhu a implementace změn vedoucích k vyšší spokojenosti a efektivitě,
+      - konzultací, návrhu a implementaci změn vedoucích k vyšší spokojenosti a efektivitě,
       - implementace CI/CD.
     - Konzultace v oblasti dodávek produktů, automatizace, testování a správy dat.
     - Řízení zlepšování procesů automatizace, automatizace testování, developmentu a datových pipeline a vizualizací.
@@ -100,7 +100,7 @@ Pokud zrovna nepomáhám týmům s automatizací a vývojem, věnuji se primárn
 - Zkoumání dat, procesů a technologií za účelem vyhodnocení současného stavu a odhalení kritických problémů.
   - Design, výzkumné plány a analýzy.
 - Výzkum a vydávání doporučení ohledně business casů týkajících se využití a správy dat.
-- Podpora development týmu při vytváření a implementaci datových strategií, navrhování a budování data flows a vývoji datových modelů.
+- Podpora development týmu při vytváření a implementaci datových strategií, navrhování a budování datových toků a vývoji datových modelů.
 - Vytváření automatizovaných reportů a dokumentace.
 - Kontrola integrity dat a správa databází.
 - Zavádění nových efektivních strategií a procesů.
@@ -132,8 +132,8 @@ Pokud zrovna nepomáhám týmům s automatizací a vývojem, věnuji se primárn
 
 `2017-Současnost`
 __CEVRO Institut, Praha, Česká republika__ <br>
-- `2017-2020` - Bc., v oboru __Právo V Obchodních vztazích__ <br>
-- `2020-Současnost` - Studium Mgr., v oboru __Právo V Obchodních vztazích__ <br>
+- `2017-2020` - Bc., v oboru __Právo v obchodních vztazích__ <br>
+- `2020-Současnost` - Studium Mgr., v oboru __Právo v obchodních vztazích__ <br>
 
 `2010-2017`
 __Mensa Gymnázium, Praha, Česká republika__ <br>
@@ -183,7 +183,7 @@ __Open Gate Boarding School, Babice u Říčan, Česká republika__ <br>
 ### Soft skills
 
 - Následující seznam obsahuje nikoli taxativní výčet, soft skills:
-  - Mezilidské dovednosti,
+  - mezilidské dovednosti,
   - týmová práce,
   - efektivní komunikace,
   - spolupráce,
@@ -273,7 +273,7 @@ Pokud jste dočetli stránku do této části, tak níže jsem přidal dodatečn
 
 Nejdříve něco stručného o mně osobně. Jsem vášnivý hudebník a fotograf, který miluje právo, které stále studuji. V současné době žiji, pracuji a studuji v Praze, České republice. <br>
 
-Mé životní cesty mě zavedly na různé pozice, ale nakonec jsem se dostal k IT, které jsem si zamiloval. Začínal jsem jako **datový analytik**, ale podílel jsem se na mnoha projektech, kde jsem se věnoval jak **technické**, tak **businessové** stránce. Nakonec jsem zjistil, že nejvíc mě baví **automatizace** a zejména **automatizace testů** a **datové pipeliny**, nicméně stále se aktivně podílím na vývoji **BE** a **FE**, neboť se jedná o aktivity, které mě extrémně baví. <br>
+Mé životní cesty mě zavedly na různé pozice, ale nakonec jsem se dostal k IT, které jsem si zamiloval. Začínal jsem jako **datový analytik**, ale podílel jsem se na mnoha projektech, kde jsem se věnoval jak **technické**, tak **businessové** stránce. Nakonec jsem zjistil, že nejvíce mě baví **automatizace** a zejména **automatizace testů** a **datových pipeline**, nicméně stále se aktivně podílím na vývoji **BE** a **FE**, neboť se jedná o aktivity, které mě extrémně baví. <br>
 
 Pokud zrovna nepomáhám technickým týmům, velmi rád se vrhnu na **bussinesovou** stránku věci a pomohu projektu uspět po businessové stránce. Díky svým zkušenostem z businessových i technických týmů dokážu být **efektivní spojkou** mezi stakeholdery a vývojáři, překládat business cases do komplexních požadavků a transparentně spravovat produktový backlog a features tak, aby přinášel hodnotu pro společnost. <br>
 

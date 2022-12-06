@@ -285,7 +285,7 @@ I have worked on various projects for the past five years (in both startup (SMBs
 
 I have also worked on creating my own framework that can be utilized with Cucumber.js and aims to help with implementing the POM structure with Playwright and a very similar framework that aims to do the same thing but is meant to be used with Robot Framework. <br>
 
-I have also built deployment and testing pipelines utilizing mainly GitLab CI/CD, GitHub and Jenkins to facilitate testing, deployment and various other automatizations to help deliver the product from alpha versions to launch in the EU market to mature products with a huge number of clients worldwide. <br>
+I have also built deployment and testing pipelines utilizing mainly GitLab CI/CD, GitHub Actions and Jenkins to facilitate testing, deployment and various other automatizations to help deliver the product from alpha versions to launch in the EU market to mature products with a huge number of clients worldwide. <br>
 
 My current main focus is to **streamline automation** (this can sometimes involve the whole process of digital transformation) in general with a specific focus on **automated testing**, where I set the complete testing workflow from business processes to CI/CD pipelines and automated tests implementation and result consumption (reporting, automated ticket workflows etc.). To do this, I can analyze business and QA needs and translate them into comprehensive requirements which can be implemented. Defining new, improved and better workflows for the QA teams and teaching them to the employees/managers to ensure a more efficient and enjoyable way of handling just another day at work can go a long way towards bringing huge value to the business. <br>
 
