@@ -269,25 +269,15 @@ Níže jsou uvedeny další specifičtější dovednosti (Frameworky a Metodolog
 
 ## Něco víc o mně
 
-Pokud jste to dočetli až sem, tady je něco víc o mně, abyste se nenudili (především profesně, ale přihodil jsem i něco pro volný čas).
+Pokud jste dočetli stránku do této části, tak níže jsem přidal dodatečné informace, které, dokreslují můj profesní a do jisté míry i soukromý život, abych mírně zlomil monotónnost výše uvedených seznamů skillů. <br>
 
-If you read it till here, here's something more about me to keep you going (primarily professional, but I threw some leisure stuff in as well). <br>
+Nejdříve něco stručného o mně osobně. Jsem vášnivý hudebník a fotograf, který miluje právo, které stále studuji. V současné době žiji, pracuji a studuji v Praze, České republice. <br>
 
-Nejdříve něco stručného o mně osobně, abych narušil monotónnost. I am passionate musician and photographer who loves the law, which I am still studying. V současné době žiji v Praze v České republice.
+Mé životní cesty mě zsvedly na různé pozice, ale nakonec jsem se dostal k IT, které jsem si zamiloval. Začínal jsem jako **datový analytik**, ale podílel jsem se na mnoha projektech, kde jsem se věnoval jak **technické**, tak **businessové** stránce. Nakonec jsem zjistil, že nejvíc mě baví **automatizace** a zejména **automatizace testů** a **datové pipeliny**, nicméně stále se aktivně podílím na vývoji **BE** a **FE**, neboť se jedná o aktivity, které mě extrémně baví. <br>
 
-First, something brief about me personally to break the monotony. I am passionate musician and photographer who loves the law, which I am still studying. I am currently based in Prague, Czech Republic. <br>
+Pokud zrovna nepomáhám technickým týmům, velmi rád se vrhnu na **bussinesovou** stránku věci a pomohu projektu uspět po businessové stránce. Díky svým zkušenostem z businessových i technických týmů dokážu být **efektivní spojkou** mezi stakeholdery a vývojáři, překládat business cases do komplexních požadavků a transparentně spravovat produktový backlog a features tak, aby přinášel hodnotu pro společnost. <br>
 
-Mé životní cesty vedly na různé pozice, ale nakonec jsem se dostal k IT, které jsem si zamiloval. Začínal jsem jako datový analytik, ale podílel jsem se na mnoha projektech, kde jsem se věnoval jak technické, tak obchodní stránce. Nakonec jsem zjistil, že nejvíc miluji automatizaci věcí a zejména testy a datové pipeline, nicméně stále se aktivně podílím na vývoji BE a FE, protože jsem zjistil, že je to něco, co mě opravdu baví.
-
-My life paths have led me to various positions, but I eventually got to IT, which I learned to love. I started as a **data analyst**, but I participated in a lot of projects where I focused on both the **technical** and **business** sides. Eventually, I found myself loving **automating** things and especially **tests** and **data pipelines** the most, however I still actively participate in **BE** and **FE** development as I found out it's something I really enjoy. <br>
-
-Pokud zrovna nepomáhám technickým týmům, velmi rád se vrhnu na obchodní stránku věci a pomohu projektu uspět po obchodní stránce. Díky svým zkušenostem z obchodních i technických týmů dokážu být efektivní spojkou mezi zainteresovanými stranami a vývojáři, převádět obchodní potřeby do komplexních požadavků a transparentně spravovat produktový backlog a funkce tak, aby přinášely hodnotu pro firmu.
-
-If I am not helping the technical teams, I am more than happy to jump to **business** and help the project succeed from the business side of things. Because of my experiences in both business and technical teams, I can be an **effective liaison** between stakeholders and developers, translating business needs into comprehensive requirements and transparently managing the product backlog and features to bring value to the business.<br>
-
-Pokud zrovna nepracuji, rád cestuji, hraji na akustickou a elektrickou kytaru a fotografuji.
-
-If I am not working, I love traveling, playing my acoustic and electric guitars and taking photos. <br>
+Pokud zrovna nepracuji, rád cestuji, hraji na svou akustickou a elektrickou kytaru a fotografuji. <br>
 
 Let's get back to vocational stuff now. I realize that reading succinct description of individual projects I worked on and the list of skills, which can sometimes be rather arbitrary, does not really show the individual projects I worked on in detail, so here is something more about what I did. <br>
 
