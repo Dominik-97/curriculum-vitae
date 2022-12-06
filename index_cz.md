@@ -149,63 +149,112 @@ __Open Gate Boarding School, Babice u Říčan, Česká republika__ <br>
 &nbsp;
 &nbsp;
 
-### Znalosti v oboru
+### Všeobecné znalosti
 
-- Finanční analýza & Základní znalost účetnictví
-- Business strategie
-- Business development
-- Business analytika
-- Analytické schopnosti
-- Kontingenční tabulky
-- Shell scripting
-- Testování
-- Automatizace testů
-- Telekomunikace
-- Profesionální psaní
-- Marketing
-- PPC
-- Design
-- BDD (Gherkin)
+- Níže jsou uvedené všeobecné znalosti, které uplatňuji ve specifických doménách:
+  - programování,
+  - řízení produktů,
+  - řízení projektů,
+  - řízení procesů,
+  - řízení testování,
+  - testování,
+  - automatizace testování,
+  - odborné psaní,
+  - základní znalosti UX/UI designu,
+  - správa dat,
+  - analýza dat,
+  - základní znalosti marketingu,
+  - základní znalosti PPC,
+  - soukromé právo,
+  - customer journey,
+  - consulting,
+  - řízení životního cyklu produktu.
 
+### Doménové znalosti
 
-### Osobnostní rysy
+- V seznamu jsou uvedeny obory, ve kterých jsem pracoval a dobře se v nich orientuji:
+  - telekomunikace,
+  - finanční produkty, jako jsou investiční produkty, pojistné produkty, půjčky,
+  - lidské zdroje,
+  - bankovnictví,
+  - podnikové právo,
+  - účetnictví.
 
-- Teamwork
-- Komunikace
-- Pracovitost
-- Pečlivost
+### Soft skills
 
+- Následující seznam obsahuje nikoli taxativní výčet, soft skills:
+  - Mezilidské dovednosti,
+  - týmová práce,
+  - efektivní komunikace,
+  - spolupráce,
+  - vedení lidí,
+  - předávání znalostí a školení,
+  - orientace na tým,
+  - mentoring,
+  - koučování,
+  - oddanost,
+  - důkladnost,
+  - prezentační dovednosti,
+  - analytické schopnosti,
+  - schopnost řešit problémy,
+  - time management,
+  - vedení týmu,
+  - rétorika,
+  - integrita,
+  - spolehlivost,
+  - otevřenost,
+  - kreativita,
+  - kritické myšlení,
+  - přizpůsobivost,
+  - organizovanost,
+  - ochota učit se,
+  - empatie.
 
 ### Nástroje & Technologie
 
-- SharePoint <img alt="microsoftsharepoint" src="https://simpleicons.org/icons/microsoftsharepoint.svg" width="15px">
-- Microsoft Access <img alt="microsoftaccess" src="https://simpleicons.org/icons/microsoftaccess.svg" width="15px">
-- Microsoft Excel <img alt="microsoftexcel" src="https://simpleicons.org/icons/microsoftexcel.svg" width="15px">
-- Microsoft Power Query <img alt="microsoftpowerquery" src="https://simpleicons.org/icons/microsoft.svg" width="15px">
-- Visual Basic for Applications (VBA) <img alt="visualbasicforapplications" src="https://cdn3.iconfinder.com/data/icons/flat-design-spreadsheet-set-5/24/macros-vba-512.png" width="15px">
-- git <img alt="git" src="https://simpleicons.org/icons/git.svg" width="15px">
-- GitHub & GitLab <img alt="github" src="https://simpleicons.org/icons/github.svg" width="15px"> & <img alt="gitlab" src="https://simpleicons.org/icons/gitlab.svg" width="15px">
-- Tableau <img alt="tableau" src="https://simpleicons.org/icons/tableau.svg" width="15px">
-- Microsoft Power BI <img alt="microsoftpowerbi" src="https://simpleicons.org/icons/powerbi.svg" width="15px">
-- REST API <img alt="Rest API" src="https://img.icons8.com/ios/64/000000/api-settings.png" width="15px">
-- JSON, XML, YAML
-- Selenium <img alt="selenium" src="https://img.icons8.com/wired/64/000000/selenium-test-automation.png" width="15px">
-- HTML5 <img alt="html5" src="https://simpleicons.org/icons/html5.svg" width="15px">
-- CSS <img alt="css3" src="https://simpleicons.org/icons/css3.svg" width="15px">
-- Python <img alt="python" src="https://simpleicons.org/icons/python.svg" width="15px">
-- MySQL <img alt="MySQL" src="https://simpleicons.org/icons/mysql.svg" width="15px">
-- Markdown <img alt="Markdown" src="https://simpleicons.org/icons/markdown.svg" width="15px">
-- Terminal & Shell scripting (bash) <img alt="GNU Bash" src="https://simpleicons.org/icons/gnubash.svg" width="15px">
-- LaTeX <img alt="LaTeX" src="https://simpleicons.org/icons/latex.svg" width="15px">
-- Microsoft Office <img alt="Microsoft Office" src="https://simpleicons.org/icons/microsoftoffice.svg" width="15px">
-- Microsoft Power Automate & Integromat <img alt="Microsoft Power Automate" src="https://img.icons8.com/fluent/48/000000/microsoft-power-automate-2020.png" width="15px"> & <img alt="Integromat" src="https://images.saasworthy.com/integromat_1954_logo_1576566957_wkfxu.png" width="15px">
-- Google Cloud Platform (GCP) & Microsoft Azure <img alt="Google Cloud Platform" src="https://simpleicons.org/icons/googlecloud.svg" width="15px"> & <img alt="Microsoft Azure" src="https://simpleicons.org/icons/microsoftazure.svg" width="15px">
-- Google Analytics & Tag Manager <img alt="Google Analytics" src="https://simpleicons.org/icons/googleanalytics.svg" width="15px"> & <img alt="Google Tag Manager" src="https://simpleicons.org/icons/googletagmanager.svg" width="15px">
-- Basic Adobe Suite <img alt="Adobe Vreative Suite" src="https://simpleicons.org/icons/adobe.svg" width="15px">
-- BPMN & UML
-- MacOS & Windows & Linux <img alt="Apple" src="https://simpleicons.org/icons/apple.svg" width="15px"> & <img alt="Windows" src="https://simpleicons.org/icons/windows.svg" width="15px"> & <img alt="Linux" src="https://simpleicons.org/icons/linux.svg" width="15px">
-- Základní znalost: R & JavaScript & Node.js <img alt="R" src="https://simpleicons.org/icons/r.svg" width="15px"> & <img alt="JavaScript" src="https://simpleicons.org/icons/javascript.svg" width="15px"> & <img alt="Node.js" src="https://simpleicons.org/icons/node-dot-js.svg" width="15px">
+Níže jsou uvedeny mé technické znalosti, jako jsou například znalosti programovací jazyků, frameworků a toolů.
 
+<br>
+
+<ul>
+{% for skill in site.data.cv_data.HardSkills %}
+{% if skill.use %}
+<li>
+  {{ skill.name }}
+  {% for image in skill.images %}
+    <img alt="{{image.alt}}" src="{{image.src}}" width="15px">
+    {% unless forloop.last %} & {% endunless %}
+  {% endfor %}
+  | {{ skill.level.cz }}
+</li>
+{% endif %}
+{% endfor %}
+</ul>
+
+### Ostatní hard skills
+
+Níže jsou uvedeny další specifičtější dovednosti (Frameworky a Metodologie..), které nemusí přímo spadat do oblasti Nástroje & Technologie nebo Všeobecné znalosti.
+
+<br>
+
+<ul>
+{% for skill in site.data.cv_data.Others %}
+{% if skill.use %}
+<li>
+  {{ skill.name }}
+  {% if skill.images.lenght > 0 %}
+  {% for image in skill.images %}
+    <img alt="{{image.alt}}" src="{{image.src}}" width="15px">
+    {% unless forloop.last %} & {% endunless %}
+  {% endfor %}
+  {% endif %}
+  {% if skill.level.cz %}
+  | {{ skill.level.cz }}
+  {% endif %}
+</li>
+{% endif %}
+{% endfor %}
+</ul>
 
 ## Jazyky
 
@@ -217,6 +266,8 @@ __Open Gate Boarding School, Babice u Říčan, Česká republika__ <br>
   - Základní pasivní znalost
 - Jazyk: **Němčina**
   - Základní pasivní znalost
+
+## Něco víc o mně
 
 
 <!-- ### Patička
