@@ -9,9 +9,9 @@ language: cz
 <h1>Dominik Bálint</h1>
 <p>
   <strong>Student práva</strong>, <strong>product management</strong> specialista <br> 
-  <strong>automation development konzultant</strong> ve společnosti Denevy s bohatými zkušenostmi v oblasti B2B a B2C. | <br>
+  <strong>automation development consultant</strong> ve společnosti Denevy s bohatými zkušenostmi v oblasti B2B a B2C. | <br>
   Pomáhám podnikům uspět | <br>
-  Starám se o <strong>produkt management</strong> && <strong>BE/FE vývoj</strong> && <strong>automatizaci procesů a testů</strong> | <br>
+  Starám se o <strong>product management</strong> && <strong>BE/FE vývoj</strong> && <strong>automatizaci procesů a testů</strong> | <br>
   Velice se zajímám o (big) data management a legal compliance
 </p>
 
@@ -45,7 +45,7 @@ Pokud zrovna nepomáhám týmům s automatizací a vývojem, věnuji se primárn
 
 ### Specializace
 
-- Produkt management.
+- Product management.
 - Vývoj BE s přesahem do FE.
 - Automatizace.
 - Testování.
@@ -70,10 +70,10 @@ Pokud zrovna nepomáhám týmům s automatizací a vývojem, věnuji se primárn
 - Vedení workshopů zaměřených na předávání znalostí týkajících se automatizovaných testů.
 - Vedení a pomoc ostatním členům týmu při dodávkách automatizovaných testů.
 
-`2021-Současnost` __Denevy__ **Development a Testing consultant/Produkt owner** - Full-time <br>
+`2021-Současnost` __Denevy__ **Development a Testing consultant/Product owner** - Full-time <br>
 
 - `Březen 2021 - Září 2022`
-  - **Juno.one produkt owner**
+  - **Juno.one product owner**
     - Realizace implementace relevantních změn a funkcí.
     - Konzultace se stakeholdery, shromažďování zpětné vazby a sledování trhu s cílem vytvořit realizovatelné kroky pro iterativní vývoj interního nástroje.
     - Řízení vývojových a testovacích týmů.
@@ -82,7 +82,7 @@ Pokud zrovna nepomáhám týmům s automatizací a vývojem, věnuji se primárn
     - Správa produktové roadmapy.
 
 - `Březen 2021 - Současnost`
-  - **Development a Testing konzultant**
+  - **Development a Testing consultant**
     - Práce na různorodých interních i externích projektech pro společnosti jako Renomia, Asseco a Packeta týkajících se:
       - dodávek vysoce kvalitních automatizací (zejména automatizace testů a datových pipeline),
       - konzultací, návrhu a implementaci změn vedoucích k vyšší spokojenosti a efektivitě,
@@ -95,7 +95,7 @@ Pokud zrovna nepomáhám týmům s automatizací a vývojem, věnuji se primárn
     - Vedení a školení testovacích a vývojových týmů.
     - Zavádění nových strategií a procesů pro zvýšení efektivity a zefektivnění vývoje.
 
-`2018-2021` __Behavee__ **Data & Development Konzultant, Reporting Specialista** - OSVČ <br>
+`2018-2021` __Behavee__ **Data & Development consultant, Reporting Specialista** - OSVČ <br>
 
 - Zkoumání dat, procesů a technologií za účelem vyhodnocení současného stavu a odhalení kritických problémů.
   - Design, výzkumné plány a analýzy.
@@ -105,7 +105,7 @@ Pokud zrovna nepomáhám týmům s automatizací a vývojem, věnuji se primárn
 - Kontrola integrity dat a správa databází.
 - Zavádění nových efektivních strategií a procesů.
 
-`2018-2020` __T-Mobile__ **Data & Development Konzultant** - OSVČ <br>
+`2018-2020` __T-Mobile__ **Data & Development consultant** - OSVČ <br>
 
 - Účast na projektu T-Mobile Czech Republic - Migrace dat, testing, reporting
   - Podpora migračních aktivit při přechodném období, příprava a konsolidace dat, data testing, reporting, handover připravených dat.
@@ -302,7 +302,7 @@ Cením si poctivosti, odvahy, píle a snahy rozvíjet se. Jsem vždy otevřen no
 - Psaní.
 - (Big) Data a data compliance, reporting, ETL pipeliny a vizualizace.
 - Vývoj backendu (s přesahem do frontendu).
-- Produktový management.
+- Product management.
 - Consulting a školení.
 - Agilní přístup.
 
@@ -310,6 +310,6 @@ Cením si poctivosti, odvahy, píle a snahy rozvíjet se. Jsem vždy otevřen no
 
 Naposledy updatováno: Prosinec 2022
 
-Ikonky od Flaticon/Shield.io/Simpleicons pokud nejsou z těchto zdrojů, tak jsou od https://icons8.com/icon/55497/rest-api NEBO jsou použity obrázky naleznuté přes Google Image Search, licence je prověřena NEBO je použit Adobe Icons jako součást Creative Cloudu 
+Ikony od Flaticon/Shield.io/Simpleicons pokud nejsou z těchto zdrojů, tak jsou od https://icons8.com/icon/55497/rest-api NEBO jsou použity obrázky naleznuté přes Google Image Search, licence je prověřena NEBO je použit Adobe Icons jako součást Creative Cloudu 
 
 -->
