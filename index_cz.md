@@ -241,7 +241,7 @@ Níže jsou uvedeny další specifičtější dovednosti (Frameworky a Metodolog
 {% for skill in site.data.cv_data.Others %}
 {% if skill.use %}
 <li>
-  {{ skill.name }}
+  {{ skill.name.cz }}
   {% if skill.images.lenght > 0 %}
   {% for image in skill.images %}
     <img alt="{{image.alt}}" src="{{image.src}}" width="15px">

@@ -820,319 +820,478 @@
     ],
     "Others": [
         {
-            "name": "Process improvement",
+            "name": {
+                "en": "Process improvement",
+                "cz": "Zlepšování procesů"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Product delivery",
+            "name": {
+                "en": "Product delivery",
+                "cz": "Produkt delivery"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Project delivery",
+            "name": {
+                "en": "Project delivery",
+                "cz": "Projekt delivery"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Project coordination",
+            "name": {
+                "en": "Project coordination",
+                "cz": "Koordinace projektu"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Process management and improvement",
+            "name": {
+                "en": "Process management and improvement",
+                "cz": "Řízení a zlepšování procesů"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Product launch",
+            "name": {
+                "en": "Product launch",
+                "cz": "Uvedení produktu na trh"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "QA Lead",
+            "name": {
+                "en": "QA Lead",
+                "cz": "QA Lead"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Process quality improvements",
+            "name": {
+                "en": "Process quality improvements",
+                "cz": "Zlepšení kvality procesů"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Project Management",
+            "name": {
+                "en": "Project Management",
+                "cz": "Projekt Management"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Profesionals services",
+            "name": {
+                "en": "Profesionals services",
+                "cz": "Profesionals services"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Outsourcing",
+            "name": {
+                "en": "Outsourcing",
+                "cz": "Outsourcing"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Global delivery",
+            "name": {
+                "en": "Global delivery",
+                "cz": "Global delivery"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Managed services",
+            "name": {
+                "en": "Managed services",
+                "cz": "Managed services"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "BPO",
+            "name": {
+                "en": "BPO",
+                "cz": "BPO"
+            },
             "images": [],
             "level": {},
             "use": false
         },
         {
-            "name": "Project Coordinator",
+            "name": {
+                "en": "Project Coordinator",
+                "cz": "Koordinátor projektů"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Managed security services",
+            "name": {
+                "en": "Managed security services",
+                "cz": "Managed security services"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "FCE",
+            "name": {
+                "en": "FCE",
+                "cz": "FCE"
+            },
             "images": [],
             "level": {},
             "use": false
         },
         {
-            "name": "Public speaking",
+            "name": {
+                "en": "Public speaking",
+                "cz": "Veřejné vystupování"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "FMCG",
+            "name": {
+                "en": "FMCG",
+                "cz": "FMCG"
+            },
             "images": [],
             "level": {},
             "use": false
         },
         {
-            "name": "Marketing strategy",
+            "name": {
+                "en": "Marketing strategy",
+                "cz": "Marketingová strategie"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Marketing research",
+            "name": {
+                "en": "Marketing research",
+                "cz": "Marketingový výzkum"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Digital Marketing",
+            "name": {
+                "en": "Digital Marketing",
+                "cz": "Digitální marketing"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Email marketing",
+            "name": {
+                "en": "Email marketing",
+                "cz": "Email marketing"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Facebook",
+            "name": {
+                "en": "Facebook",
+                "cz": "Facebook"
+            },
             "images": [],
             "level": {},
             "use": false
         },
         {
-            "name": "Youtube",
+            "name": {
+                "en": "Youtube",
+                "cz": "Youtube"
+            },
             "images": [],
             "level": {},
             "use": false
         },
         {
-            "name": "Copywriting",
+            "name": {
+                "en": "Copywriting",
+                "cz": "Copywriting"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Pricing and Strategy",
+            "name": {
+                "en": "Pricing and Strategy",
+                "cz": "Cenotvorba a strategie"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Agile Development",
+            "name": {
+                "en": "Agile Development",
+                "cz": "Agile Development"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Scrum",
+            "name": {
+                "en": "Scrum",
+                "cz": "Scrum"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Kanban",
+            "name": {
+                "en": "Kanban",
+                "cz": "Kanban"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "BDD, TDD, DDT",
+            "name": {
+                "en": "BDD, TDD, DDT",
+                "cz": "BDD, TDD, DDT"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Business Strategy",
+            "name": {
+                "en": "Business Strategy",
+                "cz": "Business Strategy"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Business Development",
+            "name": {
+                "en": "Business Development",
+                "cz": "Business Development"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Business Analysis",
+            "name": {
+                "en": "Business Analysis",
+                "cz": "Business Analysis"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Customer and Stakeholder satisfaction",
+            "name": {
+                "en": "Customer and Stakeholder satisfaction",
+                "cz": "Customer and Stakeholder satisfaction"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Service delivery",
+            "name": {
+                "en": "Service delivery",
+                "cz": "Service delivery"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Process management",
+            "name": {
+                "en": "Process management",
+                "cz": "Řízení procesů"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Error analysis",
+            "name": {
+                "en": "Error analysis",
+                "cz": "Error analysis"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Product Marketing",
+            "name": {
+                "en": "Product Marketing",
+                "cz": "Produkt Marketing"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "E-commerce",
+            "name": {
+                "en": "E-commerce",
+                "cz": "E-commerce"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Econometrics",
+            "name": {
+                "en": "Econometrics",
+                "cz": "Ekonometrie"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Research",
+            "name": {
+                "en": "Research",
+                "cz": "Research"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Web Analytics",
+            "name": {
+                "en": "Web Analytics",
+                "cz": "Web Analytics"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Video Editing",
+            "name": {
+                "en": "Video Editing",
+                "cz": "Video Editing"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Photo Editing",
+            "name": {
+                "en": "Photo Editing",
+                "cz": "Photo Editing"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Investments",
+            "name": {
+                "en": "Investments",
+                "cz": "Investments"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Social Networking",
+            "name": {
+                "en": "Social Networking",
+                "cz": "Social Networking"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "SaaS",
+            "name": {
+                "en": "SaaS",
+                "cz": "SaaS"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Product strategy",
+            "name": {
+                "en": "Product strategy",
+                "cz": "Produktová strategie"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Competition monitoring",
+            "name": {
+                "en": "Competition monitoring",
+                "cz": "Monitorování konkurence"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Mockup building",
+            "name": {
+                "en": "Mockup building",
+                "cz": "Mockup building"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "OOP",
+            "name": {
+                "en": "OOP",
+                "cz": "OOP"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Integrations",
+            "name": {
+                "en": "Integrations",
+                "cz": "Integrace"
+            },
             "images": [
                 {
                     "alt": "API",
@@ -1146,7 +1305,10 @@
             "use": false
         },
         {
-            "name": "API Testing",
+            "name": {
+                "en": "API Testing",
+                "cz": "API Testing"
+            },
             "images": [
                 {
                     "alt": "API",
@@ -1160,7 +1322,10 @@
             "use": false
         },
         {
-            "name": "Networking",
+            "name": {
+                "en": "Networking",
+                "cz": "Networking"
+            },
             "images": [],
             "level": {
                 "en": "Beginner",
@@ -1169,7 +1334,10 @@
             "use": false
         },
         {
-            "name": "Pivot Tables",
+            "name": {
+                "en": "Pivot Tables",
+                "cz": "Kontingenční tabulky"
+            },
             "images": [],
             "level": {
                 "en": "Advanced",
@@ -1178,7 +1346,10 @@
             "use": false
         },
         {
-            "name": "Technical and business documentation",
+            "name": {
+                "en": "Technical and business documentation",
+                "cz": "Technická a businessová dokumentace"
+            },
             "images": [],
             "level": {
                 "en": "Advanced",
@@ -1187,7 +1358,10 @@
             "use": false
         },
         {
-            "name": "POM",
+            "name": {
+                "en": "POM",
+                "cz": "POM"
+            },
             "images": [],
             "level": {
                 "en": "Advanced",
@@ -1196,7 +1370,10 @@
             "use": false
         },
         {
-            "name": "Unit testing",
+            "name": {
+                "en": "Unit testing",
+                "cz": "Unit testing"
+            },
             "images": [],
             "level": {
                 "en": "Advanced",
@@ -1205,7 +1382,10 @@
             "use": false
         },
         {
-            "name": "Integration testing",
+            "name": {
+                "en": "Integration testing",
+                "cz": "Integration testing"
+            },
             "images": [],
             "level": {
                 "en": "Intermediate",
@@ -1214,7 +1394,10 @@
             "use": false
         },
         {
-            "name": "UAT",
+            "name": {
+                "en": "UAT",
+                "cz": "UAT"
+            },
             "images": [],
             "level": {
                 "en": "Advanced",
@@ -1223,7 +1406,10 @@
             "use": false
         },
         {
-            "name": "Database management",
+            "name": {
+                "en": "Database management",
+                "cz": "Database management"
+            },
             "images": [],
             "level": {
                 "en": "Advanced",
@@ -1232,7 +1418,10 @@
             "use": false
         },
         {
-            "name": "Full-Stack Web Development",
+            "name": {
+                "en": "Full-Stack Web Development",
+                "cz": "Full-Stack Web Development"
+            },
             "images": [],
             "level": {
                 "en": "Intermediate",
@@ -1241,67 +1430,100 @@
             "use": false
         },
         {
-            "name": "Integrations",
+            "name": {
+                "en": "Integrations",
+                "cz": "Integrace"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "API Testing",
+            "name": {
+                "en": "API Testing",
+                "cz": "API Testing"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Networking",
+            "name": {
+                "en": "Networking",
+                "cz": "Networking"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Pivot Tables",
+            "name": {
+                "en": "Pivot Tables",
+                "cz": "Kontingenční tabulky"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Technical and business documentation",
+            "name": {
+                "en": "Technical and business documentation",
+                "cz": "Technická a businessová dokumentace"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "POM",
+            "name": {
+                "en": "POM",
+                "cz": "POM"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Unit testing",
+            "name": {
+                "en": "Unit testing",
+                "cz": "Unit testing"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Integration testing",
+            "name": {
+                "en": "Integration testing",
+                "cz": "Integration testing"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "UAT",
+            "name": {
+                "en": "UAT",
+                "cz": "UAT"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Database management",
+            "name": {
+                "en": "Database management",
+                "cz": "Database management"
+            },
             "images": [],
             "level": {},
             "use": true
         },
         {
-            "name": "Full-Stack Web Development",
+            "name": {
+                "en": "Full-Stack Web Development",
+                "cz": "Full-Stack Web Development"
+            },
             "images": [],
             "level": {},
             "use": true

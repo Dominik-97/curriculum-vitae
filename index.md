@@ -241,7 +241,7 @@ Listed below are other more specific hard skills (Frameworks & Methodologies..) 
 {% for skill in site.data.cv_data.Others %}
 {% if skill.use %}
 <li>
-  {{ skill.name }}
+  {{ skill.name.en }}
   {% if skill.images.lenght > 0 %}
   {% for image in skill.images %}
     <img alt="{{image.alt}}" src="{{image.src}}" width="15px">
