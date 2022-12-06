@@ -273,7 +273,7 @@ Pokud jste dočetli stránku do této části, tak níže jsem přidal dodatečn
 
 Nejdříve něco stručného o mně osobně. Jsem vášnivý hudebník a fotograf, který miluje právo, které stále studuji. V současné době žiji, pracuji a studuji v Praze, České republice. <br>
 
-Mé životní cesty mě zsvedly na různé pozice, ale nakonec jsem se dostal k IT, které jsem si zamiloval. Začínal jsem jako **datový analytik**, ale podílel jsem se na mnoha projektech, kde jsem se věnoval jak **technické**, tak **businessové** stránce. Nakonec jsem zjistil, že nejvíc mě baví **automatizace** a zejména **automatizace testů** a **datové pipeliny**, nicméně stále se aktivně podílím na vývoji **BE** a **FE**, neboť se jedná o aktivity, které mě extrémně baví. <br>
+Mé životní cesty mě zavedly na různé pozice, ale nakonec jsem se dostal k IT, které jsem si zamiloval. Začínal jsem jako **datový analytik**, ale podílel jsem se na mnoha projektech, kde jsem se věnoval jak **technické**, tak **businessové** stránce. Nakonec jsem zjistil, že nejvíc mě baví **automatizace** a zejména **automatizace testů** a **datové pipeliny**, nicméně stále se aktivně podílím na vývoji **BE** a **FE**, neboť se jedná o aktivity, které mě extrémně baví. <br>
 
 Pokud zrovna nepomáhám technickým týmům, velmi rád se vrhnu na **bussinesovou** stránku věci a pomohu projektu uspět po businessové stránce. Díky svým zkušenostem z businessových i technických týmů dokážu být **efektivní spojkou** mezi stakeholdery a vývojáři, překládat business cases do komplexních požadavků a transparentně spravovat produktový backlog a features tak, aby přinášel hodnotu pro společnost. <br>
 
@@ -291,9 +291,20 @@ V současné době se zaměřuji především na **zefektivnění automatizací*
 
 Nefunguje vaše QA tak efektivně, jak by mohlo, nebo nevíte, jak vizualizovat nebo konzumovat data, automatizovat datové toky nebo budovat interní znalostní databázi? Trpí váš produkt nedostatečnými nebo neefektivními procesy QA? Zhoršilo to nebo negativně ovlivnilo řízení a/nebo uvedení a dodání vašeho produktu na trh? Máte problémy s procesy nebo informačními kanály a jejich fungováním na různých úrovních projektu, ale nevíte, jak vše zvládnout, abyste na trhu byli úspěšní? Existuje mnoho případů, které vás mohou negativně ovlivnit, a mnoho z nich může souviset s QA a procesy, které nejsou efektivní. Mohu vám pomoci tyto problémy vyřešit a pomoci vám úspěšně řídit váš produkt. <br>
 
-And finally, I am a **people person**, so I love transferring these skills that I have learned over the years to other people through **mentoring**, **coaching** and **training**, so the businesses can retain the added value I brought in to apply the improvements and solve various business and technical problems they might encounter in the future. I love **communication** and **connecting people** to deliver product value. I can always find a solution to a problem, analyze it, propose a solution, implement the solution, implement procesess and write documentation and methodologies. <br>
+Na závěr chci říci, že jsem **people person**, takže rád předávám dovednosti, které jsem se za léta strávená prací v oboru IT naučil, dalším lidem prostřednictvím **mentoringu**, **koučování** a **školení**, aby si podniky mohly uchovat přidanou hodnotu, kterou jsem jim přinesl, a efektivně v budoucnu řešit různé businessové a technické problémy, které mohou nastat. Miluji **komunikaci** a **propojování lidí** za účelem dodávání hodnoty. Vždy dokážu najít řešení problému, analyzovat ho, navrhnout řešení, implementovat řešení, zavést procesy a napsat dokumentaci a metodiku. <br>
 
-I value honesty, courage, diligence, learning, teaching. I am always open to new challenges.
+Cením si poctivosti, odvahy, píle a snahy rozvíjet se. Jsem vždy otevřen novým výzvám.
+
+## Mám zájem o
+
+- Testování.
+- Automatizaci testů (E2E FE, Unit, Integration).
+- Psaní.
+- (Big) Data a data compliance, reporting, ETL pipeliny a vizualizace.
+- Vývoj backendu (s přesahem do frontendu).
+- Produktový management.
+- Consulting a školení.
+- Agilní přístup.
 
 <!-- ### Patička
 
