@@ -279,7 +279,7 @@ Pokud zrovna nepomáhám technickým týmům, velmi rád se vrhnu na **bussineso
 
 Pokud zrovna nepracuji, rád cestuji, hraji na svou akustickou a elektrickou kytaru a fotografuji. <br>
 
-Let's get back to vocational stuff now. I realize that reading succinct description of individual projects I worked on and the list of skills, which can sometimes be rather arbitrary, does not really show the individual projects I worked on in detail, so here is something more about what I did. <br>
+Vraťme se nyní k profesním věcem. Uvědomuji si, že přečtení stručného popisu jednotlivých projektů, na kterých jsem pracoval, a výčtu dovedností, který může být někdy dosti arbitrární, nemůže čtenáři poskytnou dostatečný přehled o detailech projektů, na kterých jsem pracoval, níže tedy popisuji exemplární výčet několika příkladů takových produktů. <br>
 
 I have worked on various projects for the past five years (in both startup (SMBs) and corporate environments), where I built Dockerized full-stack internal and external applications, for example, for information transferring (various messaging and internal/external newsletter apps with custom backend and frontend), various automation tools such as custom format parsers for generating Open API specs, deploying applications with regards to semantic versioning and auto up to date changelog, data ETL pipelines and visualizations in Grafana, Power BI or Tableau and much more. <br>
 
