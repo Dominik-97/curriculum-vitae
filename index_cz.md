@@ -27,7 +27,7 @@ language: cz
 <div class="picture-borders picture-itself"></div>
 </div>
 
-<hr style="margin-top: 80px;">
+<hr style="margin-top: 20px;">
 
 </div>
 
