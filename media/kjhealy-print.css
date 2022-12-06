@@ -30,7 +30,7 @@ time, mark, audio, video {
 
 .fixed {
   overflow: hidden;
-  position: fixed; /* Set the navbar to fixed position */
+  position: sticky; /* Set the navbar to fixed position */
   background:white;
   z-index: 99;
   opacity: 1;
@@ -210,7 +210,7 @@ strong {
 @media only screen and (max-width: 1080px) {
   .topcorner{
     position:absolute;
-    top:5px;
+    top: 5px;
     left: 10px;
     width: 200px;
   }

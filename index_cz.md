@@ -7,7 +7,13 @@ language: cz
 <div class="fixed">
 
 <h1>Dominik Bálint</h1>
-<p>Student práva, Data Konsultant a Reporting Specialista v Behavee.</p>
+<p>
+  <strong>Student práva</strong>, <strong>product management</strong> specialista <br> 
+  <strong>automation development konzultant</strong> ve společnosti Denevy s bohatými zkušenostmi v oblasti B2B a B2C. | <br>
+  Pomáhám podnikům uspět | <br>
+  Starám se o <strong>produkt management</strong> && <strong>BE/FE vývoj</strong> && <strong>automatizaci procesů a testů</strong> | <br>
+  Velice se zajímám o (big) data management a legal compliance
+</p>
 
 <div id="webaddress">
 <a href="email@email.cz">email@email.org</a>
@@ -21,48 +27,92 @@ language: cz
 <div class="picture-borders picture-itself"></div>
 </div>
 
-<hr style="margin-top: 80px;">
+<hr style="margin-top: 20px;">
 
 </div>
 
-## Aktuálně
+## O mě
 
-Pracuji jako Data Konsultant a Reporting Specialista v Behavee & Studuji právo.
+Pracuji jako **automation development lead** na různých interních a externích projektech ve společnosti Denevy. Nejvíce se soustředím na **automatizaci testů**, **automatizaci procesů** a **reporting**. <br>
+
+Mým cílem je pomáhat podnikům k úspěchu tím, že zdokonaluji businessové i technické oblasti a poskytuji **technická školení**, kde sdílím své znalosti s ostatními. <br>
+
+Jsem profesionál s více než pětiletou praxí ve startupovém i korporátním prostředí v oblasti IT s prokazatelnou řadou úspěšných projektů, na kterých jsem participoval po celou dobu jejich životního cyklu, ať už se jednalo o interní nástroje pro zvýšení produktivity až po budování softwaru s mezinárodní působností, který stále pomáhá lidem po celém světě v oblastech, jako je **marketing** nebo **řízení produktů** či **telekomunikace**. Je to pro mě nesmírně obohacující zkušenost, která mi pomohla a stále pomáhá chápat aktuální potřeby trhu a pomoci podnikům převést je do efektivních a úspěšných interních aktivit, z nichž mohou mít nesmírný užitek. <br>
+
+Díky mé praxi jsem získal zkušenosti a dovednosti v různých oblastech, abych pochopil, jak pomáhat společnostem s různými činnostmi od **analýzy business procesů**, **analýzy dat** a **testování** přes **řízení produktů** až po jejich **uvedení na trh** a **řízení životního cyklu**. To vše mi pomáhá přinášet efektivitu a úspěch v obchodní i mezilidské oblasti do projektů, v kterých působím. <br>
+
+Pokud zrovna nepomáhám týmům s automatizací a vývojem, věnuji se primárně **produktovému managementu**, abych pomohl zefektivnit další důležité části životního cyklu produktu a pomohl firmě vytěžit z projektu maximum tím, že dodám kvalitní iterace a zvýším spokojenost v celém projektovém týmu.
 
 ### Specializace
 
-Datová analytika.
-
+- Produkt management.
+- Vývoj BE s přesahem do FE.
+- Automatizace.
+- Testování.
+- Analýza dat, vizualizace a reporting.
+- Školení.
 
 ## Zkušenosti
-`2018-Současnost` __Behavee__ **Data Konsultant, Reporting Specialista** - OSVČ <br>
+
+`Srpen 2022 - Současnost` __Asseco Central Europe__ - Smlouva <br>
+
+- Vytváření test automation pipeline pro platformy pro zprostředkování finančních produktů.
+- Definování automatizovaných testovacích scénářů.
+- Implementace automatizovaných testovacích scénářů, ETL pipeline a vizualizace výsledků exekucí testů.
+- Vedení workshopů zaměřených na předávání znalostí týkajících se automatizovaných testů.
+- Vedení a pomoc ostatním členům týmu při dodávkách automatizovaných testů.
+
+`Červen 2022 - Současnost` __Renomia__ **Automation Lead** - Smlouva <br>
+
+- Práce na projektu automatizace testování v oblasti pojišťovnictví.
+- Analýza procesů automatizace testů a definování technických požadavků.
+- Implementace automatizovaných testovacích scénářů, ETL pipeline a vizualizace výsledků provádění testů.
+- Vedení workshopů zaměřených na předávání znalostí týkajících se automatizovaných testů.
+- Vedení a pomoc ostatním členům týmu při dodávkách automatizovaných testů.
+
+`2021-Současnost` __Denevy__ **Development a Testing consultant/Produkt owner** - Full-time <br>
+
+- `Březen 2021 - Září 2022`
+  - **Juno.one produkt owner**
+    - Realizace implementace relevantních změn a funkcí.
+    - Konzultace se stakeholdery, shromažďování zpětné vazby a sledování trhu s cílem vytvořit realizovatelné kroky pro iterativní vývoj interního nástroje.
+    - Řízení vývojových a testovacích týmů.
+    - Přímá účast na vývoji, automatizaci testování a správě dat.
+    - Správa dokumentace.
+    - Správa produktové roadmapy.
+
+- `Březen 2021 - Současnost`
+  - **Development a Testing konzultant**
+    - Práce na různorodých interních i externích projektech pro společnosti jako Renomia, Asseco a Packeta týkajících se:
+      - dodávek vysoce kvalitních automatizací (zejména automatizace testů a datových pipeline),
+      - konzultací, návrhu a implementaci změn vedoucích k vyšší spokojenosti a efektivitě,
+      - implementace CI/CD.
+    - Konzultace v oblasti dodávek produktů, automatizace, testování a správy dat.
+    - Řízení zlepšování procesů automatizace, automatizace testování, developmentu a datových pipeline a vizualizací.
+    - Přímá účast na vývoji BE a FE.
+    - Analýza slabých míst, návrh řešení na míru a následná implementace.
+    - Tvorba vysoce kvalitní technické a businessové dokumentace, účast na definici efektivních onboarding procesů pro QA.
+    - Vedení a školení testovacích a vývojových týmů.
+    - Zavádění nových strategií a procesů pro zvýšení efektivity a zefektivnění vývoje.
+
+`2018-2021` __Behavee__ **Data & Development Konzultant, Reporting Specialista** - OSVČ <br>
 
 - Zkoumání dat, procesů a technologií za účelem vyhodnocení současného stavu a odhalení kritických problémů.
   - Design, výzkumné plány a analýzy.
 - Výzkum a vydávání doporučení ohledně business casů týkajících se využití a správy dat.
-- Podpora development týmu při vytváření a implementaci datových strategií, navrhování a budování data flows a vývoji datových modelů.
+- Podpora development týmu při vytváření a implementaci datových strategií, navrhování a budování datových toků a vývoji datových modelů.
 - Vytváření automatizovaných reportů a dokumentace.
 - Kontrola integrity dat a správa databází.
+- Zavádění nových efektivních strategií a procesů.
 
-`2018-2020` __T-Mobile__ **Data Konsultant** - OSVČ <br>
+`2018-2020` __T-Mobile__ **Data & Development Konzultant** - OSVČ <br>
 
 - Účast na projektu T-Mobile Czech Republic - Migrace dat, testing, reporting
   - Podpora migračních aktivit při přechodném období, příprava a konsolidace dat, data testing, reporting, handover připravených dat.
   - Data testing, data cleansing a migration tools development.
   - Design řešení pro konsolidaci a migraci dat z lokálních ERP systémů do mezinárodního řešení, design a reviewing přechodných a to-be procesů.
   - Zodpovědnost za přípravu dat v oblasti legal documents, plant maintenance, human resources a asset accounting.
-
-`2018-2019` __Proxy__ **Support konsultant** - Brigáda <br>
-
-- Technická a zákaznická podpora.
-- Příprava daňových přiznání a obdobných dokumentů týkajících se daní a dalších odvodů.
-- Údržba databází.
-
-`2018-2018` __Engel & Völkers Prague__ **Talent sourcer** - 2 měsíční stáž <br>
-
-- Odpovědnost za identifikaci a nábor uchazečů pro obsazení současných nebo budoucích volných pracovních pozic.
-- Interakce s potenciálními kandidáty osobně nebo online a plánování pohovorů v kooperci s HR.
-- Údržba databází kandidátů.
+  - Vedení týmu - data delivery.
 
 `2017-2018` __Komerční banka__ **Customer Service Representative** - Brigáda <br>
 
@@ -82,8 +132,8 @@ Datová analytika.
 
 `2017-Současnost`
 __CEVRO Institut, Praha, Česká republika__ <br>
-- `2017-2020` - Bc., v oboru __Právo V Obchodních vztazích__ <br>
-- `2020-Současnost` - Studium Mgr., v oboru __Právo V Obchodních vztazích__ <br>
+- `2017-2020` - Bc., v oboru __Právo v obchodních vztazích__ <br>
+- `2020-Současnost` - Studium Mgr., v oboru __Právo v obchodních vztazích__ <br>
 
 `2010-2017`
 __Mensa Gymnázium, Praha, Česká republika__ <br>
@@ -99,63 +149,112 @@ __Open Gate Boarding School, Babice u Říčan, Česká republika__ <br>
 &nbsp;
 &nbsp;
 
-### Znalosti v oboru
+### Všeobecné znalosti
 
-- Finanční analýza & Základní znalost účetnictví
-- Business strategie
-- Business development
-- Business analytika
-- Analytické schopnosti
-- Kontingenční tabulky
-- Shell scripting
-- Testování
-- Automatizace testů
-- Telekomunikace
-- Profesionální psaní
-- Marketing
-- PPC
-- Design
-- BDD (Gherkin)
+- Níže jsou uvedené všeobecné znalosti, které uplatňuji ve specifických doménách:
+  - programování,
+  - řízení produktů,
+  - řízení projektů,
+  - řízení procesů,
+  - řízení testování,
+  - testování,
+  - automatizace testování,
+  - odborné psaní,
+  - základní znalosti UX/UI designu,
+  - správa dat,
+  - analýza dat,
+  - základní znalosti marketingu,
+  - základní znalosti PPC,
+  - soukromé právo,
+  - customer journey,
+  - consulting,
+  - řízení životního cyklu produktu.
 
+### Doménové znalosti
 
-### Osobnostní rysy
+- V seznamu jsou uvedeny obory, ve kterých jsem pracoval a dobře se v nich orientuji:
+  - telekomunikace,
+  - finanční produkty, jako jsou investiční produkty, pojistné produkty, půjčky,
+  - lidské zdroje,
+  - bankovnictví,
+  - podnikové právo,
+  - účetnictví.
 
-- Teamwork
-- Komunikace
-- Pracovitost
-- Pečlivost
+### Soft skills
 
+- Následující seznam obsahuje nikoli taxativní výčet, soft skills:
+  - mezilidské dovednosti,
+  - týmová práce,
+  - efektivní komunikace,
+  - spolupráce,
+  - vedení lidí,
+  - předávání znalostí a školení,
+  - orientace na tým,
+  - mentoring,
+  - koučování,
+  - oddanost,
+  - důkladnost,
+  - prezentační dovednosti,
+  - analytické schopnosti,
+  - schopnost řešit problémy,
+  - time management,
+  - vedení týmu,
+  - rétorika,
+  - integrita,
+  - spolehlivost,
+  - otevřenost,
+  - kreativita,
+  - kritické myšlení,
+  - přizpůsobivost,
+  - organizovanost,
+  - ochota učit se,
+  - empatie.
 
 ### Nástroje & Technologie
 
-- SharePoint <img alt="microsoftsharepoint" src="https://simpleicons.org/icons/microsoftsharepoint.svg" width="15px">
-- Microsoft Access <img alt="microsoftaccess" src="https://simpleicons.org/icons/microsoftaccess.svg" width="15px">
-- Microsoft Excel <img alt="microsoftexcel" src="https://simpleicons.org/icons/microsoftexcel.svg" width="15px">
-- Microsoft Power Query <img alt="microsoftpowerquery" src="https://simpleicons.org/icons/microsoft.svg" width="15px">
-- Visual Basic for Applications (VBA) <img alt="visualbasicforapplications" src="https://cdn3.iconfinder.com/data/icons/flat-design-spreadsheet-set-5/24/macros-vba-512.png" width="15px">
-- git <img alt="git" src="https://simpleicons.org/icons/git.svg" width="15px">
-- GitHub & GitLab <img alt="github" src="https://simpleicons.org/icons/github.svg" width="15px"> & <img alt="gitlab" src="https://simpleicons.org/icons/gitlab.svg" width="15px">
-- Tableau <img alt="tableau" src="https://simpleicons.org/icons/tableau.svg" width="15px">
-- Microsoft Power BI <img alt="microsoftpowerbi" src="https://simpleicons.org/icons/powerbi.svg" width="15px">
-- REST API <img alt="Rest API" src="https://img.icons8.com/ios/64/000000/api-settings.png" width="15px">
-- JSON, XML, YAML
-- Selenium <img alt="selenium" src="https://img.icons8.com/wired/64/000000/selenium-test-automation.png" width="15px">
-- HTML5 <img alt="html5" src="https://simpleicons.org/icons/html5.svg" width="15px">
-- CSS <img alt="css3" src="https://simpleicons.org/icons/css3.svg" width="15px">
-- Python <img alt="python" src="https://simpleicons.org/icons/python.svg" width="15px">
-- MySQL <img alt="MySQL" src="https://simpleicons.org/icons/mysql.svg" width="15px">
-- Markdown <img alt="Markdown" src="https://simpleicons.org/icons/markdown.svg" width="15px">
-- Terminal & Shell scripting (bash) <img alt="GNU Bash" src="https://simpleicons.org/icons/gnubash.svg" width="15px">
-- LaTeX <img alt="LaTeX" src="https://simpleicons.org/icons/latex.svg" width="15px">
-- Microsoft Office <img alt="Microsoft Office" src="https://simpleicons.org/icons/microsoftoffice.svg" width="15px">
-- Microsoft Power Automate & Integromat <img alt="Microsoft Power Automate" src="https://img.icons8.com/fluent/48/000000/microsoft-power-automate-2020.png" width="15px"> & <img alt="Integromat" src="https://images.saasworthy.com/integromat_1954_logo_1576566957_wkfxu.png" width="15px">
-- Google Cloud Platform (GCP) & Microsoft Azure <img alt="Google Cloud Platform" src="https://simpleicons.org/icons/googlecloud.svg" width="15px"> & <img alt="Microsoft Azure" src="https://simpleicons.org/icons/microsoftazure.svg" width="15px">
-- Google Analytics & Tag Manager <img alt="Google Analytics" src="https://simpleicons.org/icons/googleanalytics.svg" width="15px"> & <img alt="Google Tag Manager" src="https://simpleicons.org/icons/googletagmanager.svg" width="15px">
-- Basic Adobe Suite <img alt="Adobe Vreative Suite" src="https://simpleicons.org/icons/adobe.svg" width="15px">
-- BPMN & UML
-- MacOS & Windows & Linux <img alt="Apple" src="https://simpleicons.org/icons/apple.svg" width="15px"> & <img alt="Windows" src="https://simpleicons.org/icons/windows.svg" width="15px"> & <img alt="Linux" src="https://simpleicons.org/icons/linux.svg" width="15px">
-- Základní znalost: R & JavaScript & Node.js <img alt="R" src="https://simpleicons.org/icons/r.svg" width="15px"> & <img alt="JavaScript" src="https://simpleicons.org/icons/javascript.svg" width="15px"> & <img alt="Node.js" src="https://simpleicons.org/icons/node-dot-js.svg" width="15px">
+Níže jsou uvedeny mé technické znalosti, jako jsou například znalosti programovací jazyků, frameworků a toolů.
 
+<br>
+
+<ul>
+{% for skill in site.data.cv_data.HardSkills %}
+{% if skill.use %}
+<li>
+  {{ skill.name }}
+  {% for image in skill.images %}
+    <img alt="{{image.alt}}" src="{{image.src}}" width="15px">
+    {% unless forloop.last %} & {% endunless %}
+  {% endfor %}
+  | {{ skill.level.cz }}
+</li>
+{% endif %}
+{% endfor %}
+</ul>
+
+### Ostatní hard skills
+
+Níže jsou uvedeny další specifičtější dovednosti (Frameworky a Metodologie..), které nemusí přímo spadat do oblasti Nástroje & Technologie nebo Všeobecné znalosti.
+
+<br>
+
+<ul>
+{% for skill in site.data.cv_data.Others %}
+{% if skill.use %}
+<li>
+  {{ skill.name.cz }}
+  {% if skill.images.lenght > 0 %}
+  {% for image in skill.images %}
+    <img alt="{{image.alt}}" src="{{image.src}}" width="15px">
+    {% unless forloop.last %} & {% endunless %}
+  {% endfor %}
+  {% endif %}
+  {% if skill.level.cz %}
+  | {{ skill.level.cz }}
+  {% endif %}
+</li>
+{% endif %}
+{% endfor %}
+</ul>
 
 ## Jazyky
 
@@ -168,13 +267,49 @@ __Open Gate Boarding School, Babice u Říčan, Česká republika__ <br>
 - Jazyk: **Němčina**
   - Základní pasivní znalost
 
+## Něco víc o mně
+
+Pokud jste dočetli stránku do této části, tak níže jsem přidal dodatečné informace, které, dokreslují můj profesní a do jisté míry i soukromý život, abych mírně zlomil monotónnost výše uvedených seznamů skillů. <br>
+
+Nejdříve něco stručného o mně osobně. Jsem vášnivý hudebník a fotograf, který miluje právo, které stále studuji. V současné době žiji, pracuji a studuji v Praze, České republice. <br>
+
+Mé životní cesty mě zavedly na různé pozice, ale nakonec jsem se dostal k IT, které jsem si zamiloval. Začínal jsem jako **datový analytik**, ale podílel jsem se na mnoha projektech, kde jsem se věnoval jak **technické**, tak **businessové** stránce. Nakonec jsem zjistil, že nejvíce mě baví **automatizace** a zejména **automatizace testů** a **datových pipeline**, nicméně stále se aktivně podílím na vývoji **BE** a **FE**, neboť se jedná o aktivity, které mě extrémně baví. <br>
+
+Pokud zrovna nepomáhám technickým týmům, velmi rád se vrhnu na **bussinesovou** stránku věci a pomohu projektu uspět po businessové stránce. Díky svým zkušenostem z businessových i technických týmů dokážu být **efektivní spojkou** mezi stakeholdery a vývojáři, překládat business cases do komplexních požadavků a transparentně spravovat produktový backlog a features tak, aby přinášel hodnotu pro společnost. <br>
+
+Pokud zrovna nepracuji, rád cestuji, hraji na svou akustickou a elektrickou kytaru a fotografuji. <br>
+
+Vraťme se nyní k profesním věcem. Uvědomuji si, že přečtení stručného popisu jednotlivých projektů, na kterých jsem pracoval, a výčtu dovedností, který může být někdy dosti arbitrární, nemůže čtenáři poskytnou dostatečný přehled o detailech projektů, na kterých jsem pracoval, níže tedy popisuji exemplární výčet několika příkladů takových produktů. <br>
+
+Posledních pět let jsem pracoval na různých projektech (jak ve startupech (SMBs), tak v korporátech), kde jsem vytvářel dockerizované full-stack interní a externí aplikace, například pro přenos informací (různé messagingové a interní/externí newsletterové aplikace s vlastním backendem a frontendem), různé automatizační nástroje, jako jsou vlastní parsery formátů pro generování specifikací Open API, nasazování aplikací s ohledem na sémantické verzování a automatické aktualizace changelogu, datové ETL pipeliny a vizualizace v Grafaně, Power BI nebo Tableau a mnoho dalšího. <br>
+
+Pracoval jsem také na vytvoření vlastního frameworku, který lze použít s Cucumber.js a jehož cílem je pomoci s implementací struktury POM za použití Playwrightu, a velmi podobného frameworku, který má za cíl totéž, ale je určen k použití s Robot Frameworkem. <br>
+
+Vytvořil jsem také nasazovací, testovací a další specifické pipeliny především s využitím GitLab CI/CD, GitHub Actions a Jenkinsu za účelem zjednodušení a zefektivnění jak vývojových, tak i businessových workflow, které pomáhají dodat produkt od alfa verzí přes uvedení na trh EU až po vyspělé produkty s velkým počtem klientů po celém světě. <br>
+
+V současné době se zaměřuji především na **zefektivnění automatizací** obecně (často zahrnující celkovou digitální transformaci) se specifickým zaměřením na **automatizované testování**, kde nastavuji kompletní testovací workflow od businessových procesů přes CI/CD pipeliny až po implementaci automatizovaných testů a konzumaci výsledků (reporting, automatizované ticketové workflow etc.). Za tímto účelem dokážu analyzovat businessové a QA potřeby a převést je do komplexních požadavků, které lze implementovat. Definování nových, vylepšených a lepších pracovních postupů pro týmy QA a jejich předání zaměstnancům/manažerům, aby se zajistil efektivnější a příjemnější způsob zvládnutí dalšího pracovního dne, může podniku přinést obrovskou hodnotu. <br>
+
+Nefunguje vaše QA tak efektivně, jak by mohlo, nebo nevíte, jak vizualizovat nebo konzumovat data, automatizovat datové toky nebo budovat interní znalostní databázi? Trpí váš produkt nedostatečnými nebo neefektivními procesy QA? Zhoršilo to nebo negativně ovlivnilo řízení a/nebo uvedení a dodání vašeho produktu na trh? Máte problémy s procesy nebo informačními kanály a jejich fungováním na různých úrovních projektu, ale nevíte, jak vše zvládnout, abyste na trhu byli úspěšní? Existuje mnoho případů, které vás mohou negativně ovlivnit, a mnoho z nich může souviset s QA a procesy, které nejsou efektivní. Mohu vám pomoci tyto problémy vyřešit a pomoci vám úspěšně řídit váš produkt. <br>
+
+Na závěr chci říci, že jsem **people person**, takže rád předávám dovednosti, které jsem se za léta strávená prací v oboru IT naučil, dalším lidem prostřednictvím **mentoringu**, **koučování** a **školení**, aby si podniky mohly uchovat přidanou hodnotu, kterou jsem jim přinesl, a efektivně v budoucnu řešit různé businessové a technické problémy, které mohou nastat. Miluji **komunikaci** a **propojování lidí** za účelem dodávání hodnoty. Vždy dokážu najít řešení problému, analyzovat ho, navrhnout řešení, implementovat řešení, zavést procesy a napsat dokumentaci a metodiku. <br>
+
+Cením si poctivosti, odvahy, píle a snahy rozvíjet se. Jsem vždy otevřen novým výzvám.
+
+## Mám zájem o
+
+- Testování.
+- Automatizaci testů (E2E FE, Unit, Integration).
+- Psaní.
+- (Big) Data a data compliance, reporting, ETL pipeliny a vizualizace.
+- Vývoj backendu (s přesahem do frontendu).
+- Produktový management.
+- Consulting a školení.
+- Agilní přístup.
 
 <!-- ### Patička
 
-Naposledy updatováno: Prosinec 2020 -->
+Naposledy updatováno: Prosinec 2022
 
-<!-- Ikonky od Flaticon/Shield.io/Simpleicons pokud nejsou z těchto zdrojů, tak jsou od
+Ikonky od Flaticon/Shield.io/Simpleicons pokud nejsou z těchto zdrojů, tak jsou od https://icons8.com/icon/55497/rest-api NEBO jsou použity obrázky naleznuté přes Google Image Search, licence je prověřena NEBO je použit Adobe Icons jako součást Creative Cloudu 
 
-https://icons8.com/icon/55497/rest-api NEBO jsou použity obrázky naleznuté přes Google Image Search, licence je prověřena NEBO je použit Adobe Icons jako součást Creative Cloudu -->
-
-
+-->

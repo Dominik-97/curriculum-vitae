@@ -280,3 +280,13 @@ TSWLatexianTemp*
 
 # tex-source ignore
 /tex-source/*
+
+# Jekyll
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+# Ruby
+Gemfile.lock
