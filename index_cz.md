@@ -54,47 +54,46 @@ Pokud zrovna nepomáhám týmům s automatizací a vývojem, věnuji se primárn
 
 ## Zkušenosti
 
-`August 2022 - Současnost` __Asseco Central Europe__ - Contractual <br>
+`August 2022 - Současnost` __Asseco Central Europe__ - Smlouva <br>
 
-- Building test automation pipelines for financial products platforms.
-- Defining automated test scenarios.
-- Implementing automated test scenarios, ETL pipelines and test execution result visualizations.
-- Leading workshops focused on transferring knowledge pertaining to automated tests.
-- Leading and helping other contractual team members to deliver high-quality tests.
+- Vytváření test automation pipeline pro platformy pro zprostředkování finančních produktů.
+- Definování automatizovaných testovacích scénářů.
+- Implementace automatizovaných testovacích scénářů, ETL pipeline a vizualizace výsledků exekucí testů.
+- Vedení workshopů zaměřených na předávání znalostí týkajících se automatizovaných testů.
+- Vedení a pomoc ostatním členům týmu při dodávkách automatizovaných testů.
 
-`June 2022 - Současnost` __Renomia__ **Automation Lead** - Contractual <br>
+`June 2022 - Současnost` __Renomia__ **Automation Lead** - Smlouva <br>
 
-- Working on a Test Automation project in the Insurance field.
-- Analyzing test automation proccesses and defining technical requirements.
-- Implementing automated test scenarios, ETL pipelines and test execution result visualizations.
-- Leading workshops focused on transferring knowledge pertaining to automated tests.
-- Leading and helping other contractual team members to deliver high-quality tests.
+- Práce na projektu automatizace testování v oblasti pojišťovnictví.
+- Analýza procesů automatizace testů a definování technických požadavků.
+- Implementace automatizovaných testovacích scénářů, ETL pipeline a vizualizace výsledků provádění testů.
+- Vedení workshopů zaměřených na předávání znalostí týkajících se automatizovaných testů.
+- Vedení a pomoc ostatním členům týmu při dodávkách automatizovaných testů.
 
 `2021-Současnost` __Denevy__ **Development a Testing consultant/Product owner** - Full-time <br>
 
 - `March 2021 - Září 2022`
   - **Juno.one produkt owner**
-    - Driving the implementation of appropriate changes.
-    - Consulting stakeholders, collecting feedback and monitoring the market to create actionable steps for iterative development of an in-house tool.
-    - Managing the development and testing teams.
-    - Direct participation in development, testing automation and data management.
-    - Managing documentation.
-    - Managing product roadmap.
+    - Realizace implementace relevantních změn a funkcí.
+    - Konzultace se stakeholders, shromažďování zpětné vazby a sledování trhu s cílem vytvořit realizovatelné kroky pro iterativní vývoj interního nástroje.
+    - Řízení vývojových a testovacích týmů.
+    - Přímá účast na vývoji, automatizaci testování a správě dat.
+    - Správa dokumentace.
+    - Správa produktové roadmapy.
 
 - `March 2021 - Současnost`
   - **Development a Testing konzultant**
-    - Working on various in-house and external projects for companies like Renomia, Asseco and Packeta.
-      - Leading the way to:
-        - deliver high-quality automations (especially test automation and data pipelines),
-        - consult on changes leading to higher satisfaction and effectiveness,
-        - helping with CI/CD processes.
-    - Product delivery, automation, test and data management consulting.
-    - Driving improvements in automation processes, testing automation, development and data pipelines and visualizations.
-    - Direct participation in BE and FE development.
-    - Analyzing weak spots and providing custom-tailored solutions.
-    - Writing high-quality technical and business documentation as well as participating in creating well-managed onboarding processes for QA.
-    - Leading and training testing and development teams.
-    - Implementing new strategies and processes to boost efficiency and streamline development.
+    - Práce na různorodých interních i externích projektech pro společnosti jako Renomia, Asseco a Packeta týkajících se:
+      - dodávek vysoce kvalitních automatizací (zejména automatizace testů a datových pipeline),
+      - konzultací, návrhu a implementace změn vedoucích k vyšší spokojenosti a efektivitě,
+      - implementace CI/CD.
+    - Konzultace v oblasti dodávek produktů, automatizace, testování a správy dat.
+    - Řízení zlepšování procesů automatizace, automatizace testování, developmentu a datových pipeline a vizualizací.
+    - Přímá účast na vývoji BE a FE.
+    - Analýza slabých míst, návrh řešení na míru a následná implementace.
+    - Tvorba vysoce kvalitní technické a businessové dokumentace, účast na definici efektivních onboarding procesů pro QA.
+    - Vedení a školení testovacích a vývojových týmů.
+    - Zavádění nových strategií a procesů pro zvýšení efektivity a zefektivnění vývoje.
 
 `2018-2021` __Behavee__ **Data & Development Konzultant, Reporting Specialista** - OSVČ <br>
 
