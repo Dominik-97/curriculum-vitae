@@ -283,3 +283,7 @@ tex-source/*.pdf
 
 # Ignore personal folder in tex-source folder
 tex-source/personal/*
+
+# Ignore Jekyll documents
+_site/
+Gemfile.lock
