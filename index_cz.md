@@ -54,7 +54,7 @@ Pokud zrovna nepomáhám týmům s automatizací a vývojem, věnuji se primárn
 
 ## Zkušenosti
 
-`Srpen 2022 - Současnost` __Asseco Central Europe__ - Smlouva <br>
+`Srpen 2022 - Současnost` __Asseco Central Europe__ - **Automation Specialist** - Smlouva <br>
 
 - Vytváření test automation pipeline pro platformy pro zprostředkování finančních produktů.
 - Definování automatizovaných testovacích scénářů.
@@ -62,7 +62,7 @@ Pokud zrovna nepomáhám týmům s automatizací a vývojem, věnuji se primárn
 - Vedení workshopů zaměřených na předávání znalostí týkajících se automatizovaných testů.
 - Vedení a pomoc ostatním členům týmu při dodávkách automatizovaných testů.
 
-`Červen 2022 - Současnost` __Renomia__ **Automation Lead** - Smlouva <br>
+`Červen 2022 - Současnost` __Renomia__ - **Automation Lead** - Smlouva <br>
 
 - Práce na projektu automatizace testování v oblasti pojišťovnictví.
 - Analýza procesů automatizace testů a definování technických požadavků.
@@ -70,7 +70,7 @@ Pokud zrovna nepomáhám týmům s automatizací a vývojem, věnuji se primárn
 - Vedení workshopů zaměřených na předávání znalostí týkajících se automatizovaných testů.
 - Vedení a pomoc ostatním členům týmu při dodávkách automatizovaných testů.
 
-`2021-Současnost` __Denevy__ **Development a Testing consultant/Product owner** - Full-time <br>
+`2021-Současnost` __Denevy__ - **Development a Testing consultant/Product owner** - Full-time <br>
 
 - `Březen 2021 - Září 2022`
   - **Juno.one product owner**
@@ -95,7 +95,7 @@ Pokud zrovna nepomáhám týmům s automatizací a vývojem, věnuji se primárn
     - Vedení a školení testovacích a vývojových týmů.
     - Zavádění nových strategií a procesů pro zvýšení efektivity a zefektivnění vývoje.
 
-`2018-2021` __Behavee__ **Data & Development consultant, Reporting Specialista** - OSVČ <br>
+`2018-2021` __Behavee__ - **Data & Development consultant, Reporting Specialista** - OSVČ <br>
 
 - Zkoumání dat, procesů a technologií za účelem vyhodnocení současného stavu a odhalení kritických problémů.
   - Design, výzkumné plány a analýzy.
@@ -105,7 +105,7 @@ Pokud zrovna nepomáhám týmům s automatizací a vývojem, věnuji se primárn
 - Kontrola integrity dat a správa databází.
 - Zavádění nových efektivních strategií a procesů.
 
-`2018-2020` __T-Mobile__ **Data & Development consultant** - OSVČ <br>
+`2018-2020` __T-Mobile__ - **Data & Development consultant** - OSVČ <br>
 
 - Účast na projektu T-Mobile Czech Republic - Migrace dat, testing, reporting
   - Podpora migračních aktivit při přechodném období, příprava a konsolidace dat, data testing, reporting, handover připravených dat.
@@ -114,14 +114,14 @@ Pokud zrovna nepomáhám týmům s automatizací a vývojem, věnuji se primárn
   - Zodpovědnost za přípravu dat v oblasti legal documents, plant maintenance, human resources a asset accounting.
   - Vedení týmu - data delivery.
 
-`2017-2018` __Komerční banka__ **Customer Service Representative** - Brigáda <br>
+`2017-2018` __Komerční banka__ - **Customer Service Representative** - Brigáda <br>
 
 - Pomoc zákazníkům se stížnostmi a dotazy.
 - Poskytování informací o produktech a službách zákazníkům.
 - Přijímání žádostí a zpracování reklamací.
 - Péče o další činnosti k zajištění plynulého chodu pobočky.
 
-`2015-2017` __Sinch__ **Event technician** - Brigáda <br>
+`2015-2017` __Sinch__ - **Event technician** - Brigáda <br>
 
 - Organizovaní a správa průběhu soukromých nebo veřejných akcí.
 - Plánování a organizace veřejných akcí.

@@ -54,7 +54,7 @@ If I am not helping teams with automations or development I primarily focus on *
 
 ## Work experience
 
-`August 2022 - Present` __Asseco Central Europe__ - Contractual <br>
+`August 2022 - Present` __Asseco Central Europe__ - **Automation Specialist** - Contractual <br>
 
 - Building test automation pipelines for financial products platforms.
 - Defining automated test scenarios.
@@ -62,7 +62,7 @@ If I am not helping teams with automations or development I primarily focus on *
 - Leading workshops focused on transferring knowledge pertaining to automated tests.
 - Leading and helping other contractual team members to deliver high-quality tests.
 
-`June 2022 - Present` __Renomia__ **Automation Lead** - Contractual <br>
+`June 2022 - Present` __Renomia__ - **Automation Lead** - Contractual <br>
 
 - Working on a Test Automation project in the Insurance field.
 - Analyzing test automation proccesses and defining technical requirements.
@@ -70,7 +70,7 @@ If I am not helping teams with automations or development I primarily focus on *
 - Leading workshops focused on transferring knowledge pertaining to automated tests.
 - Leading and helping other contractual team members to deliver high-quality tests.
 
-`2021-Present` __Denevy__ **Development and Testing consultant/Product owner** - Full-time <br>
+`2021-Present` __Denevy__ - **Development and Testing consultant/Product owner** - Full-time <br>
 
 - `March 2021 - September 2022`
   - **Juno.one product owner**
@@ -96,7 +96,7 @@ If I am not helping teams with automations or development I primarily focus on *
     - Leading and training testing and development teams.
     - Implementing new strategies and processes to boost efficiency and streamline development.
 
-`2018-2021` __Behavee__ **Data & Development Consultant, Reporting Specialist** - Self-employed <br>
+`2018-2021` __Behavee__ - **Data & Development Consultant, Reporting Specialist** - Self-employed <br>
 
 - Examining data, processes and technologies to evaluate the current state and reveal critical problems.
   - Design, research plans and analysis.
@@ -106,7 +106,7 @@ If I am not helping teams with automations or development I primarily focus on *
 - Maintaining data integrity and databases.
 - Implementing new strategies and processes.
 
-`2018-2020` __T-Mobile__ **Data & Development Consultant** - Self-employed <br>
+`2018-2020` __T-Mobile__ - **Data & Development Consultant** - Self-employed <br>
 
 - Participating in the T-Mobile Czech Republic project - Data migration, testing and reporting.
   - Support for migration activities during the transition period, preparation and data consolidation, data testing, reporting and handover of prepared data.
@@ -115,14 +115,14 @@ If I am not helping teams with automations or development I primarily focus on *
   - Responsible for data preparation in the field of legal documents, plant maintenance, human resources and asset accounting.
   - Leading data delivery team.
 
-`2017-2018` __Komerční banka__ **Customer Service Representative** - Part-time <br>
+`2017-2018` __Komerční banka__ - **Customer Service Representative** - Part-time <br>
 
 - Helping customers with complaints and questions.
 - Giving customers information about products and services.
 - Taking requests and processing claims.
 - Taking care of other activities to ensure the smooth operation of the branch.
 
-`2015-2017` __Sinch__ **Event technician** - Part-time <br>
+`2015-2017` __Sinch__ - **Event technician** - Part-time <br>
 
 - Organized, implemented, and managed events for public or private groups.
 - Planning and organization of public events.
