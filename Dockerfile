@@ -29,6 +29,9 @@ FROM nginx:alpine
 # Remove default Nginx configuration
 RUN rm -rf /etc/nginx/conf.d/default.conf
 
+# Install curl for healthcheck
+RUN apk add --no-cache curl
+
 # Copy built files from builder stage
 COPY --from=builder /app/dist /usr/share/nginx/html
 
@@ -40,7 +43,7 @@ EXPOSE 80
 
 # Health check
 HEALTHCHECK --interval=30s --timeout=3s --start-period=5s --retries=3 \
-  CMD wget --no-verbose --tries=1 --spider http://localhost/ || exit 1
+  CMD curl -f http://localhost/ || exit 1
 
 # Run Nginx
 CMD ["nginx", "-g", "daemon off;"]
