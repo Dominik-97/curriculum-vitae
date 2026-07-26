@@ -50,8 +50,8 @@ jobs:
     env:
       HOSTINGER_USER: ${{ secrets.HOSTINGER_USER }}
       HOSTINGER_HOST: ${{ secrets.HOSTINGER_HOST }}
-      HOSTINGER_SSH_PORT: ${{ secrets.HOSTINGER_SSH_PORT }}
-      HOSTINGER_DEPLOY_PATH: ${{ secrets.HOSTINGER_DEPLOY_PATH }}
+      HOSTINGER_SSH_PORT: 22
+      HOSTINGER_DEPLOY_PATH: /root/cv
     
     steps:
       - name: Checkout repository
