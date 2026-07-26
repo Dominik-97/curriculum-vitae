@@ -1,0 +1,33 @@
+# Production Docker Compose for Hostinger VPS
+# Copy this file to your VPS and run: docker compose -f docker-compose.hostinger.yml up -d
+#
+# Prerequisites:
+# - Docker installed on Hostinger VPS
+# - Traefik already running with host network mode
+# - GitHub Container Registry token available (if image is private)
+# - SSH key authentication set up (for copying this file)
+#
+# Usage:
+#   1. scp docker-compose.hostinger.yml user@your-vps:/path/to/deploy/
+#   2. ssh user@your-vps
+#   3. cd /path/to/deploy
+#   4. docker compose -f docker-compose.hostinger.yml up -d
+#
+# To update:
+#   docker compose -f docker-compose.hostinger.yml pull
+#   docker compose -f docker-compose.hostinger.yml up -d
+
+services:
+  curriculum-vitae:
+    image: ghcr.io/dominik-97/curriculum-vitae:latest
+    container_name: curriculum-vitae
+    restart: unless-stopped
+    labels:
+      # Traefik configuration
+      - traefik.enable=true
+      - traefik.http.routers.cv.rule=Host(`cv.yourdomain.com`)
+      - traefik.http.routers.cv.entrypoints=websecure
+      - traefik.http.routers.cv.tls.certresolver=letsencrypt
+      - traefik.http.services.cv.loadbalancer.server.port=80
+    environment:
+      - TZ=UTC

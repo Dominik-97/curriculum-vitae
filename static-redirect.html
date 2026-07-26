@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="5; url=https://cv.yourdomain.com">
+    <title>Site Moved - Dominik Bálint CV</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e, #16213e);
+            color: #ffffff;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+            text-align: center;
+        }
+        
+        .container {
+            max-width: 600px;
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 20px;
+            padding: 3rem;
+            box-shadow: 0 0 40px rgba(139, 92, 246, 0.15);
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            color: #ffffff;
+        }
+        
+        h1 .name {
+            color: #8B5CF6;
+        }
+        
+        .subtitle {
+            color: rgba(255, 255, 255, 0.7);
+            font-size: 1.2rem;
+            margin-bottom: 2rem;
+        }
+        
+        .message {
+            color: rgba(255, 255, 255, 0.8);
+            font-size: 1.1rem;
+            line-height: 1.6;
+            margin-bottom: 2rem;
+        }
+        
+        .new-url {
+            background: rgba(139, 92, 246, 0.2);
+            border: 1px solid rgba(139, 92, 246, 0.4);
+            border-radius: 12px;
+            padding: 1rem;
+            margin: 2rem 0;
+            word-break: break-all;
+        }
+        
+        .new-url code {
+            color: #8B5CF6;
+            font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+            font-size: 1.1rem;
+        }
+        
+        .timer {
+            color: rgba(255, 255, 255, 0.5);
+            font-size: 0.9rem;
+            margin-bottom: 1.5rem;
+        }
+        
+        .buttons {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        
+        .btn {
+            display: inline-block;
+            padding: 12px 24px;
+            background: linear-gradient(135deg, #8B5CF6, #3B82F6);
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            border: none;
+        }
+        
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(139, 92, 246, 0.3);
+        }
+        
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        
+        .btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.15);
+        }
+        
+        .animation {
+            position: absolute;
+            top: 20%;
+            right: 10%;
+            width: 100px;
+            height: 100px;
+            opacity: 0.1;
+            animation: float 6s ease-in-out infinite;
+        }
+        
+        @keyframes float {
+            0%, 100% {
+                transform: translateY(0) rotate(0deg);
+            }
+            50% {
+                transform: translateY(-20px) rotate(180deg);
+            }
+        }
+        
+        footer {
+            margin-top: 2rem;
+            color: rgba(255, 255, 255, 0.4);
+            font-size: 0.85rem;
+        }
+        
+        footer a {
+            color: rgba(255, 255, 255, 0.6);
+            text-decoration: none;
+        }
+        
+        footer a:hover {
+            color: #8B5CF6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Dominik Bálint's <span class="name">CV</span> Has Moved</h1>
+        <p class="subtitle">This site has been migrated to a new location</p>
+        
+        <div class="message">
+            The old GitHub Pages version of this CV is no longer maintained. 
+            Please update your bookmarks to the new location.
+        </div>
+        
+        <div class="new-url">
+            <strong>New URL:</strong><br>
+            <code id="newUrl">https://cv.yourdomain.com</code>
+        </div>
+        
+        <p class="timer">
+            Redirecting in <span id="countdown">5</span> seconds...
+            <span id="redirectMsg"></span>
+        </p>
+        
+        <div class="buttons">
+            <a href="https://cv.yourdomain.com" class="btn">Go to New Site</a>
+            <button onclick="copyToClipboard()" class="btn btn-secondary">Copy URL</button>
+        </div>
+        
+        <div class="animation"></div>
+    </div>
+    
+    <footer>
+        <p>
+            <a href="https://github.com/Dominik-97/curriculum-vitae">View Source on GitHub</a>
+        </p>
+    </footer>
+    
+    <script>
+        // Replace this with your actual domain
+        const NEW_URL = 'https://cv.yourdomain.com';
+        
+        // Update the displayed URL
+        document.getElementById('newUrl').textContent = NEW_URL;
+        
+        // Countdown timer
+        let countdown = 5;
+        const countdownEl = document.getElementById('countdown');
+        const redirectMsgEl = document.getElementById('redirectMsg');
+        
+        const timer = setInterval(() => {
+            countdown--;
+            countdownEl.textContent = countdown;
+            
+            if (countdown <= 0) {
+                clearInterval(timer);
+                redirectMsgEl.textContent = ' Redirecting now...';
+                window.location.href = NEW_URL;
+            }
+        }, 1000);
+        
+        // Copy URL to clipboard
+        function copyToClipboard() {
+            navigator.clipboard.writeText(NEW_URL).then(() => {
+                alert('URL copied to clipboard!');
+            });
+        }
+        
+        // Stop redirect if user interacts
+        document.addEventListener('click', () => {
+            clearInterval(timer);
+        }, { once: true });
+        
+        // Also stop on any key press
+        document.addEventListener('keydown', () => {
+            clearInterval(timer);
+        }, { once: true });
+    </script>
+</body>
+</html>

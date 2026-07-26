@@ -1,0 +1,59 @@
+version: '3.8'
+
+# Docker Compose for local development and testing
+# For production deployment to Hostinger, use the scripts/ directory
+
+services:
+  # CV Application
+  cv:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: curriculum-vitae
+    ports:
+      - "3000:80"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost/health"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
+      start_period: 5s
+    
+  # Optional: Traefik for local development (reverse proxy)
+  traefik:
+    image: traefik:v2.10
+    container_name: traefik
+    command:
+      - --api.insecure=true
+      - --api.dashboard=true
+      - --providers.docker=true
+      - --providers.docker.exposedbydefault=false
+      - --entrypoints.web.address=:80
+    ports:
+      - "80:80"
+      - "8080:8080"  # Dashboard
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+    depends_on:
+      - cv
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.traefik.rule=Host(`traefik.localhost`)"
+      - "traefik.http.routers.traefik.service=api@internal"
+      - "traefik.http.routers.traefik.entrypoints=web"
+      - "traefik.http.routers.cv.rule=Host(`localhost`)"
+      - "traefik.http.routers.cv.entrypoints=web"
+
+# For production deployment on Hostinger:
+# 1. Use scripts/deploy.sh
+# 2. Or manually:
+#    docker build -t curriculum-vitae:latest .
+#    docker run -d --name curriculum-vitae --restart unless-stopped \
+#      --network traefik_network \
+#      --label "traefik.enable=true" \
+#      --label "traefik.http.routers.cv.rule=Host(`your-domain.com`)" \
+#      --label "traefik.http.routers.cv.entrypoints=https" \
+#      --label "traefik.http.routers.cv.tls=true" \
+#      -p 127.0.0.1:8080:80 \
+#      curriculum-vitae:latest
