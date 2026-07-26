@@ -64,19 +64,49 @@ jobs:
       
       - name: Deploy via SSH
         run: |
-          mkdir -p ~/.ssh
-          ssh-keyscan -p "$HOSTINGER_SSH_PORT" "$HOSTINGER_HOST" >> ~/.ssh/known_hosts 2>/dev/null
+          set -x
+          echo "=== DEBUG: Environment ==="
+          echo "HOSTINGER_USER: $HOSTINGER_USER"
+          echo "HOSTINGER_HOST: $HOSTINGER_HOST"
+          echo "HOSTINGER_SSH_PORT: $HOSTINGER_SSH_PORT"
+          echo "HOSTINGER_DEPLOY_PATH: $HOSTINGER_DEPLOY_PATH"
+          echo "========================"
           
+          echo "=== Step 1: Setup SSH ==="
+          mkdir -p ~/.ssh
+          echo "Exit code: $?"
+          ssh-keyscan -p "$HOSTINGER_SSH_PORT" "$HOSTINGER_HOST" >> ~/.ssh/known_hosts 2>/dev/null
+          echo "ssh-keyscan exit code: $?"
+          
+          echo "=== Step 2: Copy docker-compose file ==="
           scp -P "$HOSTINGER_SSH_PORT" -o StrictHostKeyChecking=no \
             docker-compose.hostinger.yml \
-            "$HOSTINGER_USER@$HOSTINGER_HOST:$HOSTINGER_DEPLOY_PATH/" || \
-          ssh -p "$HOSTINGER_SSH_PORT" -o StrictHostKeyChecking=no \
-            "$HOSTINGER_USER@$HOSTINGER_HOST" \
-            "mkdir -p $HOSTINGER_DEPLOY_PATH"
+            "$HOSTINGER_USER@$HOSTINGER_HOST:$HOSTINGER_DEPLOY_PATH/"
+          echo "scp exit code: $?"
+          if [ $? -ne 0 ]; then
+            echo "scp failed, trying mkdir via ssh..."
+            ssh -p "$HOSTINGER_SSH_PORT" -o StrictHostKeyChecking=no \
+              "$HOSTINGER_USER@$HOSTINGER_HOST" \
+              "mkdir -p $HOSTINGER_DEPLOY_PATH"
+            echo "mkdir via ssh exit code: $?"
+            scp -P "$HOSTINGER_SSH_PORT" -o StrictHostKeyChecking=no \
+              docker-compose.hostinger.yml \
+              "$HOSTINGER_USER@$HOSTINGER_HOST:$HOSTINGER_DEPLOY_PATH/"
+            echo "retry scp exit code: $?"
+          fi
           
+          echo "=== Step 3: Deploy with Docker ==="
           ssh -p "$HOSTINGER_SSH_PORT" -o StrictHostKeyChecking=no \
             "$HOSTINGER_USER@$HOSTINGER_HOST" \
             "cd $HOSTINGER_DEPLOY_PATH && \
-            docker compose -f docker-compose.hostinger.yml pull && \
-            docker compose -f docker-compose.hostinger.yml up -d && \
-            docker image prune -f"
+            docker compose -f docker-compose.hostinger.yml pull"
+          echo "docker pull exit code: $?"
+          ssh -p "$HOSTINGER_SSH_PORT" -o StrictHostKeyChecking=no \
+            "$HOSTINGER_USER@$HOSTINGER_HOST" \
+            "cd $HOSTINGER_DEPLOY_PATH && \
+            docker compose -f docker-compose.hostinger.yml up -d"
+          echo "docker up exit code: $?"
+          ssh -p "$HOSTINGER_SSH_PORT" -o StrictHostKeyChecking=no \
+            "$HOSTINGER_USER@$HOSTINGER_HOST" \
+            "docker image prune -f"
+          echo "docker prune exit code: $?"
