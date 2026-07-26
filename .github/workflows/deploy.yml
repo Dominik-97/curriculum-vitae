@@ -83,8 +83,14 @@ jobs:
           ssh-keyscan -p "$HOSTINGER_SSH_PORT" "$HOSTINGER_HOST" >> ~/.ssh/known_hosts 2>/dev/null
           echo "ssh-keyscan exit code: $?"
           
+          echo "=== Step 1.5: Test SSH connection ==="
+          ssh -p "$HOSTINGER_SSH_PORT" -o StrictHostKeyChecking=no \
+            "$HOSTINGER_USER@$HOSTINGER_HOST" \
+            echo "SSH connection successful"
+          echo "Test SSH exit code: $?"
+          
           echo "=== Step 2: Copy docker-compose file ==="
-          scp -P "$HOSTINGER_SSH_PORT" -o StrictHostKeyChecking=no \
+          scp -v -P "$HOSTINGER_SSH_PORT" -o StrictHostKeyChecking=no \
             docker-compose.hostinger.yml \
             "$HOSTINGER_USER@$HOSTINGER_HOST:$HOSTINGER_DEPLOY_PATH/"
           echo "scp exit code: $?"
