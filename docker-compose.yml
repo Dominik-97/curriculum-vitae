@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  cv:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: curriculum-vitae
+    restart: unless-stopped
+    labels:
+      # Traefik v2 configuration
+      - "traefik.enable=true"
+      - "traefik.http.routers.cv.rule=Host(`cv.yourdomain.com`)"  # Replace with your domain
+      - "traefik.http.routers.cv.entrypoints=https"
+      - "traefik.http.routers.cv.tls=true"
+      - "traefik.http.routers.cv.tls.certresolver=letsencrypt"
+      - "traefik.http.services.cv.loadbalancer.server.port=80"
+      
+      # Optional: Add middleware for compression
+      - "traefik.http.middlewares.cv-compress.compress=true"
+      - "traefik.http.routers.cv.middlewares=cv-compress"
+      
+      # Optional: Add security headers
+      - "traefik.http.middlewares.cv-headers.headers.frameDeny=true"
+      - "traefik.http.middlewares.cv-headers.headers.browserXssFilter=true"
+      - "traefik.http.middlewares.cv-headers.headers.contentTypeNosniff=true"
+      - "traefik.http.middlewares.cv-headers.headers.forceSTSHeader=true"
+      - "traefik.http.middlewares.cv-headers.headers.stsSeconds=31536000"
+      - "traefik.http.middlewares.cv-headers.headers.stsIncludeSubdomains=true"
+      - "traefik.http.middlewares.cv-headers.headers.stsPreload=true"
+      - "traefik.http.routers.cv.middlewares=cv-compress,cv-headers"
+    networks:
+      - traefik_public
+    
+networks:
+  traefik_public:
+    external: true

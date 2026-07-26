@@ -287,3 +287,6 @@ tex-source/personal/*
 # Ignore Jekyll documents
 _site/
 Gemfile.lock
+
+# Docker build cache (optional - uncomment if you want to ignore)
+# .docker/

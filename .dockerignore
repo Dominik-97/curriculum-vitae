@@ -1,0 +1,31 @@
+# Ignore git directory
+.git/
+.gitignore
+
+# Ignore Docker files
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Ignore LaTeX source files (not needed in production)
+tex-source/
+
+# Ignore build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+
+# Ignore IDE files
+.idea/
+.vscode/
+*.swp
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore PDFs in tex-source (they are copied separately)
+tex-source/*.pdf
