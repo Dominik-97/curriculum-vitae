@@ -70,7 +70,12 @@ jobs:
           echo "HOSTINGER_HOST: $HOSTINGER_HOST"
           echo "HOSTINGER_SSH_PORT: $HOSTINGER_SSH_PORT"
           echo "HOSTINGER_DEPLOY_PATH: $HOSTINGER_DEPLOY_PATH"
+          echo "SSH_AUTH_SOCK: $SSH_AUTH_SOCK"
           echo "========================"
+          
+          echo "=== Step 0: Check SSH Agent ==="
+          ssh-add -l
+          echo "ssh-add exit code: $?"
           
           echo "=== Step 1: Setup SSH ==="
           mkdir -p ~/.ssh
