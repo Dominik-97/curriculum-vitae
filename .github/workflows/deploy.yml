@@ -84,9 +84,9 @@ jobs:
           echo "ssh-keyscan exit code: $?"
           
           echo "=== Step 1.5: Test SSH connection ==="
-          ssh -p "$HOSTINGER_SSH_PORT" -o StrictHostKeyChecking=no \
+          ssh -v -p "$HOSTINGER_SSH_PORT" -o StrictHostKeyChecking=no \
             "$HOSTINGER_USER@$HOSTINGER_HOST" \
-            echo "SSH connection successful"
+            "whoami && ls -la ~/.ssh/authorized_keys 2>/dev/null && echo '---' && ls -la $HOSTINGER_DEPLOY_PATH 2>/dev/null || true" 2>&1 | grep -v "^debug"
           echo "Test SSH exit code: $?"
           
           echo "=== Step 2: Copy docker-compose file ==="
