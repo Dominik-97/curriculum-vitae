@@ -29,7 +29,7 @@ FROM nginx:alpine
 # Remove default Nginx configuration
 RUN rm -rf /etc/nginx/conf.d/default.conf
 
-# Install curl for healthcheck
+# Install curl (for healthcheck)
 RUN apk add --no-cache curl
 
 # Copy built files from builder stage
