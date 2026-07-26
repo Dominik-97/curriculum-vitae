@@ -7,10 +7,6 @@ on:
 env:
   DOCKER_REGISTRY: ghcr.io
   DOCKER_IMAGE_NAME: curriculum-vitae
-  HOSTINGER_USER: secret
-  HOSTINGER_HOST: secret
-  HOSTINGER_SSH_PORT: 22
-  HOSTINGER_DEPLOY_PATH: /root/cv
 
 jobs:
   build-and-push:
@@ -50,6 +46,12 @@ jobs:
     name: Deploy to Hostinger VPS
     needs: build-and-push
     runs-on: ubuntu-latest
+    
+    env:
+      HOSTINGER_USER: ${{ secrets.HOSTINGER_USER }}
+      HOSTINGER_HOST: ${{ secrets.HOSTINGER_HOST }}
+      HOSTINGER_SSH_PORT: ${{ secrets.HOSTINGER_SSH_PORT }}
+      HOSTINGER_DEPLOY_PATH: ${{ secrets.HOSTINGER_DEPLOY_PATH }}
     
     steps:
       - name: Checkout repository
