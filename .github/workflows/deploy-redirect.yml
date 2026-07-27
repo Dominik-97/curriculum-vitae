@@ -2,7 +2,7 @@ name: Deploy Redirect Page to GitHub Pages
 
 on:
   push:
-    branches: [main, gh-pages]
+    branches: [main]
 
 jobs:
   deploy:

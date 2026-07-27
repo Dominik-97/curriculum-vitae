@@ -2,7 +2,7 @@ name: Build and Deploy CV to Hostinger
 
 on:
   push:
-    branches: [main, gh-pages]
+    branches: [main]
 
 env:
   DOCKER_REGISTRY: ghcr.io
