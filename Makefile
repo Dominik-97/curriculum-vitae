@@ -1,22 +1,22 @@
-# Makefile for Curriculum Vitae Deployment
-# Usage: make <target>
+# Makefile - proxy to npm scripts
+.PHONY: dev build preview lint help
 
-.PHONY: help deploy
+dev:
+	npm run dev
 
-# Colors
-GREEN := \033[0;32m
-YELLOW := \033[1;33m
-NC := \033[0m
+build:
+	npm run build
 
-# Default target
+preview:
+	npm run preview
+
+lint:
+	npm run lint
+
 help:
-	@echo "Curriculum Vitae - Deployment Makefile"
-	@echo ""
 	@echo "Available targets:"
-	@echo "  make deploy    - Deploy to Hostinger VPS"
-	@echo ""
+	@echo "  make dev      - Run development server (vite)"
+	@echo "  make build    - Build for production (tsc && vite build)"
+	@echo "  make preview  - Preview production build (vite preview)"
+	@echo "  make lint     - Run ESLint"
 
-# Deploy to Hostinger VPS
-deploy:
-	@echo "$(YELLOW)Deploying to Hostinger VPS...$(NC)"
-	./scripts/deploy.sh

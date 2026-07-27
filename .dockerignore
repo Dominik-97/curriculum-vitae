@@ -44,6 +44,3 @@ docker-compose*.yml
 # Deployment scripts (keep these!)
 deploy/
 *.sh
-
-# Local development
-# package-lock.json

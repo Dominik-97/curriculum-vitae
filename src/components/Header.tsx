@@ -1,4 +1,5 @@
 import React from 'react'
+import meImage from '../assets/Me.png'
 
 const Header: React.FC = () => {
   return (
@@ -73,10 +74,12 @@ const Header: React.FC = () => {
           <div className="absolute inset-0 bg-hermes-500/20 rounded-full blur-2xl animate-pulse-soft dark:bg-hermes-500/10"></div>
           
           {/* Avatar container */}
-          <div className="relative w-full h-full bg-gradient-to-br from-hermes-600/20 to-hermes-400/10 dark:from-hermes-200/20 dark:to-hermes-100/10 rounded-full border border-hermes-500/30 dark:border-hermes-300/30 backdrop-blur-xl flex items-center justify-center">
-            <div className="w-20 h-20 sm:w-24 sm:h-24 lg:w-28 lg:h-28 bg-gradient-to-br from-hermes-500 to-hermes-700 dark:from-hermes-500 dark:to-hermes-700 rounded-full flex items-center justify-center">
-              <span className="text-2xl sm:text-3xl lg:text-4xl font-bold text-white">DB</span>
-            </div>
+          <div className="relative w-full h-full bg-gradient-to-br from-hermes-600/20 to-hermes-400/10 dark:from-hermes-200/20 dark:to-hermes-100/10 rounded-full border border-hermes-500/30 dark:border-hermes-300/30 backdrop-blur-xl flex items-center justify-center overflow-hidden">
+            <img 
+              src={meImage} 
+              alt="Dominik Balint" 
+              className="w-full h-full object-cover rounded-full"
+            />
           </div>
           
           {/* Floating indicator */}
