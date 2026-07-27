@@ -174,23 +174,75 @@
     "title": "Dovednosti",
     "categories": [
       {
-        "id": "technical",
-        "title": "Technické dovednosti",
+        "id": "backend",
+        "title": "Backend vývoj",
         "icon": "code",
         "items": [
-          "Automatizace testu",
-          "Automatizace procesu",
-          "ETL Pipeline",
-          "CI/CD",
-          "BE Vyvoj",
-          "FE Vyvoj",
-          "Analýza dat",
-          "Vizualizace dat",
-          "Reporting",
+          "Python (FastAPI)",
+          "Asynchronní zpracování (asyncio, Celery, message queues)",
+          "Go",
+          "TypeScript (Express)",
+          "Testování (unit, integrační, e2e)",
+          "Zpracování dat"
+        ]
+      },
+      {
+        "id": "frontend",
+        "title": "Frontend vývoj",
+        "icon": "code",
+        "items": [
+          "React (SPA, interaktivita)",
+          "HTMX",
+          "Server side rendering"
+        ]
+      },
+      {
+        "id": "architecture",
+        "title": "Architektura a integrace",
+        "icon": "server",
+        "items": [
+          "Návrh aplikací",
+          "Databázová architektura",
+          "Storage architektura",
+          "Background processing architektura",
+          "Autorizace/Autentizace",
+          "Integrace služeb"
+        ]
+      },
+      {
+        "id": "devops",
+        "title": "DevOps",
+        "icon": "terminal",
+        "items": [
+          "VPS management",
+          "GitLab CI/CD",
+          "Git",
           "Docker",
-          "Python",
-          "JavaScript/TypeScript",
-          "SQL"
+          "Cloud (Azure)",
+          "Monitorování služeb (uptime, logs, traces, metrics, notifications)",
+          "Dashboardy",
+          "Shell skriptování"
+        ]
+      },
+      {
+        "id": "ai",
+        "title": "AI a automatizace",
+        "icon": "bot",
+        "items": [
+          "Etické využití AI",
+          "Agentic development",
+          "MCP development"
+        ]
+      },
+      {
+        "id": "project-management",
+        "title": "Projektový management",
+        "icon": "trending",
+        "items": [
+          "Řízení projektů",
+          "Komunikace se stakeholdery",
+          "Vedení lidí",
+          "Delegování úkolů"
         ]
       },
       {
@@ -198,48 +250,23 @@
         "title": "Oborové znalosti",
         "icon": "briefcase",
         "items": [
-          "Telekomunikace",
-          "Financní produkty",
-          "Pojisteni",
-          "Bankovnictví",
-          "Lidské zdroje",
-          "Obchodní právo",
-          "Úcetnictví"
-        ]
-      },
-      {
-        "id": "business",
-        "title": "Business a management",
-        "icon": "trending",
-        "items": [
-          "Produktovy management",
-          "Project management",
-          "Procesní management",
-          "Test management",
-          "Zivotní cyklus produktu",
-          "Konzultace se stakeholdery",
-          "Skolení a mentoring",
-          "Vedení týmu"
+          "Finanční trhy",
+          "Risk management",
+          "Pojišťovnictví",
+          "Bankovnictví"
         ]
       },
       {
         "id": "soft",
-        "title": "Mekké dovednosti",
+        "title": "Měkké dovednosti",
         "icon": "heart",
         "items": [
-          "Resení problému",
           "Analytické myšlení",
+          "Řešení problémů",
           "Komunikace",
-          "Vedení",
           "Týmová práce",
           "Mentoring",
-          "Koucování",
-          "Kritické myšlení",
-          "Adaptabilita",
-          "Casový management",
-          "Organizace",
-          "Ochota učit se",
-          "Empatie"
+          "Adaptabilita"
         ]
       }
     ]
@@ -248,8 +275,8 @@
     "title": "Jazyky"
   },
   "somethingMore": {
-    "title": "Neco vice",
-    "description": "Vasnivy o prelenovani propasti mezi business potrebami a technickymi resenimi. Celozivotní student s růstovým myšlením."
+    "title": "Něco více",
+    "description": "Soustředím se na překlenutí propasti mezi business potřebami a technickým řešením. Mým cílem je uvést v život jednoduše napsané řešení, které bude suport pro to, aby na něm pracovali další developeří, ale zároveň dostatečně robustní, aby fungovalo pro opravdové business usecases. A když zrovna nedělám to, tak se sebevzdělávám primárně v oblasti AI, hraju na kytaru a rád cestuji."
   },
   "interestedIn": {
     "title": "Zajima me",
