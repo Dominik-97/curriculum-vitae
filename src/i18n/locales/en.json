@@ -227,7 +227,20 @@
     ]
   },
   "languages": {
-    "title": "Languages"
+    "title": "Languages",
+    "names": {
+      "cz": "Czech",
+      "en": "English",
+      "it": "Italian"
+    },
+    "proficiencies": {
+      "native": "Native",
+      "full_professional": "Full Professional Proficiency",
+      "professional": "Professional Proficiency",
+      "limited": "Limited Working Proficiency",
+      "elementary": "Elementary",
+      "learning": "Learning"
+    }
   },
   "somethingMore": {
     "title": "Something More",

@@ -1,20 +1,21 @@
 import React from 'react'
+import { useLanguage } from '../i18n/LanguageContext'
 
 interface Language {
   id: string
-  name: string
-  proficiency: string
+  nameKey: string
+  proficiencyKey: string
   level: number
 }
 
 const languages: Language[] = [
-  { id: 'cz', name: 'Czech', proficiency: 'Native', level: 100 },
-  { id: 'en', name: 'English', proficiency: 'Full Professional Proficiency', level: 95 },
-  { id: 'es', name: 'Spanish', proficiency: 'Elementary', level: 30 },
-  { id: 'de', name: 'German', proficiency: 'Elementary', level: 25 },
+  { id: 'cz', nameKey: 'cz', proficiencyKey: 'native', level: 100 },
+  { id: 'en', nameKey: 'en', proficiencyKey: 'full_professional', level: 95 },
+  { id: 'it', nameKey: 'it', proficiencyKey: 'learning', level: 30 },
 ]
 
 const Languages: React.FC = () => {
+  const { t } = useLanguage()
   return (
     <section className="space-y-4">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -26,10 +27,10 @@ const Languages: React.FC = () => {
           >
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-3">
-                <span className="text-2xl">{lang.id === 'cz' ? '🇨🇿' : lang.id === 'en' ? '🇬🇧' : lang.id === 'es' ? '🇪🇸' : '🇩🇪'}</span>
+                <span className="text-2xl">{lang.id === 'cz' ? '🇨🇿' : lang.id === 'en' ? '🇬🇧' : '🇮🇹'}</span>
                 <div>
-                  <h3 className="text-lg font-semibold text-white dark:text-slate-800">{lang.name}</h3>
-                  <p className="text-white/50 dark:text-slate-500 text-sm">{lang.proficiency}</p>
+                  <h3 className="text-lg font-semibold text-white dark:text-slate-800">{t(`languages.names.${lang.nameKey}`)}</h3>
+                  <p className="text-white/50 dark:text-slate-500 text-sm">{t(`languages.proficiencies.${lang.proficiencyKey}`)}</p>
                 </div>
               </div>
               

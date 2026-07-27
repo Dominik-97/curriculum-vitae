@@ -272,27 +272,41 @@
     ]
   },
   "languages": {
-    "title": "Jazyky"
+    "title": "Jazyky",
+    "names": {
+      "cz": "Čeština",
+      "en": "Angličtina",
+      "it": "Italština"
+    },
+    "proficiencies": {
+      "native": "Rodilý mluvčí",
+      "full_professional": "Plná profesní úroveň",
+      "professional": "Profesní úroveň",
+      "limited": "Omezená pracovní úroveň",
+      "elementary": "Základní",
+      "learning": "Učím se"
+    }
   },
   "somethingMore": {
     "title": "Něco více",
-    "description": "Soustředím se na překlenutí propasti mezi business potřebami a technickým řešením. Mým cílem je uvést v život jednoduše napsané řešení, které bude suport pro to, aby na něm pracovali další developeří, ale zároveň dostatečně robustní, aby fungovalo pro opravdové business usecases. A když zrovna nedělám to, tak se sebevzdělávám primárně v oblasti AI, hraju na kytaru a rád cestuji."
+    "description": "Mým hlavním zaměřením je propojení světa businessu s technickými řešeními. Usiluji o vytváření čitelných a udržovatelných řešení, která usnadní spolupráci dalším vývojářům a zároveň splňují nároky reálných business požadavků. A když zrovna nedělám to, tak se věnuji sebevzdělávání v oblasti AI, učení se italsky, hře na kytaru a cestování."
   },
   "interestedIn": {
     "title": "Zajima me",
     "items": [
-      "Automatizace testu",
-      "Psaní a dokumentace",
+      "Architektura",
+      "Automatizace",
+      "Dokumentace",
       "Big Data a compliance",
-      "Backend vyvoj",
+      "Fullstack vývoj",
       "Produktovy management",
       "Konzultace a skolení",
       "Agilní postupy"
     ]
   },
   "footer": {
-    "lastUpdated": "Naposledy aktualizováno: Cervenec 2026",
-    "builtWith": "Vytvoreno s láskou pomocí React + Vite + TypeScript + Tailwind CSS"
+    "lastUpdated": "Naposledy aktualizováno: Červenec 2026",
+    "builtWith": "Vytvořeno s láskou pomocí React + Vite + TypeScript + Tailwind CSS"
   },
   "buttons": {
     "czech": "Čeština",
