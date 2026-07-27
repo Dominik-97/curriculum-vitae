@@ -3,6 +3,8 @@ name: Deploy Redirect Page to GitHub Pages
 on:
   push:
     branches: [main]
+    paths:
+      - 'static-redirect.html'
 
 jobs:
   deploy:
