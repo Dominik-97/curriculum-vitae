@@ -21,7 +21,7 @@ const Header: React.FC = () => {
       
       {/* Main content */}
       <div className="relative z-10">
-        <div className="max-w-4xl">
+        <div className="max-w-4xl pr-40 sm:pr-52 lg:pr-60">
           {/* Name with gradient text */}
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-4 bg-hermes-gradient bg-clip-text text-transparent dark:text-slate-800">
             {t('header.name')}
@@ -41,10 +41,10 @@ const Header: React.FC = () => {
           {/* Contact links with modern styling */}
           <div className="flex flex-wrap gap-3 sm:gap-4">
             <a 
-              href="mailto:email@email.org" 
+              href="mailto:dominikbalint@email.cz" 
               className="px-4 py-2 bg-white/10 dark:bg-slate-200/80 hover:bg-white/20 dark:hover:bg-slate-300 backdrop-blur-sm rounded-lg text-white/90 dark:text-slate-700 hover:text-white dark:hover:text-slate-800 transition-all duration-300 border border-white/20 dark:border-slate-300 text-sm font-medium"
             >
-              email@email.org
+              dominikbalint@email.cz
             </a>
             <a 
               href="https://github.com/Dominik-97" 
@@ -72,8 +72,8 @@ const Header: React.FC = () => {
               onClick={() => handleLanguageChange('en')}
               className={`px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 ${
                 language === 'en' 
-                  ? 'bg-white/30 dark:bg-slate-300 text-white dark:text-slate-800 border border-white/30 dark:border-slate-300' 
-                  : 'bg-white/20 dark:bg-slate-200/80 hover:bg-white/30 dark:hover:bg-slate-300 text-white/90 dark:text-slate-700 hover:text-white dark:hover:text-slate-800'
+                  ? 'bg-hermes-500/30 dark:bg-hermes-300 text-hermes-300 dark:text-hermes-800 border border-hermes-500/30 dark:border-hermes-300' 
+                  : 'bg-hermes-500/20 dark:bg-hermes-200/80 hover:bg-hermes-500/30 dark:hover:bg-hermes-300/80 text-hermes-400 dark:text-hermes-700 hover:text-hermes-300 dark:hover:text-hermes-800'
               }`}
               aria-label="Switch to English"
             >

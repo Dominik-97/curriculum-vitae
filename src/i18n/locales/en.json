@@ -41,7 +41,7 @@
           "Providing product delivery, automation, test, and data management consulting",
           "Managing development and testing teams for internal and external projects"
         ],
-        "technologies": ["Test Automation", "ETL Pipelines", "CI/CD", "Product Management", "Stakeholder Consulting"]
+        "remarks": ["Test Automation", "ETL Pipelines", "CI/CD", "Product Management", "Stakeholder Consulting"]
       },
       {
         "id": "asseco",
@@ -57,7 +57,7 @@
           "Leading knowledge transfer workshops on automated testing",
           "Mentoring team members to ensure high-quality test delivery"
         ],
-        "technologies": ["Financial Platforms", "Test Automation", "ETL", "Data Visualization", "Workshops"]
+        "remarks": ["Financial Platforms", "Test Automation", "ETL", "Data Visualization", "Workshops"]
       },
       {
         "id": "renomia",
@@ -74,7 +74,7 @@
           "Facilitating knowledge sharing through technical workshops",
           "Guiding team members to deliver high-quality automated solutions"
         ],
-        "technologies": ["Insurance Systems", "Test Automation", "Process Analysis", "Data Visualization", "Team Leadership"]
+        "remarks": ["Insurance Systems", "Test Automation", "Process Analysis", "Data Visualization", "Team Leadership"]
       },
       {
         "id": "behavee",
@@ -91,7 +91,7 @@
           "Creating automated data reports and maintaining data integrity",
           "Implementing new strategies and processes for improved efficiency"
         ],
-        "technologies": ["Data Analysis", "Process Optimization", "Reporting", "Data Strategy", "Business Consulting"]
+        "remarks": ["Data Analysis", "Process Optimization", "Reporting", "Data Strategy", "Business Consulting"]
       },
       {
         "id": "tmobile",
@@ -107,7 +107,7 @@
           "Designing solutions for data consolidation from local ERP to international systems",
           "Leading data delivery team for legal documents, HR, and accounting data"
         ],
-        "technologies": ["Data Migration", "Data Testing", "ERP Systems", "Data Consolidation", "Team Leadership"]
+        "remarks": ["Data Migration", "Data Testing", "ERP Systems", "Data Consolidation", "Team Leadership"]
       }
     ]
   },
@@ -250,7 +250,7 @@
     "builtWith": "Built with love using React + Vite + TypeScript + Tailwind CSS"
   },
   "buttons": {
-    "czech": "Czech",
+    "czech": "Čeština",
     "english": "English"
   }
 }

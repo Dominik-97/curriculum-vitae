@@ -7,148 +7,166 @@
     "tagline": "Pomáhám firmám uspět"
   },
   "about": {
-    "title": "O mne",
+    "title": "O mně",
     "specializedIn": "Specializace",
     "description": [
-      "Pracuji jako vedouci vyvoje automatizace na ruznych internich a externich projektech ve firmé Denevy, s hlavnim zamerenim na automatizaci testu, automatizaci procesu a reporty.",
-      "Mojim cil je pomahat firmam uspet tim, ze zlepsuji procesy v oblastech businessu i technologií a poskytujem technicke skolení pro efektivni sdílení vedomostí.",
-      "Jsem zkuseny profesional s vice nez peti lety praxe v IT prostredi, a to jak ve startupovém, tak korporátním prostredi, s prokázanými uspechy v dodávaní úspešných projektů po celou jejich životnost."
+      "Pracuji jako Senior Software Developer v Powertica Commodities AG.",
+      "V rámci malého týmu pokrývám kompletní IT agendu oddělení — od frontendového a backendového vývoje přes datové pipeline (Airflow, Fabric, Databricks), správu databází, migrace až po návrh architektury. Součástí mé práce je také reporting, testování a tvorba technické dokumentace.",
+      "Aktivně integruji AI do firemních procesů — od implementace MCP serverů a fine-tuningu modelů až po automatizaci pracovních toků s využitím moderních nástrojů. Starám se také o DevOps a deployment prostřednictvím GitLabu a Dockeru.",
+      "Mým cílem je navrhovat robustní a udržitelná řešení, která pomáhají byznysu fungovat efektivně."
     ],
     "specializations": [
-      "Produktovy management",
-      "BE Vyvoj s FE prerustenim",
-      "Automatizace testu a procesu",
-      "Analyza dat a vizualizace",
-      "Technicke skolení a konzultace",
-      "Vyvoj CI/CD pipeline"
+      "Projektový management",
+      "Architektura",
+      "BE a FE vývoj",
+      "Automatizace testů a procesů",
+      "Analýza dat a jejich vizualizace",
+      "Technické školení a konzultace",
+      "CI/CD"
     ]
   },
   "experience": {
-    "title": "Pracovní zkusenosti",
+    "title": "Pracovní zkušenosti",
     "items": [
       {
-        "id": "denevy",
-        "period": "2021 - Soucasnost",
-        "company": "Denevy",
-        "position": "Konzultant pro vyvoj a testování / Product Owner",
-        "type": "Hlavní pracovní pomér",
-        "location": "Praha, Ceska republika",
+        "id": "powertica",
+        "period": "2023 - Současnost",
+        "company": "Powertica Commodities AG",
+        "position": "Senior Software Developer",
+        "type": "Hlavní pracovní poměr",
+        "location": "Praha, Česká republika",
         "description": [
-          "Vedení automatizačních iniciativ pro klienty jako Renomia, Asseco a Packeta",
-          "Dodávání vysoce kvalitních resení pro automatizaci testu a datové pipeline",
-          "Konzultace ohledne zlepšení procesu pro vyšší spokojenost a efektivitu",
-          "Implementace CI/CD procesu a osvedcených postupu",
-          "Poskytování konzultací v oblasti dodávaní produktu, automatizace, testování a správa dat",
-          "Rízení vyvojových a testovacích týmu pro interní i externí projekty"
+          "Kompletní pokrytí IT agendy Risk departmentu v rámci malého vývojářského týmu.",
+          "Vývoj a správa frontendových a backendových aplikací.",
+          "Návrh a implementace datových pipeline (Airflow, Fabric, Databricks) a správa persistentní vrstvy (databáze, migrace).",
+          "Reporting, testování a tvorba technické dokumentace.",
+          "Návrh systémové architektury a zajištění DevOps & deploymentu prostřednictvím GitLabu a Dockeru a frontier Cloud porviderů.",
+          "Integrace AI nástrojů do firemních procesů (MCP servery, agentic workflows)."
         ],
-        "technologies": ["Automatizace testu", "ETL Pipeline", "CI/CD", "Produktovy management", "Konzultace se stakeholdery"]
+        "remarks": ["Finanční trhy", "Risk management", "Operations"]
+      },
+      {
+        "id": "denevy",
+        "period": "2021 - 2023",
+        "company": "Denevy",
+        "position": "Development a Testing konzultant/Product owner",
+        "type": "Hlavní pracovní poměr",
+        "location": "Praha, Česká republika",
+        "description": [
+          "Realizace implementace relevantních změn a funkcí projektu Juno.one.",
+          "Konzultace se stakeholdery, shromažďování zpětné vazby a sledování trhu s cílem vytvořit realizovatelné kroky pro iterativní vývoj interního nástroje.",
+          "Řízení vývojových a testovacích týmů.",
+          "Přímá účast na vývoji, automatizaci testování a správě dat.",
+          "Správa dokumentace.",
+          "Správa produktové roadmapy.",
+          "Práce na různorodých interních i externích projektech pro společnosti jako Renomia, Asseco a Packeta týkajících se (automatizace testů a datových pipelines, CI/CD).",
+          "Konzultace v oblasti dodávek produktů, automatizace, testování a správy dat.",
+          "Řízení zlepšování procesů automatizace, automatizace testování, developmentu a datových pipeline a vizualizací.",
+          "Přímá účast na vývoji BE a FE.",
+          "Analýza slabých míst, návrh řešení na míru a následná implementace.",
+          "Tvorba vysoce kvalitní technické a businessové dokumentace, účast na definici efektivních onboarding procesů pro QA.",
+          "Vedení a školení testovacích a vývojových týmů.",
+          "Zavádění nových strategií a procesů pro zvýšení efektivity a zefektivnění vývoje."
+        ],
+        "remarks": ["Automatizace testů", "ETL Pipelines", "CI/CD", "Produktový management", "Konzultace se stakeholdery"]
       },
       {
         "id": "asseco",
-        "period": "Srpen 2022 - Soucasnost",
+        "period": "2022 - 2023",
         "company": "Asseco Central Europe",
-        "position": "Specialista na automatizaci",
+        "position": "Automation Specialist",
         "type": "Kontrakt",
-        "location": "Vzdálené",
+        "location": "Remote",
         "description": [
-          "Budování komplexních pipeline pro automatizaci testu financních produktových platform",
-          "Definování a dokumentování automatizovaných testovacích scenáru",
-          "Implementace ETL pipeline a vizualizace vysledku testu",
-          "Vedení workshopu pro prenásení vedomostí o automatizovaném testování",
-          "Mentoring clenu týmu pro zajištění vysoce kvalitního dodání testu"
+          "Vytváření test automation pipeline pro platformy pro zprostředkování finančních produktů.",
+          "Definování automatizovaných testovacích scénářů.",
+          "Implementace automatizovaných testovacích scénářů, ETL pipeline a vizualizace výsledků exekucí testů.",
+          "Vedení workshopů zaměřených na předávání znalostí týkajících se automatizovaných testů.",
+          "Vedení a pomoc ostatním členům týmu při dodávkách automatizovaných testů."
         ],
-        "technologies": ["Financní platformy", "Automatizace testu", "ETL", "Vizualizace dat", "Workshopy"]
+        "remarks": ["Finanční platformy", "Automatizace testů", "ETL", "Vizualizace dat", "Workshopy"]
       },
       {
         "id": "renomia",
-        "period": "Cerven 2022 - Soucasnost",
+        "period": "2022 - 2023",
         "company": "Renomia",
-        "position": "Vedouci automatizace",
+        "position": "Automation Lead",
         "type": "Kontrakt",
-        "location": "Pojistovnictví",
+        "location": "Remote",
         "description": [
-          "Vedení iniciativ pro automatizaci testu v pojistovnickém odvetví",
-          "Analýza existujících procesu a definování technických požadavku",
-          "Implementace automatizovaných testovacích scenáru a execucních pipeline",
-          "Vytváření dashboardu pro vizualizaci vysledku testu",
-          "Usnadnování sdílení vedomostí prostřednictvím technických workshopu",
-          "Vedení clenu týmu k dodávání vysoce kvalitních automatizovaných resení"
+          "Práce na projektu automatizace testování v oblasti pojišťovnictví.",
+          "Analýza procesů automatizace testů a definování technických požadavků.",
+          "Implementace automatizovaných testovacích scénářů, ETL pipeline a vizualizace výsledků provádění testů.",
+          "Vedení workshopů zaměřených na předávání znalostí týkajících se automatizovaných testů.",
+          "Vedení a pomoc ostatním členům týmu při dodávkách automatizovaných testů."
         ],
-        "technologies": ["Pojistovnické systémy", "Automatizace testu", "Analýza procesu", "Vizualizace dat", "Vedení týmu"]
+        "remarks": ["Pojištovnické systémy", "Automatizace testů", "Analýza procesů", "Vizualizace dat", "Vedení týmu"]
       },
       {
         "id": "behavee",
         "period": "2018 - 2021",
         "company": "Behavee",
-        "position": "Konzultant pro data a vyvoj / Specialista na reporty",
-        "type": "OSVC",
-        "location": "",
+        "position": "Data & Development consultant, Reporting Specialista",
+        "type": "Kontrakt",
+        "location": "Praha, Česká republika",
         "description": [
-          "Provádění evaluačních analýz dat, procesu a technologií za úcelem identifikace kritických problému",
-          "Návrh výzkumných plánu a provádění komplexních analýz",
-          "Výzkum a doporucení zlepšení podnikových prípadu pro využití dat",
-          "Pomoc vyvojovým týmu s datovou strategií a návrhem modelu",
-          "Vytváření automatizovaných datových reportu a udržování integrity dat",
-          "Implementace nových strategií a procesu pro zlepšení efektivity"
+          "Zkoumání dat, procesů a technologií za účelem vyhodnocení současného stavu a odhalení kritických problémů. Design, výzkumné plány a analýzy.",
+          "Výzkum a vydávání doporučení ohledně business casů týkajících se využití a správy dat.",
+          "Podpora development týmu při vytváření a implementaci datových strate- gií, navrhování a budování datových toků a vývoji datových modelů.",
+          "Vytváření automatizovaných reportů a dokumentace.",
+          "Kontrola integrity dat a správa databází.",
+          "Zavádění nových efektivních strategií a procesů."
         ],
-        "technologies": ["Analýza dat", "Optimalizace procesu", "Reporting", "Datová strategie", "Business konzultace"]
+        "remarks": ["Analýza dat", "Optimalizace procesů", "Reporting", "Datová strategie", "Business konzultace"]
       },
       {
         "id": "tmobile",
         "period": "2018 - 2020",
         "company": "T-Mobile",
-        "position": "Konzultant pro data a vyvoj",
+        "position": "Data & Development consultant",
         "type": "Kontrakt",
-        "location": "Praha, Ceska republika",
+        "location": "Praha, Česká republika",
         "description": [
-          "Úcast na velkém projektu migrace dat pro T-Mobile Ceska republika",
-          "Poskytování podpory během prechodového období s prípravou a konsolidací dat",
-          "Vyvíjení nástroju pro testování a cistení dat pro validaci migrace",
-          "Návrh resení pro konsolidaci dat z místního ERP do mezinarodních systému",
-          "Vedení týmu pro dodávání dat pro právní dokumenty, lidské zdroje a úcetní data"
+          "Účast na projektu T-Mobile Czech Republic - Migrace dat, testing, reporting.",
+          "Podpora migračních aktivit při přechodném období, příprava a konsolidace dat, data testing, reporting, handover připravených dat.",
+          "Data testing, data cleansing a migration tools development.",
+          "Design řešení pro konsolidaci a migraci dat z lokálních ERP systémů do mezinárodního řešení, design a reviewing přechodných a to-be procesů.",
+          "Zodpovědnost za přípravu dat v oblasti legal documents, plant maintenance, human resources a asset accounting.",
+          "Vedení týmu - data delivery."
         ],
-        "technologies": ["Migrace dat", "Testování dat", "ERP systémy", "Konsolidace dat", "Vedení týmu"]
+        "remarks": ["Migrace dat", "Testování dat", "ERP systémy", "Konsolidace dat", "Vedení týmu"]
       }
     ]
   },
   "education": {
-    "title": "Vzdelani",
+    "title": "Vzdělání",
     "items": [
       {
         "id": "cevro-mgr",
-        "period": "2020 - Soucasnost",
+        "period": "2020 - 2023",
         "institution": "CEVRO Institut",
-        "location": "Praha, Ceska republika",
+        "location": "Praha, Česká republika",
         "degree": "Mgr.",
         "field": "Obchodní právo",
-        "status": "Studuje"
+        "status": "Nedokončeno"
       },
       {
         "id": "cevro-bc",
         "period": "2017 - 2020",
         "institution": "CEVRO Institut",
-        "location": "Praha, Ceska republika",
+        "location": "Praha, Česká republika",
         "degree": "Bc.",
         "field": "Obchodní právo",
-        "status": "Dokonceno"
+        "status": "Dokončeno"
       },
       {
         "id": "mensa",
         "period": "2010 - 2017",
         "institution": "Mensa Gymnázium",
-        "location": "Praha, Ceska republika",
-        "degree": "Vysvedceni o maturitní zkousce",
-        "field": "Vseobecné vzdelani",
-        "status": "Dokonceno"
-      },
-      {
-        "id": "opengate",
-        "period": "2009 - 2010",
-        "institution": "Open Gate Boarding School",
-        "location": "Babice u Rican, Ceska republika",
-        "degree": "",
-        "field": "Vseobecné vzdelani",
-        "status": "Dokonceno"
+        "location": "Praha, Česká republika",
+        "degree": "Maturita",
+        "field": "Všeobecné vzdělávání",
+        "status": "Dokončeno"
       }
     ]
   },
@@ -250,7 +268,7 @@
     "builtWith": "Vytvoreno s láskou pomocí React + Vite + TypeScript + Tailwind CSS"
   },
   "buttons": {
-    "czech": "Cestina",
+    "czech": "Čeština",
     "english": "English"
   }
 }

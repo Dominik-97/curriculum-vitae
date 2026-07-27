@@ -9,7 +9,7 @@ interface ExperienceItem {
   type: string
   location?: string
   description: string[]
-  technologies?: string[]
+  remarks?: string[]
 }
 
 const Experience: React.FC = () => {
@@ -64,10 +64,10 @@ const Experience: React.FC = () => {
             {/* Expandable content */}
             {expandedId === exp.id && (
               <div className="p-5 pt-0 animate-fade-in">
-                {/* Technologies tags */}
-                {exp.technologies && exp.technologies.length > 0 && (
+                {/* Remarks tags */}
+                {exp.remarks && exp.remarks.length > 0 && (
                   <div className="flex flex-wrap gap-2 mb-4">
-                    {exp.technologies.map((tech, techIndex) => (
+                    {exp.remarks.map((tech, techIndex) => (
                       <span 
                         key={techIndex}
                         className="px-3 py-1 bg-hermes-500/10 dark:bg-hermes-200/20 text-hermes-400 dark:text-hermes-700 text-xs rounded-full border border-hermes-500/20 dark:border-hermes-300/20"
