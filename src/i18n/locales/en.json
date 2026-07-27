@@ -315,6 +315,7 @@
   "pdfDownload": {
     "title": "PDF Downloads",
     "english": "English PDF",
-    "czech": "Czech PDF"
+    "czech": "Czech PDF",
+    "infoText": "CZ and English versions. Personal info (address, phone) is hidden for privacy. For the full version, please email me at dominikbalint@email.cz"
   }
 }

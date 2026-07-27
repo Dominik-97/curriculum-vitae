@@ -315,6 +315,7 @@
   "pdfDownload": {
     "title": "PDF ke stažení",
     "english": "Anglické PDF",
-    "czech": "České PDF"
+    "czech": "České PDF",
+    "infoText": "Česká a anglická verze. Osobní údaje (adresa, telefon) jsou z důvodu ochrany soukromí skryty. Pro úplnou verzi mi prosím napište na email dominikbalint@email.cz"
   }
 }
