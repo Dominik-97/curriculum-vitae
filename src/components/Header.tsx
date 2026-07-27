@@ -10,35 +10,28 @@ const Header: React.FC = () => {
   }
   return (
     <div className="relative p-8 sm:p-12 lg:p-16 overflow-hidden">
-      {/* Gradient background - different for each theme */}
       <div className="absolute inset-0 bg-gradient-to-br from-hermes-600/20 via-hermes-500/10 to-transparent dark:from-hermes-100/20 dark:via-hermes-50/10 dark:to-transparent"></div>
       
-      {/* Decorative orbit effect - only in dark mode */}
       <div className="absolute inset-0 opacity-20 dark:opacity-10">
         <div className="absolute top-1/2 left-1/2 w-[400px] h-[400px] -translate-x-1/2 -translate-y-1/2 border border-hermes-500/20 dark:border-hermes-300/20 rounded-full"></div>
         <div className="absolute top-1/2 left-1/2 w-[500px] h-[500px] -translate-x-1/2 -translate-y-1/2 border border-hermes-400/10 dark:border-hermes-200/10 rounded-full"></div>
       </div>
       
-      {/* Main content */}
       <div className="relative z-10">
         <div className="max-w-4xl pr-40 sm:pr-52 lg:pr-60">
-          {/* Name with gradient text */}
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-4 bg-hermes-gradient bg-clip-text text-transparent dark:text-slate-800">
             {t('header.name')}
           </h1>
           
-          {/* Title with subtle glow */}
           <p className="text-xl sm:text-2xl lg:text-3xl text-white/90 dark:text-slate-700 mb-4">
             {t('header.title')}
           </p>
           
-          {/* Subtitle */}
           <p className="text-lg sm:text-xl text-white/70 dark:text-slate-600 mb-8">
             {t('header.subtitle')}
             <span className="hermes-gradient-text dark:text-hermes-600 dark:font-medium">{t('header.tagline')}</span>
           </p>
           
-          {/* Contact links with modern styling */}
           <div className="flex flex-wrap gap-3 sm:gap-4">
             <a 
               href="mailto:dominikbalint@email.cz" 
@@ -83,13 +76,10 @@ const Header: React.FC = () => {
         </div>
       </div>
       
-      {/* Floating avatar card - Hermes style */}
       <div className="absolute right-8 top-8 sm:right-12 sm:top-12 w-32 h-32 sm:w-40 sm:h-40 lg:w-48 lg:h-48">
         <div className="relative w-full h-full">
-          {/* Glow effect */}
           <div className="absolute inset-0 bg-hermes-500/20 rounded-full blur-2xl animate-pulse-soft dark:bg-hermes-500/10"></div>
           
-          {/* Avatar container */}
           <div className="relative w-full h-full bg-gradient-to-br from-hermes-600/20 to-hermes-400/10 dark:from-hermes-200/20 dark:to-hermes-100/10 rounded-full border border-hermes-500/30 dark:border-hermes-300/30 backdrop-blur-xl flex items-center justify-center overflow-hidden">
             <img 
               src={meImage} 
@@ -98,7 +88,6 @@ const Header: React.FC = () => {
             />
           </div>
           
-          {/* Floating indicator */}
           <div className="absolute -top-2 -right-2 w-4 h-4 bg-green-400 rounded-full border-2 border-midnight-500 dark:border-white animate-pulse"></div>
         </div>
       </div>

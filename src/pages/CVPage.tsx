@@ -1,37 +1,31 @@
 import React from 'react'
 import { useLanguage } from '../i18n/LanguageContext'
-import Header from './Header'
-import About from './About'
-import Experience from './Experience'
-import Education from './Education'
-import Skills from './Skills'
-import Languages from './Languages'
-import Footer from './Footer'
-import ThemeToggle from './ThemeToggle'
-import PrintButton from './PrintButton'
-import SomethingMore from './SomethingMore'
-import InterestedIn from './InterestedIn'
+import Header from '../components/Header'
+import About from '../components/About'
+import Experience from '../components/Experience'
+import Education from '../components/Education'
+import Skills from '../components/Skills'
+import Languages from '../components/Languages'
+import Footer from '../components/Footer'
+import ThemeToggle from '../components/ThemeToggle'
+import PrintButton from '../components/PrintButton'
+import SomethingMore from '../components/SomethingMore'
+import InterestedIn from '../components/InterestedIn'
 
 const CVPage: React.FC = () => {
   const { t } = useLanguage()
   return (
     <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-      {/* Floating action buttons */}
       <ThemeToggle />
       <PrintButton />
       
-      {/* Main container with Hermes-inspired glass card */}
       <div className="relative">
-        {/* Decorative glow effect */}
         <div className="absolute inset-0 bg-hermes-gradient rounded-3xl opacity-10 blur-3xl"></div>
         
-        {/* Main card with glass effect */}
         <div className="relative bg-midnight-600/80 dark:bg-white/80 backdrop-blur-xl rounded-3xl border border-white/10 dark:border-gray-200 shadow-hermes-lg overflow-hidden">
           
-          {/* Header with gradient */}
           <Header />
           
-          {/* Main content area */}
           <div className="p-6 sm:p-8 lg:p-12">
             
             {/* About Section */}
@@ -75,7 +69,7 @@ const CVPage: React.FC = () => {
               <Languages />
             </section>
             
-            {/* Additional sections - design focused */}
+            {/* Additional sections*/}
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-12">
               <SomethingMore />
               <InterestedIn />

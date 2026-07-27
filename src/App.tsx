@@ -1,6 +1,6 @@
 import React from 'react'
 import { LanguageProvider } from './i18n/LanguageContext'
-import CVPage from './components/CVPage'
+import CVPage from './pages/CVPage'
 
 const App: React.FC = () => {
   return (

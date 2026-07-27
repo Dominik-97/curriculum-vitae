@@ -16,7 +16,6 @@ const About: React.FC = () => {
         ))}
       </div>
       
-      {/* Specializations - Hermes-style pills */}
       <div className="mt-8">
         <h3 className="text-lg font-medium text-white dark:text-slate-800 mb-4">{t('about.specializedIn')}</h3>
         <div className="flex flex-wrap gap-3">

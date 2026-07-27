@@ -1,7 +1,6 @@
 import { createContext, useContext, useEffect, useState, ReactNode } from 'react';
 import { Language, Translations, translations } from './index';
 
-// Define the context type
 interface LanguageContextType {
   language: Language;
   setLanguage: (lang: Language) => void;
@@ -9,10 +8,8 @@ interface LanguageContextType {
   translations: Translations;
 }
 
-// Create the context
 const LanguageContext = createContext<LanguageContextType | undefined>(undefined);
 
-// Custom hook to use the language context
 export function useLanguage(): LanguageContextType {
   const context = useContext(LanguageContext);
   if (!context) {
@@ -21,7 +18,6 @@ export function useLanguage(): LanguageContextType {
   return context;
 }
 
-// Helper function to get nested translation value
 function getTranslationValue(translations: Translations, key: string): string | undefined {
   const keys = key.split('.');
   let value: any = translations;
@@ -37,7 +33,6 @@ function getTranslationValue(translations: Translations, key: string): string | 
   return typeof value === 'string' ? value : undefined;
 }
 
-// Provider component
 interface LanguageProviderProps {
   children: ReactNode;
   defaultLanguage?: Language;
@@ -49,7 +44,6 @@ export function LanguageProvider({
 }: LanguageProviderProps) {
   const [language, setLanguageState] = useState<Language>(defaultLanguage);
 
-  // Load saved language preference from localStorage
   useEffect(() => {
     const savedLanguage = localStorage.getItem('language') as Language | null;
     if (savedLanguage && (savedLanguage === 'en' || savedLanguage === 'cs')) {
@@ -57,26 +51,21 @@ export function LanguageProvider({
     }
   }, []);
 
-  // Save language preference to localStorage when it changes
   useEffect(() => {
     localStorage.setItem('language', language);
-    // Update HTML lang attribute
     document.documentElement.lang = language;
   }, [language]);
 
-  // Set language function
   const setLanguage = (lang: Language) => {
     setLanguageState(lang);
   };
 
-  // Translation function - handles nested keys like "header.title"
   const t = (key: string, defaultValue: string = key): string => {
     const currentTranslations = translations[language];
     const value = getTranslationValue(currentTranslations, key);
     return value || defaultValue;
   };
 
-  // Get translations object for the current language
   const getTranslations = (): Translations => {
     return translations[language];
   };

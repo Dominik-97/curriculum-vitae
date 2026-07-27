@@ -44,7 +44,6 @@ const Skills: React.FC = () => {
             className="bg-white/10 dark:bg-slate-200/50 backdrop-blur-sm rounded-xl border border-white/10 dark:border-slate-200 p-6 animate-fade-in-up"
             style={{ animationDelay: `${catIndex * 100}ms` }}
           >
-            {/* Header */}
             <div className="flex items-center gap-3 mb-5">
               <div className="w-10 h-10 bg-hermes-500/20 dark:bg-hermes-200/20 rounded-lg flex items-center justify-center">
                 {iconMap[category.icon] || iconMap.code}
@@ -52,7 +51,6 @@ const Skills: React.FC = () => {
               <h3 className="text-lg font-semibold text-white dark:text-slate-800">{category.title}</h3>
             </div>
             
-            {/* Skill tags */}
             <div className="flex flex-wrap gap-2">
               {category.items.map((skill, skillIndex) => (
                 <span 

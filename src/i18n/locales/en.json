@@ -8,71 +8,97 @@
   },
   "about": {
     "title": "About Me",
-    "specializedIn": "Specialized In",
+    "specializedIn": "Specializations",
     "description": [
-      "Working as an automation development lead on various in-house and external projects at Denevy, primarily focusing on test automation, process automation, and reporting.",
-      "My goal is to help businesses succeed by driving improvements in both business and technical areas, and providing technical training to share knowledge effectively.",
-      "I am an established professional with over five years of experience in both startup and corporate environments in the IT space, with a proven track record of delivering successful projects throughout their entire lifecycle."
+      "Working as a Senior Software Developer at Powertica Commodities AG.",
+      "Within a small team, I cover the complete IT agenda of the Risk department — from frontend and backend development to data pipelines (Airflow, Fabric, Databricks), database management, migrations, and architecture design. My work also includes reporting, testing, and creating technical documentation.",
+      "I actively integrate AI into company processes — from implementing MCP servers and fine-tuning models to automating workflows using modern tools. I also handle DevOps and deployment via GitLab and Docker.",
+      "My goal is to design robust and sustainable solutions that help businesses operate efficiently."
     ],
     "specializations": [
-      "Product Management",
-      "BE Development with FE Overreach",
+      "Project Management",
+      "Architecture",
+      "BE and FE Development",
       "Test & Process Automation",
       "Data Analysis & Visualization",
       "Technical Training & Consulting",
-      "CI/CD Pipeline Development"
+      "CI/CD"
     ]
   },
   "experience": {
     "title": "Work Experience",
     "items": [
       {
+        "id": "powertica",
+        "period": "2023 - Present",
+        "company": "Powertica Commodities AG",
+        "position": "Senior Software Developer",
+        "type": "Full-time",
+        "location": "Prague, Czech Republic",
+        "description": [
+          "Complete coverage of IT agenda for the Risk department within a small development team.",
+          "Development and management of frontend and backend applications.",
+          "Design and implementation of data pipelines (Airflow, Fabric, Databricks) and management of persistent layer (databases, migrations).",
+          "Reporting, testing, and creation of technical documentation.",
+          "System architecture design and ensuring DevOps & deployment through GitLab, Docker, and frontier Cloud providers.",
+          "Integration of AI tools into company processes (MCP servers, agentic workflows)."
+        ],
+        "remarks": ["Financial Markets", "Risk Management", "Operations"]
+      },
+      {
         "id": "denevy",
-        "period": "2021 - Present",
+        "period": "2021 - 2023",
         "company": "Denevy",
         "position": "Development & Testing Consultant / Product Owner",
         "type": "Full-time",
         "location": "Prague, Czech Republic",
         "description": [
-          "Leading automation initiatives for clients including Renomia, Asseco, and Packeta",
-          "Delivering high-quality test automation and data pipeline solutions",
-          "Consulting on process improvements for higher satisfaction and effectiveness",
-          "Implementing CI/CD processes and best practices",
-          "Providing product delivery, automation, test, and data management consulting",
-          "Managing development and testing teams for internal and external projects"
+          "Implementation of relevant changes and features for the Juno.one project.",
+          "Consulting with stakeholders, gathering feedback, and market monitoring to create feasible steps for iterative development of internal tools.",
+          "Management of development and testing teams.",
+          "Direct involvement in development, test automation, and data management.",
+          "Documentation management.",
+          "Product roadmap management.",
+          "Work on various internal and external projects for companies such as Renomia, Asseco, and Packeta related to (test automation and data pipelines, CI/CD).",
+          "Consulting in product delivery, automation, testing, and data management.",
+          "Managing improvements in automation processes, test automation, development, data pipelines, and visualizations.",
+          "Direct involvement in BE and FE development.",
+          "Analysis of weaknesses, tailored solution design, and subsequent implementation.",
+          "Creating high-quality technical and business documentation, participating in defining effective onboarding processes for QA.",
+          "Leading and training testing and development teams.",
+          "Implementing new strategies and processes to increase efficiency and streamline development."
         ],
         "remarks": ["Test Automation", "ETL Pipelines", "CI/CD", "Product Management", "Stakeholder Consulting"]
       },
       {
         "id": "asseco",
-        "period": "August 2022 - Present",
+        "period": "2022 - 2023",
         "company": "Asseco Central Europe",
         "position": "Automation Specialist",
-        "type": "Contractual",
+        "type": "Contract",
         "location": "Remote",
         "description": [
-          "Building comprehensive test automation pipelines for financial products platforms",
-          "Defining and documenting automated test scenarios",
-          "Implementing ETL pipelines and test execution result visualizations",
-          "Leading knowledge transfer workshops on automated testing",
-          "Mentoring team members to ensure high-quality test delivery"
+          "Creating test automation pipelines for financial products platforms.",
+          "Defining automated test scenarios.",
+          "Implementation of automated test scenarios, ETL pipelines, and visualization of test execution results.",
+          "Leading workshops focused on knowledge transfer related to automated testing.",
+          "Leading and assisting other team members in delivering automated tests."
         ],
         "remarks": ["Financial Platforms", "Test Automation", "ETL", "Data Visualization", "Workshops"]
       },
       {
         "id": "renomia",
-        "period": "June 2022 - Present",
+        "period": "2022 - 2023",
         "company": "Renomia",
         "position": "Automation Lead",
-        "type": "Contractual",
-        "location": "Insurance Domain",
+        "type": "Contract",
+        "location": "Remote",
         "description": [
-          "Leading test automation initiatives in the insurance sector",
-          "Analyzing existing processes and defining technical requirements",
-          "Implementing automated test scenarios and execution pipelines",
-          "Creating data visualization dashboards for test results",
-          "Facilitating knowledge sharing through technical workshops",
-          "Guiding team members to deliver high-quality automated solutions"
+          "Work on test automation project in the insurance sector.",
+          "Analysis of test automation processes and defining technical requirements.",
+          "Implementation of automated test scenarios, ETL pipelines, and visualization of test execution results.",
+          "Leading workshops focused on knowledge transfer related to automated testing.",
+          "Leading and assisting other team members in delivering automated tests."
         ],
         "remarks": ["Insurance Systems", "Test Automation", "Process Analysis", "Data Visualization", "Team Leadership"]
       },
@@ -81,15 +107,15 @@
         "period": "2018 - 2021",
         "company": "Behavee",
         "position": "Data & Development Consultant / Reporting Specialist",
-        "type": "Self-employed",
-        "location": "",
+        "type": "Contract",
+        "location": "Prague, Czech Republic",
         "description": [
-          "Conducting data, process, and technology evaluations to identify critical issues",
-          "Designing research plans and performing comprehensive analysis",
-          "Researching and recommending business case improvements for data utilization",
-          "Assisting development teams with data strategy and model design",
-          "Creating automated data reports and maintaining data integrity",
-          "Implementing new strategies and processes for improved efficiency"
+          "Examining data, processes, and technologies to evaluate the current state and identify critical issues. Design, research plans, and analyses.",
+          "Research and recommendations on business cases related to data utilization and management.",
+          "Supporting development team in creating and implementing data strategies, designing and building data flows, and developing data models.",
+          "Creating automated reports and documentation.",
+          "Data integrity control and database management.",
+          "Implementing new effective strategies and processes."
         ],
         "remarks": ["Data Analysis", "Process Optimization", "Reporting", "Data Strategy", "Business Consulting"]
       },
@@ -98,14 +124,15 @@
         "period": "2018 - 2020",
         "company": "T-Mobile",
         "position": "Data & Development Consultant",
-        "type": "Contractual",
+        "type": "Contract",
         "location": "Prague, Czech Republic",
         "description": [
-          "Participating in large-scale data migration project for T-Mobile Czech Republic",
-          "Providing support during transition period with data preparation and consolidation",
-          "Developing data testing and cleansing tools for migration validation",
-          "Designing solutions for data consolidation from local ERP to international systems",
-          "Leading data delivery team for legal documents, HR, and accounting data"
+          "Participation in T-Mobile Czech Republic project - Data migration, testing, reporting.",
+          "Support for migration activities during transition period, data preparation and consolidation, data testing, reporting, handover of prepared data.",
+          "Data testing, data cleansing, and migration tools development.",
+          "Designing solutions for data consolidation and migration from local ERP systems to international solutions, design and review of transition and to-be processes.",
+          "Responsibility for data preparation in legal documents, plant maintenance, human resources, and asset accounting.",
+          "Team leadership - data delivery."
         ],
         "remarks": ["Data Migration", "Data Testing", "ERP Systems", "Data Consolidation", "Team Leadership"]
       }
@@ -116,12 +143,12 @@
     "items": [
       {
         "id": "cevro-mgr",
-        "period": "2020 - Present",
+        "period": "2020 - 2023",
         "institution": "CEVRO Institut",
         "location": "Prague, Czech Republic",
         "degree": "Mgr.",
         "field": "Corporate Law",
-        "status": "Studying"
+        "status": "Incomplete"
       },
       {
         "id": "cevro-bc",
@@ -138,16 +165,7 @@
         "institution": "Mensa Gymnázium",
         "location": "Prague, Czech Republic",
         "degree": "High School Diploma",
-        "field": "General Education",
-        "status": "Completed"
-      },
-      {
-        "id": "opengate",
-        "period": "2009 - 2010",
-        "institution": "Open Gate Boarding School",
-        "location": "Babice u Říčan, Czech Republic",
-        "degree": "",
-        "field": "General Education",
+        "field": "",
         "status": "Completed"
       }
     ]
@@ -156,23 +174,75 @@
     "title": "Skills",
     "categories": [
       {
-        "id": "technical",
-        "title": "Technical Skills",
+        "id": "backend",
+        "title": "Backend Development",
         "icon": "code",
         "items": [
-          "Test Automation",
-          "Process Automation",
-          "ETL Pipelines",
-          "CI/CD",
-          "BE Development",
-          "FE Development",
-          "Data Analysis",
-          "Data Visualization",
-          "Reporting",
+          "Python (FastAPI)",
+          "Asynchronous Processing (asyncio, Celery, message queues)",
+          "Go",
+          "TypeScript (Express)",
+          "Testing (unit, integration, e2e)",
+          "Data Processing"
+        ]
+      },
+      {
+        "id": "frontend",
+        "title": "Frontend Development",
+        "icon": "code",
+        "items": [
+          "React (SPA, interactivity)",
+          "HTMX",
+          "Server Side Rendering"
+        ]
+      },
+      {
+        "id": "architecture",
+        "title": "Architecture & Integration",
+        "icon": "server",
+        "items": [
+          "Application Design",
+          "Database Architecture",
+          "Storage Architecture",
+          "Background Processing Architecture",
+          "Authorization/Authentication",
+          "Service Integration"
+        ]
+      },
+      {
+        "id": "devops",
+        "title": "DevOps",
+        "icon": "terminal",
+        "items": [
+          "VPS Management",
+          "GitLab CI/CD",
+          "Git",
           "Docker",
-          "Python",
-          "JavaScript/TypeScript",
-          "SQL"
+          "Cloud (Azure)",
+          "Service Monitoring (uptime, logs, traces, metrics, notifications)",
+          "Dashboards",
+          "Shell Scripting"
+        ]
+      },
+      {
+        "id": "ai",
+        "title": "AI & Automation",
+        "icon": "bot",
+        "items": [
+          "Ethical AI Usage",
+          "Agentic Development",
+          "MCP Development"
+        ]
+      },
+      {
+        "id": "project-management",
+        "title": "Project Management",
+        "icon": "trending",
+        "items": [
+          "Project Management",
+          "Stakeholder Communication",
+          "People Management",
+          "Task Delegation"
         ]
       },
       {
@@ -180,28 +250,10 @@
         "title": "Domain Knowledge",
         "icon": "briefcase",
         "items": [
-          "Telecommunications",
-          "Financial Products",
+          "Financial Markets",
+          "Risk Management",
           "Insurance",
-          "Banking",
-          "Human Resources",
-          "Corporate Law",
-          "Accounting"
-        ]
-      },
-      {
-        "id": "business",
-        "title": "Business & Management",
-        "icon": "trending",
-        "items": [
-          "Product Management",
-          "Project Management",
-          "Process Management",
-          "Test Management",
-          "Product Lifecycle",
-          "Stakeholder Consulting",
-          "Training & Mentoring",
-          "Team Leadership"
+          "Banking"
         ]
       },
       {
@@ -209,19 +261,12 @@
         "title": "Soft Skills",
         "icon": "heart",
         "items": [
-          "Problem Solving",
           "Analytical Thinking",
+          "Problem Solving",
           "Communication",
-          "Leadership",
           "Teamwork",
           "Mentoring",
-          "Coaching",
-          "Critical Thinking",
-          "Adaptability",
-          "Time Management",
-          "Organization",
-          "Willingness to Learn",
-          "Empathy"
+          "Adaptability"
         ]
       }
     ]
@@ -244,15 +289,16 @@
   },
   "somethingMore": {
     "title": "Something More",
-    "description": "Passionate about bridging the gap between business needs and technical solutions. Continuous learner with a growth mindset."
+    "description": "My main focus is connecting the world of business with technical solutions. I strive to create readable and maintainable solutions that facilitate collaboration with other developers and meet the demands of real business requirements. And when I'm not doing that, I focus on self-education in AI, learning Italian, playing guitar, and traveling."
   },
   "interestedIn": {
     "title": "Interested In",
     "items": [
-      "Test Automation",
-      "Writing & Documentation",
+      "Architecture",
+      "Automation",
+      "Documentation",
       "Big Data & Compliance",
-      "Backend Development",
+      "Fullstack Development",
       "Product Management",
       "Consulting & Training",
       "Agile Practices"
