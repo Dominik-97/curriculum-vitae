@@ -233,6 +233,12 @@
     background-clip: text !important;
   }
   
+  .print-tagline {
+    color: #475569 !important;
+    font-weight: 500 !important;
+    -webkit-text-fill-color: #475569 !important;
+  }
+  
   .backdrop-blur-sm,
   .backdrop-blur-xl {
     backdrop-filter: none !important;

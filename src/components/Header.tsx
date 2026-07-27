@@ -29,7 +29,7 @@ const Header: React.FC = () => {
           
           <p className="text-lg sm:text-xl text-white/70 dark:text-slate-600 mb-8">
             {t('header.subtitle')}
-            <span className="hermes-gradient-text dark:text-hermes-600 dark:font-medium">{t('header.tagline')}</span>
+            <span className="hermes-gradient-text dark:text-hermes-600 dark:font-medium print-tagline">{t('header.tagline')}</span>
           </p>
           
           <div className="flex flex-wrap gap-3 sm:gap-4">
