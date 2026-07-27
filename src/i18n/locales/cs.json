@@ -147,7 +147,7 @@
         "institution": "CEVRO Institut",
         "location": "Praha, Česká republika",
         "degree": "Mgr.",
-        "field": "Obchodní právo",
+        "field": "obchodním právu",
         "status": "Nedokončeno"
       },
       {
@@ -156,7 +156,7 @@
         "institution": "CEVRO Institut",
         "location": "Praha, Česká republika",
         "degree": "Bc.",
-        "field": "Obchodní právo",
+        "field": "obchodním právu",
         "status": "Dokončeno"
       },
       {
@@ -165,7 +165,7 @@
         "institution": "Mensa Gymnázium",
         "location": "Praha, Česká republika",
         "degree": "Maturita",
-        "field": "Všeobecné vzdělávání",
+        "field": "",
         "status": "Dokončeno"
       }
     ]

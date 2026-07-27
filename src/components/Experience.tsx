@@ -63,7 +63,7 @@ const Experience: React.FC = () => {
             
             {/* Expandable content */}
             {expandedId === exp.id && (
-              <div className="p-5 pt-0 animate-fade-in">
+              <div className="p-5 pt-4 animate-fade-in">
                 {/* Remarks tags */}
                 {exp.remarks && exp.remarks.length > 0 && (
                   <div className="flex flex-wrap gap-2 mb-4">
