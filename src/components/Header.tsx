@@ -52,10 +52,11 @@ const Header: React.FC = () => {
             </a>
             <button
               onClick={() => handleLanguageChange('cs')}
-              className={`px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 ${
+              onMouseDown={(e) => e.preventDefault()}
+              className={`px-4 py-2 rounded-lg text-sm font-medium appearance-none outline-none ring-0 shadow-none focus:outline-none focus:ring-0 focus:shadow-none ${
                 language === 'cs' 
                   ? 'bg-hermes-500/30 dark:bg-hermes-300 text-hermes-300 dark:text-hermes-800 border border-hermes-500/30 dark:border-hermes-300' 
-                  : 'bg-hermes-500/20 dark:bg-hermes-200/80 hover:bg-hermes-500/30 dark:hover:bg-hermes-300/80 text-hermes-400 dark:text-hermes-700 hover:text-hermes-300 dark:hover:text-hermes-800'
+                  : 'bg-hermes-500/20 dark:bg-hermes-200/80 hover:bg-hermes-500/30 dark:hover:bg-hermes-300/80 text-hermes-400 dark:text-hermes-700 hover:text-hermes-300 dark:hover:text-hermes-800 transition-colors duration-300'
               }`}
               aria-label="Switch to Czech"
             >
@@ -63,10 +64,11 @@ const Header: React.FC = () => {
             </button>
             <button
               onClick={() => handleLanguageChange('en')}
-              className={`px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 ${
+              onMouseDown={(e) => e.preventDefault()}
+              className={`px-4 py-2 rounded-lg text-sm font-medium appearance-none outline-none ring-0 shadow-none focus:outline-none focus:ring-0 focus:shadow-none ${
                 language === 'en' 
                   ? 'bg-hermes-500/30 dark:bg-hermes-300 text-hermes-300 dark:text-hermes-800 border border-hermes-500/30 dark:border-hermes-300' 
-                  : 'bg-hermes-500/20 dark:bg-hermes-200/80 hover:bg-hermes-500/30 dark:hover:bg-hermes-300/80 text-hermes-400 dark:text-hermes-700 hover:text-hermes-300 dark:hover:text-hermes-800'
+                  : 'bg-hermes-500/20 dark:bg-hermes-200/80 hover:bg-hermes-500/30 dark:hover:bg-hermes-300/80 text-hermes-400 dark:text-hermes-700 hover:text-hermes-300 dark:hover:text-hermes-800 transition-colors duration-300'
               }`}
               aria-label="Switch to English"
             >

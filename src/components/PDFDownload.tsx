@@ -9,20 +9,27 @@ const PDFDownload: React.FC = () => {
     <div className="mt-10 pt-6 border-t border-white/10 dark:border-slate-200 animate-fade-in-up" style={{ animationDelay: '200ms' }}>
       <div className="flex items-center gap-2 mb-4">
         <h3 className="text-lg font-medium text-white dark:text-slate-800">{t('pdfDownload.title')}</h3>
-        <button
-          onClick={() => setShowTooltip(!showTooltip)}
-          className="relative text-white/60 dark:text-slate-500 hover:text-hermes-400 dark:hover:text-hermes-600 transition-colors"
-          aria-label={t('pdfDownload.infoText')}
-        >
-          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-          </svg>
+        <div className="relative inline-block">
+          <button
+            onMouseEnter={() => setShowTooltip(true)}
+            onMouseLeave={() => setShowTooltip(false)}
+            className="text-white/60 dark:text-slate-500 hover:text-hermes-400 dark:hover:text-hermes-600 transition-colors"
+            aria-label={t('pdfDownload.infoText')}
+          >
+            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+          </button>
           {showTooltip && (
-            <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-64 p-3 bg-midnight-600 dark:bg-white rounded-lg shadow-lg text-xs text-white/80 dark:text-slate-700 z-50">
+            <div
+              onMouseEnter={() => setShowTooltip(true)}
+              onMouseLeave={() => setShowTooltip(false)}
+              className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-64 p-3 bg-midnight-600 dark:bg-white rounded-lg shadow-lg text-xs text-white/80 dark:text-slate-700 z-50"
+            >
               {t('pdfDownload.infoText')}
             </div>
           )}
-        </button>
+        </div>
       </div>
       <div className="flex flex-wrap gap-3 sm:gap-4">
         <a
