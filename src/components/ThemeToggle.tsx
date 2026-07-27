@@ -1,20 +1,18 @@
 import React, { useEffect, useState } from 'react'
 
 const ThemeToggle: React.FC = () => {
-  const [theme, setTheme] = useState<'dark' | 'light'>('dark')
-
-  useEffect(() => {
+  const [theme, setTheme] = useState<'dark' | 'light'>(() => {
     const savedTheme = localStorage.getItem('theme') as 'dark' | 'light' | null
     const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches
     
     if (savedTheme) {
-      setTheme(savedTheme)
+      return savedTheme
     } else if (prefersDark) {
-      setTheme('dark')
+      return 'dark'
     } else {
-      setTheme('light')
+      return 'light'
     }
-  }, [])
+  })
 
   useEffect(() => {
     const root = window.document.documentElement

@@ -42,14 +42,13 @@ export function LanguageProvider({
   children, 
   defaultLanguage = 'en' 
 }: LanguageProviderProps) {
-  const [language, setLanguageState] = useState<Language>(defaultLanguage);
-
-  useEffect(() => {
+  const [language, setLanguageState] = useState<Language>(() => {
     const savedLanguage = localStorage.getItem('language') as Language | null;
     if (savedLanguage && (savedLanguage === 'en' || savedLanguage === 'cs')) {
-      setLanguageState(savedLanguage);
+      return savedLanguage;
     }
-  }, []);
+    return defaultLanguage;
+  });
 
   useEffect(() => {
     localStorage.setItem('language', language);
