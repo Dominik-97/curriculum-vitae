@@ -1,4 +1,5 @@
 import React from 'react'
+import { useLanguage } from '../i18n/LanguageContext'
 import Header from './Header'
 import About from './About'
 import Experience from './Experience'
@@ -12,6 +13,7 @@ import SomethingMore from './SomethingMore'
 import InterestedIn from './InterestedIn'
 
 const CVPage: React.FC = () => {
+  const { t } = useLanguage()
   return (
     <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       {/* Floating action buttons */}
@@ -41,7 +43,7 @@ const CVPage: React.FC = () => {
             <section className="mb-12">
               <h2 className="text-2xl font-bold mb-8 flex items-center gap-3">
                 <span className="w-2 h-2 rounded-full bg-hermes-500"></span>
-                Work Experience
+                {t('experience.title')}
               </h2>
               <Experience />
             </section>
@@ -50,7 +52,7 @@ const CVPage: React.FC = () => {
             <section className="mb-12">
               <h2 className="text-2xl font-bold mb-8 flex items-center gap-3">
                 <span className="w-2 h-2 rounded-full bg-hermes-400"></span>
-                Education
+                {t('education.title')}
               </h2>
               <Education />
             </section>
@@ -59,7 +61,7 @@ const CVPage: React.FC = () => {
             <section className="mb-12">
               <h2 className="text-2xl font-bold mb-8 flex items-center gap-3">
                 <span className="w-2 h-2 rounded-full bg-hermes-300"></span>
-                Skills
+                {t('skills.title')}
               </h2>
               <Skills />
             </section>
@@ -68,7 +70,7 @@ const CVPage: React.FC = () => {
             <section className="mb-12">
               <h2 className="text-2xl font-bold mb-8 flex items-center gap-3">
                 <span className="w-2 h-2 rounded-full bg-cyan-400"></span>
-                Languages
+                {t('languages.title')}
               </h2>
               <Languages />
             </section>

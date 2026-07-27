@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import { useLanguage } from '../i18n/LanguageContext'
 
 interface ExperienceItem {
   id: string
@@ -11,92 +12,9 @@ interface ExperienceItem {
   technologies?: string[]
 }
 
-const experiences: ExperienceItem[] = [
-  {
-    id: 'denevy',
-    period: '2021 - Present',
-    company: 'Denevy',
-    position: 'Development & Testing Consultant / Product Owner',
-    type: 'Full-time',
-    location: 'Prague, Czech Republic',
-    description: [
-      'Leading automation initiatives for clients including Renomia, Asseco, and Packeta',
-      'Delivering high-quality test automation and data pipeline solutions',
-      'Consulting on process improvements for higher satisfaction and effectiveness',
-      'Implementing CI/CD processes and best practices',
-      'Providing product delivery, automation, test, and data management consulting',
-      'Managing development and testing teams for internal and external projects',
-    ],
-    technologies: ['Test Automation', 'ETL Pipelines', 'CI/CD', 'Product Management', 'Stakeholder Consulting'],
-  },
-  {
-    id: 'asseco',
-    period: 'August 2022 - Present',
-    company: 'Asseco Central Europe',
-    position: 'Automation Specialist',
-    type: 'Contractual',
-    location: 'Remote',
-    description: [
-      'Building comprehensive test automation pipelines for financial products platforms',
-      'Defining and documenting automated test scenarios',
-      'Implementing ETL pipelines and test execution result visualizations',
-      'Leading knowledge transfer workshops on automated testing',
-      'Mentoring team members to ensure high-quality test delivery',
-    ],
-    technologies: ['Financial Platforms', 'Test Automation', 'ETL', 'Data Visualization', 'Workshops'],
-  },
-  {
-    id: 'renomia',
-    period: 'June 2022 - Present',
-    company: 'Renomia',
-    position: 'Automation Lead',
-    type: 'Contractual',
-    location: 'Insurance Domain',
-    description: [
-      'Leading test automation initiatives in the insurance sector',
-      'Analyzing existing processes and defining technical requirements',
-      'Implementing automated test scenarios and execution pipelines',
-      'Creating data visualization dashboards for test results',
-      'Facilitating knowledge sharing through technical workshops',
-      'Guiding team members to deliver high-quality automated solutions',
-    ],
-    technologies: ['Insurance Systems', 'Test Automation', 'Process Analysis', 'Data Visualization', 'Team Leadership'],
-  },
-  {
-    id: 'behavee',
-    period: '2018 - 2021',
-    company: 'Behavee',
-    position: 'Data & Development Consultant / Reporting Specialist',
-    type: 'Self-employed',
-    description: [
-      'Conducting data, process, and technology evaluations to identify critical issues',
-      'Designing research plans and performing comprehensive analysis',
-      'Researching and recommending business case improvements for data utilization',
-      'Assisting development teams with data strategy and model design',
-      'Creating automated data reports and maintaining data integrity',
-      'Implementing new strategies and processes for improved efficiency',
-    ],
-    technologies: ['Data Analysis', 'Process Optimization', 'Reporting', 'Data Strategy', 'Business Consulting'],
-  },
-  {
-    id: 'tmobile',
-    period: '2018 - 2020',
-    company: 'T-Mobile',
-    position: 'Data & Development Consultant',
-    type: 'Contractual',
-    location: 'Prague, Czech Republic',
-    description: [
-      'Participating in large-scale data migration project for T-Mobile Czech Republic',
-      'Providing support during transition period with data preparation and consolidation',
-      'Developing data testing and cleansing tools for migration validation',
-      'Designing solutions for data consolidation from local ERP to international systems',
-      'Leading data delivery team for legal documents, HR, and accounting data',
-    ],
-    technologies: ['Data Migration', 'Data Testing', 'ERP Systems', 'Data Consolidation', 'Team Leadership'],
-  },
-]
-
 const Experience: React.FC = () => {
+  const { translations } = useLanguage()
+  const experiences: ExperienceItem[] = translations.experience.items
   const [expandedId, setExpandedId] = useState<string | null>(null)
 
   return (

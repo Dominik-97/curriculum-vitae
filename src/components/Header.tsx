@@ -1,7 +1,13 @@
 import React from 'react'
+import { useLanguage } from '../i18n/LanguageContext'
 import meImage from '../assets/Me.png'
 
 const Header: React.FC = () => {
+  const { t, language, setLanguage } = useLanguage()
+
+  const handleLanguageChange = (lang: 'en' | 'cs') => {
+    setLanguage(lang)
+  }
   return (
     <div className="relative p-8 sm:p-12 lg:p-16 overflow-hidden">
       {/* Gradient background - different for each theme */}
@@ -18,18 +24,18 @@ const Header: React.FC = () => {
         <div className="max-w-4xl">
           {/* Name with gradient text */}
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-4 bg-hermes-gradient bg-clip-text text-transparent dark:text-slate-800">
-            Dominik Bálint
+            {t('header.name')}
           </h1>
           
           {/* Title with subtle glow */}
           <p className="text-xl sm:text-2xl lg:text-3xl text-white/90 dark:text-slate-700 mb-4">
-            Automation Development Consultant
+            {t('header.title')}
           </p>
           
           {/* Subtitle */}
           <p className="text-lg sm:text-xl text-white/70 dark:text-slate-600 mb-8">
-            Product Management Specialist | Test Automation Expert | 
-            <span className="hermes-gradient-text dark:text-hermes-600 dark:font-medium">Helping Businesses Succeed</span>
+            {t('header.subtitle')}
+            <span className="hermes-gradient-text dark:text-hermes-600 dark:font-medium">{t('header.tagline')}</span>
           </p>
           
           {/* Contact links with modern styling */}
@@ -51,18 +57,28 @@ const Header: React.FC = () => {
               </svg>
               GitHub
             </a>
-            <a 
-              href="#" 
-              className="px-4 py-2 bg-hermes-500/20 dark:bg-hermes-200/80 hover:bg-hermes-500/30 dark:hover:bg-hermes-300/80 rounded-lg text-hermes-400 dark:text-hermes-700 hover:text-hermes-300 dark:hover:text-hermes-800 transition-all duration-300 text-sm font-medium"
+            <button
+              onClick={() => handleLanguageChange('cs')}
+              className={`px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 ${
+                language === 'cs' 
+                  ? 'bg-hermes-500/30 dark:bg-hermes-300 text-hermes-300 dark:text-hermes-800 border border-hermes-500/30 dark:border-hermes-300' 
+                  : 'bg-hermes-500/20 dark:bg-hermes-200/80 hover:bg-hermes-500/30 dark:hover:bg-hermes-300/80 text-hermes-400 dark:text-hermes-700 hover:text-hermes-300 dark:hover:text-hermes-800'
+              }`}
+              aria-label="Switch to Czech"
             >
-              Czech
-            </a>
-            <a 
-              href="#" 
-              className="px-4 py-2 bg-white/20 dark:bg-slate-200/80 hover:bg-white/30 dark:hover:bg-slate-300 rounded-lg text-white/90 dark:text-slate-700 hover:text-white dark:hover:text-slate-800 transition-all duration-300 text-sm font-medium"
+              {t('buttons.czech')}
+            </button>
+            <button
+              onClick={() => handleLanguageChange('en')}
+              className={`px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 ${
+                language === 'en' 
+                  ? 'bg-white/30 dark:bg-slate-300 text-white dark:text-slate-800 border border-white/30 dark:border-slate-300' 
+                  : 'bg-white/20 dark:bg-slate-200/80 hover:bg-white/30 dark:hover:bg-slate-300 text-white/90 dark:text-slate-700 hover:text-white dark:hover:text-slate-800'
+              }`}
+              aria-label="Switch to English"
             >
-              English
-            </a>
+              {t('buttons.english')}
+            </button>
           </div>
         </div>
       </div>

@@ -1,4 +1,5 @@
 import React from 'react'
+import { useLanguage } from '../i18n/LanguageContext'
 
 interface EducationItem {
   id: string
@@ -10,46 +11,9 @@ interface EducationItem {
   status: string
 }
 
-const education: EducationItem[] = [
-  {
-    id: 'cevro-mgr',
-    period: '2020 - Present',
-    institution: 'CEVRO Institut',
-    location: 'Prague, Czech Republic',
-    degree: 'Mgr.',
-    field: 'Corporate Law',
-    status: 'Studying',
-  },
-  {
-    id: 'cevro-bc',
-    period: '2017 - 2020',
-    institution: 'CEVRO Institut',
-    location: 'Prague, Czech Republic',
-    degree: 'Bc.',
-    field: 'Corporate Law',
-    status: 'Completed',
-  },
-  {
-    id: 'mensa',
-    period: '2010 - 2017',
-    institution: 'Mensa Gymnázium',
-    location: 'Prague, Czech Republic',
-    degree: 'High School Diploma',
-    field: 'General Education',
-    status: 'Completed',
-  },
-  {
-    id: 'opengate',
-    period: '2009 - 2010',
-    institution: 'Open Gate Boarding School',
-    location: 'Babice u Říčan, Czech Republic',
-    degree: '',
-    field: 'General Education',
-    status: 'Completed',
-  },
-]
-
 const Education: React.FC = () => {
+  const { translations } = useLanguage()
+  const education: EducationItem[] = translations.education.items
   return (
     <section className="space-y-4">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">

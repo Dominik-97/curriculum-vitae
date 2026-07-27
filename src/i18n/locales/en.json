@@ -1,0 +1,256 @@
+{
+  "language": "English",
+  "header": {
+    "name": "Dominik Bálint",
+    "title": "Backend software engineer",
+    "subtitle": "Project management & architecture & development | ",
+    "tagline": "Helping Businesses Succeed"
+  },
+  "about": {
+    "title": "About Me",
+    "specializedIn": "Specialized In",
+    "description": [
+      "Working as an automation development lead on various in-house and external projects at Denevy, primarily focusing on test automation, process automation, and reporting.",
+      "My goal is to help businesses succeed by driving improvements in both business and technical areas, and providing technical training to share knowledge effectively.",
+      "I am an established professional with over five years of experience in both startup and corporate environments in the IT space, with a proven track record of delivering successful projects throughout their entire lifecycle."
+    ],
+    "specializations": [
+      "Product Management",
+      "BE Development with FE Overreach",
+      "Test & Process Automation",
+      "Data Analysis & Visualization",
+      "Technical Training & Consulting",
+      "CI/CD Pipeline Development"
+    ]
+  },
+  "experience": {
+    "title": "Work Experience",
+    "items": [
+      {
+        "id": "denevy",
+        "period": "2021 - Present",
+        "company": "Denevy",
+        "position": "Development & Testing Consultant / Product Owner",
+        "type": "Full-time",
+        "location": "Prague, Czech Republic",
+        "description": [
+          "Leading automation initiatives for clients including Renomia, Asseco, and Packeta",
+          "Delivering high-quality test automation and data pipeline solutions",
+          "Consulting on process improvements for higher satisfaction and effectiveness",
+          "Implementing CI/CD processes and best practices",
+          "Providing product delivery, automation, test, and data management consulting",
+          "Managing development and testing teams for internal and external projects"
+        ],
+        "technologies": ["Test Automation", "ETL Pipelines", "CI/CD", "Product Management", "Stakeholder Consulting"]
+      },
+      {
+        "id": "asseco",
+        "period": "August 2022 - Present",
+        "company": "Asseco Central Europe",
+        "position": "Automation Specialist",
+        "type": "Contractual",
+        "location": "Remote",
+        "description": [
+          "Building comprehensive test automation pipelines for financial products platforms",
+          "Defining and documenting automated test scenarios",
+          "Implementing ETL pipelines and test execution result visualizations",
+          "Leading knowledge transfer workshops on automated testing",
+          "Mentoring team members to ensure high-quality test delivery"
+        ],
+        "technologies": ["Financial Platforms", "Test Automation", "ETL", "Data Visualization", "Workshops"]
+      },
+      {
+        "id": "renomia",
+        "period": "June 2022 - Present",
+        "company": "Renomia",
+        "position": "Automation Lead",
+        "type": "Contractual",
+        "location": "Insurance Domain",
+        "description": [
+          "Leading test automation initiatives in the insurance sector",
+          "Analyzing existing processes and defining technical requirements",
+          "Implementing automated test scenarios and execution pipelines",
+          "Creating data visualization dashboards for test results",
+          "Facilitating knowledge sharing through technical workshops",
+          "Guiding team members to deliver high-quality automated solutions"
+        ],
+        "technologies": ["Insurance Systems", "Test Automation", "Process Analysis", "Data Visualization", "Team Leadership"]
+      },
+      {
+        "id": "behavee",
+        "period": "2018 - 2021",
+        "company": "Behavee",
+        "position": "Data & Development Consultant / Reporting Specialist",
+        "type": "Self-employed",
+        "location": "",
+        "description": [
+          "Conducting data, process, and technology evaluations to identify critical issues",
+          "Designing research plans and performing comprehensive analysis",
+          "Researching and recommending business case improvements for data utilization",
+          "Assisting development teams with data strategy and model design",
+          "Creating automated data reports and maintaining data integrity",
+          "Implementing new strategies and processes for improved efficiency"
+        ],
+        "technologies": ["Data Analysis", "Process Optimization", "Reporting", "Data Strategy", "Business Consulting"]
+      },
+      {
+        "id": "tmobile",
+        "period": "2018 - 2020",
+        "company": "T-Mobile",
+        "position": "Data & Development Consultant",
+        "type": "Contractual",
+        "location": "Prague, Czech Republic",
+        "description": [
+          "Participating in large-scale data migration project for T-Mobile Czech Republic",
+          "Providing support during transition period with data preparation and consolidation",
+          "Developing data testing and cleansing tools for migration validation",
+          "Designing solutions for data consolidation from local ERP to international systems",
+          "Leading data delivery team for legal documents, HR, and accounting data"
+        ],
+        "technologies": ["Data Migration", "Data Testing", "ERP Systems", "Data Consolidation", "Team Leadership"]
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "items": [
+      {
+        "id": "cevro-mgr",
+        "period": "2020 - Present",
+        "institution": "CEVRO Institut",
+        "location": "Prague, Czech Republic",
+        "degree": "Mgr.",
+        "field": "Corporate Law",
+        "status": "Studying"
+      },
+      {
+        "id": "cevro-bc",
+        "period": "2017 - 2020",
+        "institution": "CEVRO Institut",
+        "location": "Prague, Czech Republic",
+        "degree": "Bc.",
+        "field": "Corporate Law",
+        "status": "Completed"
+      },
+      {
+        "id": "mensa",
+        "period": "2010 - 2017",
+        "institution": "Mensa Gymnázium",
+        "location": "Prague, Czech Republic",
+        "degree": "High School Diploma",
+        "field": "General Education",
+        "status": "Completed"
+      },
+      {
+        "id": "opengate",
+        "period": "2009 - 2010",
+        "institution": "Open Gate Boarding School",
+        "location": "Babice u Říčan, Czech Republic",
+        "degree": "",
+        "field": "General Education",
+        "status": "Completed"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "categories": [
+      {
+        "id": "technical",
+        "title": "Technical Skills",
+        "icon": "code",
+        "items": [
+          "Test Automation",
+          "Process Automation",
+          "ETL Pipelines",
+          "CI/CD",
+          "BE Development",
+          "FE Development",
+          "Data Analysis",
+          "Data Visualization",
+          "Reporting",
+          "Docker",
+          "Python",
+          "JavaScript/TypeScript",
+          "SQL"
+        ]
+      },
+      {
+        "id": "domain",
+        "title": "Domain Knowledge",
+        "icon": "briefcase",
+        "items": [
+          "Telecommunications",
+          "Financial Products",
+          "Insurance",
+          "Banking",
+          "Human Resources",
+          "Corporate Law",
+          "Accounting"
+        ]
+      },
+      {
+        "id": "business",
+        "title": "Business & Management",
+        "icon": "trending",
+        "items": [
+          "Product Management",
+          "Project Management",
+          "Process Management",
+          "Test Management",
+          "Product Lifecycle",
+          "Stakeholder Consulting",
+          "Training & Mentoring",
+          "Team Leadership"
+        ]
+      },
+      {
+        "id": "soft",
+        "title": "Soft Skills",
+        "icon": "heart",
+        "items": [
+          "Problem Solving",
+          "Analytical Thinking",
+          "Communication",
+          "Leadership",
+          "Teamwork",
+          "Mentoring",
+          "Coaching",
+          "Critical Thinking",
+          "Adaptability",
+          "Time Management",
+          "Organization",
+          "Willingness to Learn",
+          "Empathy"
+        ]
+      }
+    ]
+  },
+  "languages": {
+    "title": "Languages"
+  },
+  "somethingMore": {
+    "title": "Something More",
+    "description": "Passionate about bridging the gap between business needs and technical solutions. Continuous learner with a growth mindset."
+  },
+  "interestedIn": {
+    "title": "Interested In",
+    "items": [
+      "Test Automation",
+      "Writing & Documentation",
+      "Big Data & Compliance",
+      "Backend Development",
+      "Product Management",
+      "Consulting & Training",
+      "Agile Practices"
+    ]
+  },
+  "footer": {
+    "lastUpdated": "Last updated: July 2026",
+    "builtWith": "Built with love using React + Vite + TypeScript + Tailwind CSS"
+  },
+  "buttons": {
+    "czech": "Czech",
+    "english": "English"
+  }
+}

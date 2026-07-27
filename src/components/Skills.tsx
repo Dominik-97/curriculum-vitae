@@ -1,4 +1,5 @@
 import React from 'react'
+import { useLanguage } from '../i18n/LanguageContext'
 
 interface SkillCategory {
   id: string
@@ -6,78 +7,6 @@ interface SkillCategory {
   icon: string
   items: string[]
 }
-
-const skills: SkillCategory[] = [
-  {
-    id: 'technical',
-    title: 'Technical Skills',
-    icon: 'code',
-    items: [
-      'Test Automation',
-      'Process Automation',
-      'ETL Pipelines',
-      'CI/CD',
-      'BE Development',
-      'FE Development',
-      'Data Analysis',
-      'Data Visualization',
-      'Reporting',
-      'Docker',
-      'Python',
-      'JavaScript/TypeScript',
-      'SQL',
-    ],
-  },
-  {
-    id: 'domain',
-    title: 'Domain Knowledge',
-    icon: 'briefcase',
-    items: [
-      'Telecommunications',
-      'Financial Products',
-      'Insurance',
-      'Banking',
-      'Human Resources',
-      'Corporate Law',
-      'Accounting',
-    ],
-  },
-  {
-    id: 'business',
-    title: 'Business & Management',
-    icon: 'trending',
-    items: [
-      'Product Management',
-      'Project Management',
-      'Process Management',
-      'Test Management',
-      'Product Lifecycle',
-      'Stakeholder Consulting',
-      'Training & Mentoring',
-      'Team Leadership',
-    ],
-  },
-  {
-    id: 'soft',
-    title: 'Soft Skills',
-    icon: 'heart',
-    items: [
-      'Problem Solving',
-      'Analytical Thinking',
-      'Communication',
-      'Leadership',
-      'Teamwork',
-      'Mentoring',
-      'Coaching',
-      'Critical Thinking',
-      'Adaptability',
-      'Time Management',
-      'Organization',
-      'Willingness to Learn',
-      'Empathy',
-    ],
-  },
-]
 
 const iconMap: Record<string, JSX.Element> = {
   code: (
@@ -103,6 +32,9 @@ const iconMap: Record<string, JSX.Element> = {
 }
 
 const Skills: React.FC = () => {
+  const { translations } = useLanguage()
+  const skills: SkillCategory[] = translations.skills.categories
+
   return (
     <section className="space-y-8">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">

@@ -1,15 +1,17 @@
 import React from 'react'
+import { useLanguage } from '../i18n/LanguageContext'
 
 const Footer: React.FC = () => {
+  const { t } = useLanguage()
   return (
     <footer className="mt-16 pt-8 border-t border-white/10 dark:border-slate-200">
       <div className="flex flex-col sm:flex-row items-center justify-between gap-6">
         <div className="text-center sm:text-left">
           <p className="text-white/60 dark:text-slate-600 text-sm">
-            Last updated: July 2026
+            {t('footer.lastUpdated')}
           </p>
           <p className="text-white/40 dark:text-slate-500 text-xs">
-            Built with ❤️ using React + Vite + TypeScript + Tailwind CSS
+            {t('footer.builtWith')}
           </p>
         </div>
         

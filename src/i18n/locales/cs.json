@@ -1,0 +1,256 @@
+{
+  "language": "Čeština",
+  "header": {
+    "name": "Dominik Bálint",
+    "title": "Backend software engineer",
+    "subtitle": "Project management & architecture & development | ",
+    "tagline": "Pomáhám firmám uspět"
+  },
+  "about": {
+    "title": "O mne",
+    "specializedIn": "Specializace",
+    "description": [
+      "Pracuji jako vedouci vyvoje automatizace na ruznych internich a externich projektech ve firmé Denevy, s hlavnim zamerenim na automatizaci testu, automatizaci procesu a reporty.",
+      "Mojim cil je pomahat firmam uspet tim, ze zlepsuji procesy v oblastech businessu i technologií a poskytujem technicke skolení pro efektivni sdílení vedomostí.",
+      "Jsem zkuseny profesional s vice nez peti lety praxe v IT prostredi, a to jak ve startupovém, tak korporátním prostredi, s prokázanými uspechy v dodávaní úspešných projektů po celou jejich životnost."
+    ],
+    "specializations": [
+      "Produktovy management",
+      "BE Vyvoj s FE prerustenim",
+      "Automatizace testu a procesu",
+      "Analyza dat a vizualizace",
+      "Technicke skolení a konzultace",
+      "Vyvoj CI/CD pipeline"
+    ]
+  },
+  "experience": {
+    "title": "Pracovní zkusenosti",
+    "items": [
+      {
+        "id": "denevy",
+        "period": "2021 - Soucasnost",
+        "company": "Denevy",
+        "position": "Konzultant pro vyvoj a testování / Product Owner",
+        "type": "Hlavní pracovní pomér",
+        "location": "Praha, Ceska republika",
+        "description": [
+          "Vedení automatizačních iniciativ pro klienty jako Renomia, Asseco a Packeta",
+          "Dodávání vysoce kvalitních resení pro automatizaci testu a datové pipeline",
+          "Konzultace ohledne zlepšení procesu pro vyšší spokojenost a efektivitu",
+          "Implementace CI/CD procesu a osvedcených postupu",
+          "Poskytování konzultací v oblasti dodávaní produktu, automatizace, testování a správa dat",
+          "Rízení vyvojových a testovacích týmu pro interní i externí projekty"
+        ],
+        "technologies": ["Automatizace testu", "ETL Pipeline", "CI/CD", "Produktovy management", "Konzultace se stakeholdery"]
+      },
+      {
+        "id": "asseco",
+        "period": "Srpen 2022 - Soucasnost",
+        "company": "Asseco Central Europe",
+        "position": "Specialista na automatizaci",
+        "type": "Kontrakt",
+        "location": "Vzdálené",
+        "description": [
+          "Budování komplexních pipeline pro automatizaci testu financních produktových platform",
+          "Definování a dokumentování automatizovaných testovacích scenáru",
+          "Implementace ETL pipeline a vizualizace vysledku testu",
+          "Vedení workshopu pro prenásení vedomostí o automatizovaném testování",
+          "Mentoring clenu týmu pro zajištění vysoce kvalitního dodání testu"
+        ],
+        "technologies": ["Financní platformy", "Automatizace testu", "ETL", "Vizualizace dat", "Workshopy"]
+      },
+      {
+        "id": "renomia",
+        "period": "Cerven 2022 - Soucasnost",
+        "company": "Renomia",
+        "position": "Vedouci automatizace",
+        "type": "Kontrakt",
+        "location": "Pojistovnictví",
+        "description": [
+          "Vedení iniciativ pro automatizaci testu v pojistovnickém odvetví",
+          "Analýza existujících procesu a definování technických požadavku",
+          "Implementace automatizovaných testovacích scenáru a execucních pipeline",
+          "Vytváření dashboardu pro vizualizaci vysledku testu",
+          "Usnadnování sdílení vedomostí prostřednictvím technických workshopu",
+          "Vedení clenu týmu k dodávání vysoce kvalitních automatizovaných resení"
+        ],
+        "technologies": ["Pojistovnické systémy", "Automatizace testu", "Analýza procesu", "Vizualizace dat", "Vedení týmu"]
+      },
+      {
+        "id": "behavee",
+        "period": "2018 - 2021",
+        "company": "Behavee",
+        "position": "Konzultant pro data a vyvoj / Specialista na reporty",
+        "type": "OSVC",
+        "location": "",
+        "description": [
+          "Provádění evaluačních analýz dat, procesu a technologií za úcelem identifikace kritických problému",
+          "Návrh výzkumných plánu a provádění komplexních analýz",
+          "Výzkum a doporucení zlepšení podnikových prípadu pro využití dat",
+          "Pomoc vyvojovým týmu s datovou strategií a návrhem modelu",
+          "Vytváření automatizovaných datových reportu a udržování integrity dat",
+          "Implementace nových strategií a procesu pro zlepšení efektivity"
+        ],
+        "technologies": ["Analýza dat", "Optimalizace procesu", "Reporting", "Datová strategie", "Business konzultace"]
+      },
+      {
+        "id": "tmobile",
+        "period": "2018 - 2020",
+        "company": "T-Mobile",
+        "position": "Konzultant pro data a vyvoj",
+        "type": "Kontrakt",
+        "location": "Praha, Ceska republika",
+        "description": [
+          "Úcast na velkém projektu migrace dat pro T-Mobile Ceska republika",
+          "Poskytování podpory během prechodového období s prípravou a konsolidací dat",
+          "Vyvíjení nástroju pro testování a cistení dat pro validaci migrace",
+          "Návrh resení pro konsolidaci dat z místního ERP do mezinarodních systému",
+          "Vedení týmu pro dodávání dat pro právní dokumenty, lidské zdroje a úcetní data"
+        ],
+        "technologies": ["Migrace dat", "Testování dat", "ERP systémy", "Konsolidace dat", "Vedení týmu"]
+      }
+    ]
+  },
+  "education": {
+    "title": "Vzdelani",
+    "items": [
+      {
+        "id": "cevro-mgr",
+        "period": "2020 - Soucasnost",
+        "institution": "CEVRO Institut",
+        "location": "Praha, Ceska republika",
+        "degree": "Mgr.",
+        "field": "Obchodní právo",
+        "status": "Studuje"
+      },
+      {
+        "id": "cevro-bc",
+        "period": "2017 - 2020",
+        "institution": "CEVRO Institut",
+        "location": "Praha, Ceska republika",
+        "degree": "Bc.",
+        "field": "Obchodní právo",
+        "status": "Dokonceno"
+      },
+      {
+        "id": "mensa",
+        "period": "2010 - 2017",
+        "institution": "Mensa Gymnázium",
+        "location": "Praha, Ceska republika",
+        "degree": "Vysvedceni o maturitní zkousce",
+        "field": "Vseobecné vzdelani",
+        "status": "Dokonceno"
+      },
+      {
+        "id": "opengate",
+        "period": "2009 - 2010",
+        "institution": "Open Gate Boarding School",
+        "location": "Babice u Rican, Ceska republika",
+        "degree": "",
+        "field": "Vseobecné vzdelani",
+        "status": "Dokonceno"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Dovednosti",
+    "categories": [
+      {
+        "id": "technical",
+        "title": "Technické dovednosti",
+        "icon": "code",
+        "items": [
+          "Automatizace testu",
+          "Automatizace procesu",
+          "ETL Pipeline",
+          "CI/CD",
+          "BE Vyvoj",
+          "FE Vyvoj",
+          "Analýza dat",
+          "Vizualizace dat",
+          "Reporting",
+          "Docker",
+          "Python",
+          "JavaScript/TypeScript",
+          "SQL"
+        ]
+      },
+      {
+        "id": "domain",
+        "title": "Oborové znalosti",
+        "icon": "briefcase",
+        "items": [
+          "Telekomunikace",
+          "Financní produkty",
+          "Pojisteni",
+          "Bankovnictví",
+          "Lidské zdroje",
+          "Obchodní právo",
+          "Úcetnictví"
+        ]
+      },
+      {
+        "id": "business",
+        "title": "Business a management",
+        "icon": "trending",
+        "items": [
+          "Produktovy management",
+          "Project management",
+          "Procesní management",
+          "Test management",
+          "Zivotní cyklus produktu",
+          "Konzultace se stakeholdery",
+          "Skolení a mentoring",
+          "Vedení týmu"
+        ]
+      },
+      {
+        "id": "soft",
+        "title": "Mekké dovednosti",
+        "icon": "heart",
+        "items": [
+          "Resení problému",
+          "Analytické myšlení",
+          "Komunikace",
+          "Vedení",
+          "Týmová práce",
+          "Mentoring",
+          "Koucování",
+          "Kritické myšlení",
+          "Adaptabilita",
+          "Casový management",
+          "Organizace",
+          "Ochota učit se",
+          "Empatie"
+        ]
+      }
+    ]
+  },
+  "languages": {
+    "title": "Jazyky"
+  },
+  "somethingMore": {
+    "title": "Neco vice",
+    "description": "Vasnivy o prelenovani propasti mezi business potrebami a technickymi resenimi. Celozivotní student s růstovým myšlením."
+  },
+  "interestedIn": {
+    "title": "Zajima me",
+    "items": [
+      "Automatizace testu",
+      "Psaní a dokumentace",
+      "Big Data a compliance",
+      "Backend vyvoj",
+      "Produktovy management",
+      "Konzultace a skolení",
+      "Agilní postupy"
+    ]
+  },
+  "footer": {
+    "lastUpdated": "Naposledy aktualizováno: Cervenec 2026",
+    "builtWith": "Vytvoreno s láskou pomocí React + Vite + TypeScript + Tailwind CSS"
+  },
+  "buttons": {
+    "czech": "Cestina",
+    "english": "English"
+  }
+}
