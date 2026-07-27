@@ -302,3 +302,5 @@ tex-source/personal/*
 # Ignore Jekyll documents
 _site/
 Gemfile.lock
+
+node_modules
