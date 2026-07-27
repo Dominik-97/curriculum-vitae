@@ -1,0 +1,274 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+#currently, #aktuálně {
+  margin-top: 200px;
+}
+
+.fixed{
+  overflow: hidden;
+  position: sticky; /* Set the navbar to fixed position */
+  background:white;
+  z-index: 99;
+  opacity: 1;
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  min-width: 700px;
+  min-height: 160px;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+	min-width: 700px;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* end of reset */
+
+
+
+body {
+	font: normal normal 400;
+	font-size: 80%;
+	line-height: 1.5em;
+	/*also written as...  font: normal normal 400 100%/1.5em;*/
+	font-family: Verdana,sans-serif;
+	margin-top: 1em;
+	margin-left: 1em;
+}
+
+p {
+	position: relative;
+	left: 33%;
+	margin-bottom: 0.7em;
+	margin-right: 0;
+	width: 65%;
+}
+
+code {
+	font: normal normal;
+	font-size: 60%;
+	/*line-height: 1em;*/
+	font-family: Menlo,monospace,sans-serif;
+	color: #aaa;
+}
+
+p code {
+	position: absolute;
+	left: -14%;
+}
+
+
+ul { 
+	position: relative;
+	left: 33%;
+	width: 65%;
+	margin-bottom: 1.5em;
+	margin-top: -0.5em;
+}
+
+/*uncomment to get dashes in the list*/
+/*li:before {
+	content: "-";
+	position: relative;
+	left: -0.25em;
+}*/
+
+li {
+	/*second line indent*/
+	padding-left: 1.25em;
+	text-indent: -1.25em;
+	/*color: #777;*/
+}
+
+li ul {
+	position: relative;
+	left: 0;
+	width: 100%;
+	margin-top: 0.25em;
+}
+
+h1,h2,h3,h4 {
+	font-weight: 400;
+	font-family: Cousine,Verdana,sans-serif;
+	width: 65%;
+}
+
+h1 {
+	text-align: left;
+	font-size: 3em;
+	line-height: 1em;
+	position: relative;
+	left: 33%;
+}
+
+h1+p { 
+	/*subtitle*/
+	font-style: italic;
+	font-size: 110%;
+}
+
+h2 {
+	font-size: 1.1em;
+	color: #a00;
+	margin-top: 3em;
+	position: relative;
+	top: 1.4em;
+	text-align: right;
+	width: 20%;
+}
+
+h3 {
+	font-size: 1em;
+	line-height: 2em; 
+	position: relative;
+	top: 1.7em;
+	text-align: right;
+	width: 20%;
+}
+
+a {
+	color: inherit;
+	/*text-decoration:none*/
+}
+
+a:hover {
+	color:#39f
+}
+
+#webaddress {
+	margin-top: 1em;
+	position: relative;
+	left: 33%;
+	color: #aaa;
+	font-family: Menlo,monospace,sans-serif;
+	font-size: 80%;
+}
+
+#webaddress a {
+	text-decoration: none;
+}
+
+em {
+	font-weight: bold;
+	font-style: italic;
+}
+
+strong {
+	font-weight: bold;
+}
+
+#address {
+	display: none;
+}
+
+
+
+/*
+@media only screen and (max-width: 480px) {
+	make one column somehow...
+}*/
+
+@media only screen and (max-width: 1400px) {
+  .topcorner{
+    position:absolute;
+    top: 10px;
+    left: 10px;
+    width: 200px;
+  }
+}
+
+.topcorner{
+    position:absolute;
+    top:5px;
+    right: 10px;
+    width: 200px;
+ }
+
+.picture-borders {
+  flex-shrink: 0;
+  height: 170px;
+  width: 170px;
+  border: 3px solid transparent;
+  background-origin: border-box;
+  background-clip: content-box, border-box;
+  background-size: cover;
+  box-sizing: border-box;
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.picture-itself {
+  border-radius: 50%;
+  background-image: url("https://dominik-97.github.io/curriculum-vitae/assets/Me.png"), linear-gradient(to bottom right, #ff3cac, #562b7c, #2b86c5);
+  background-repeat:no-repeat;
+  background-position: 42% center;
+}
+
+a[data-tool-tip] {
+  position: relative;	
+}
+
+a[data-tool-tip]::after {
+  content: attr(data-tool-tip);
+  display: block;
+  position: absolute;
+  background-color: grey;
+  padding: 1em 3em;
+  color: white;
+  border-radius: 5px;
+  font-size: 0.80em;
+  bottom: 0;
+  left: -400%;
+  white-space: nowrap;
+  transform: scale(0);
+  transition: 
+	  transform ease-out 150ms,
+	  bottom ease-out 150ms;
+}
+
+a[data-tool-tip]:hover::after {
+  transform: scale(1);
+  bottom: 100%;
+}
