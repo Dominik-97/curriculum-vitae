@@ -51,8 +51,7 @@ const ThemeToggle: React.FC = () => {
       </div>
       
       <div 
-        className={`absolute w-5 h-5 bg-white dark:bg-slate-800 rounded-full transition-all duration-500 shadow-md ${theme === 'dark' ? 'translate-x-7' : 'translate-x-1'}`}
-        style={{ top: '1px', left: '1px' }}
+        className={`absolute w-5 h-5 bg-white dark:bg-slate-800 rounded-full transition-all duration-500 shadow-md left-1 top-0.6 ${theme === 'dark' ? 'translate-x-7' : 'translate-x-0'}`}
       ></div>
     </button>
   )

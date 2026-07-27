@@ -1,9 +1,50 @@
 import React from 'react'
+import { flushSync } from 'react-dom'
 
-const PrintButton: React.FC = () => {
+interface PrintButtonProps {
+  onBeforePrint?: () => void
+  onAfterPrint?: () => void
+}
+
+const PrintButton: React.FC<PrintButtonProps> = ({ onBeforePrint, onAfterPrint }) => {
   const handlePrint = () => {
-    window.print()
+    if (onBeforePrint) {
+      // Use flushSync to ensure state update is applied to DOM immediately
+      flushSync(() => {
+        onBeforePrint()
+      })
+      window.print()
+    } else {
+      window.print()
+    }
   }
+
+  React.useEffect(() => {
+    const handleAfterPrint = () => {
+      if (onAfterPrint) {
+        onAfterPrint()
+      }
+    }
+    
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if ((e.ctrlKey || e.metaKey) && e.key === 'p') {
+        if (onBeforePrint) {
+          e.preventDefault()
+          flushSync(() => {
+            onBeforePrint()
+          })
+          window.print()
+        }
+      }
+    }
+    
+    window.addEventListener('keydown', handleKeyDown)
+    window.addEventListener('afterprint', handleAfterPrint)
+    return () => {
+      window.removeEventListener('keydown', handleKeyDown)
+      window.removeEventListener('afterprint', handleAfterPrint)
+    }
+  }, [onBeforePrint, onAfterPrint])
 
   return (
     <button

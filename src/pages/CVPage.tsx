@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { useLanguage } from '../i18n/LanguageContext.ts'
 import Header from '../components/Header'
 import About from '../components/About'
@@ -15,10 +15,20 @@ import PDFDownload from '../components/PDFDownload'
 
 const CVPage: React.FC = () => {
   const { t } = useLanguage()
+  const [isPrinting, setIsPrinting] = useState<boolean>(false)
+  
+  const handleBeforePrint = () => {
+    setIsPrinting(true)
+  }
+  
+  const handleAfterPrint = () => {
+    setIsPrinting(false)
+  }
+  
   return (
     <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <ThemeToggle />
-      <PrintButton />
+      <PrintButton onBeforePrint={handleBeforePrint} onAfterPrint={handleAfterPrint} />
       
       <div className="relative">
         <div className="absolute inset-0 bg-hermes-gradient rounded-3xl opacity-10 blur-3xl"></div>
@@ -41,7 +51,7 @@ const CVPage: React.FC = () => {
                 <span className="w-2 h-2 rounded-full bg-hermes-500"></span>
                 {t('experience.title')}
               </h2>
-              <Experience />
+              <Experience forceExpandAll={isPrinting} />
             </section>
             
             {/* Education Section */}

@@ -12,7 +12,11 @@ interface ExperienceItem {
   remarks?: string[]
 }
 
-const Experience: React.FC = () => {
+interface ExperienceProps {
+  forceExpandAll?: boolean
+}
+
+const Experience: React.FC<ExperienceProps> = ({ forceExpandAll = false }) => {
   const { translations } = useLanguage()
   const experiences: ExperienceItem[] = translations.experience.items
   const [expandedId, setExpandedId] = useState<string | null>(null)
@@ -56,7 +60,7 @@ const Experience: React.FC = () => {
               </div>
             </button>
             
-            {expandedId === exp.id && (
+            {(expandedId === exp.id || forceExpandAll) && (
               <div className="p-5 pt-4 animate-fade-in">
                 {exp.remarks && exp.remarks.length > 0 && (
                   <div className="flex flex-wrap gap-2 mb-4">
