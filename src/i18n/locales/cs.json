@@ -1,0 +1,315 @@
+{
+  "language": "Čeština",
+  "header": {
+    "name": "Dominik Bálint",
+    "title": "Backend software engineer",
+    "subtitle": "Project management & architecture & development | ",
+    "tagline": "Pomáhám firmám uspět"
+  },
+  "about": {
+    "title": "O mně",
+    "specializedIn": "Specializace",
+    "description": [
+      "Pracuji jako Senior Software Developer v Powertica Commodities AG.",
+      "V rámci malého týmu pokrývám kompletní IT agendu oddělení — od frontendového a backendového vývoje přes datové pipeline (Airflow, Fabric, Databricks), správu databází, migrace až po návrh architektury. Součástí mé práce je také reporting, testování a tvorba technické dokumentace.",
+      "Aktivně integruji AI do firemních procesů — od implementace MCP serverů a fine-tuningu modelů až po automatizaci pracovních toků s využitím moderních nástrojů. Starám se také o DevOps a deployment prostřednictvím GitLabu a Dockeru.",
+      "Mým cílem je navrhovat robustní a udržitelná řešení, která pomáhají byznysu fungovat efektivně."
+    ],
+    "specializations": [
+      "Projektový management",
+      "Architektura",
+      "BE a FE vývoj",
+      "Automatizace testů a procesů",
+      "Analýza dat a jejich vizualizace",
+      "Technické školení a konzultace",
+      "CI/CD"
+    ]
+  },
+  "experience": {
+    "title": "Pracovní zkušenosti",
+    "items": [
+      {
+        "id": "powertica",
+        "period": "2023 - Současnost",
+        "company": "Powertica Commodities AG",
+        "position": "Senior Software Developer",
+        "type": "Hlavní pracovní poměr",
+        "location": "Praha, Česká republika",
+        "description": [
+          "Kompletní pokrytí IT agendy Risk departmentu v rámci malého vývojářského týmu.",
+          "Vývoj a správa frontendových a backendových aplikací.",
+          "Návrh a implementace datových pipeline (Airflow, Fabric, Databricks) a správa persistentní vrstvy (databáze, migrace).",
+          "Reporting, testování a tvorba technické dokumentace.",
+          "Návrh systémové architektury a zajištění DevOps & deploymentu prostřednictvím GitLabu a Dockeru a frontier Cloud porviderů.",
+          "Integrace AI nástrojů do firemních procesů (MCP servery, agentic workflows)."
+        ],
+        "remarks": ["Finanční trhy", "Risk management", "Operations"]
+      },
+      {
+        "id": "denevy",
+        "period": "2021 - 2023",
+        "company": "Denevy",
+        "position": "Development a Testing konzultant/Product owner",
+        "type": "Hlavní pracovní poměr",
+        "location": "Praha, Česká republika",
+        "description": [
+          "Realizace implementace relevantních změn a funkcí projektu Juno.one.",
+          "Konzultace se stakeholdery, shromažďování zpětné vazby a sledování trhu s cílem vytvořit realizovatelné kroky pro iterativní vývoj interního nástroje.",
+          "Řízení vývojových a testovacích týmů.",
+          "Přímá účast na vývoji, automatizaci testování a správě dat.",
+          "Správa dokumentace.",
+          "Správa produktové roadmapy.",
+          "Práce na různorodých interních i externích projektech pro společnosti jako Renomia, Asseco a Packeta týkajících se (automatizace testů a datových pipelines, CI/CD).",
+          "Konzultace v oblasti dodávek produktů, automatizace, testování a správy dat.",
+          "Řízení zlepšování procesů automatizace, automatizace testování, developmentu a datových pipeline a vizualizací.",
+          "Přímá účast na vývoji BE a FE.",
+          "Analýza slabých míst, návrh řešení na míru a následná implementace.",
+          "Tvorba vysoce kvalitní technické a businessové dokumentace, účast na definici efektivních onboarding procesů pro QA.",
+          "Vedení a školení testovacích a vývojových týmů.",
+          "Zavádění nových strategií a procesů pro zvýšení efektivity a zefektivnění vývoje."
+        ],
+        "remarks": ["Automatizace testů", "ETL Pipelines", "CI/CD", "Produktový management", "Konzultace se stakeholdery"]
+      },
+      {
+        "id": "asseco",
+        "period": "2022 - 2023",
+        "company": "Asseco Central Europe",
+        "position": "Automation Specialist",
+        "type": "Kontrakt",
+        "location": "Remote",
+        "description": [
+          "Vytváření test automation pipeline pro platformy pro zprostředkování finančních produktů.",
+          "Definování automatizovaných testovacích scénářů.",
+          "Implementace automatizovaných testovacích scénářů, ETL pipeline a vizualizace výsledků exekucí testů.",
+          "Vedení workshopů zaměřených na předávání znalostí týkajících se automatizovaných testů.",
+          "Vedení a pomoc ostatním členům týmu při dodávkách automatizovaných testů."
+        ],
+        "remarks": ["Finanční platformy", "Automatizace testů", "ETL", "Vizualizace dat", "Workshopy"]
+      },
+      {
+        "id": "renomia",
+        "period": "2022 - 2023",
+        "company": "Renomia",
+        "position": "Automation Lead",
+        "type": "Kontrakt",
+        "location": "Remote",
+        "description": [
+          "Práce na projektu automatizace testování v oblasti pojišťovnictví.",
+          "Analýza procesů automatizace testů a definování technických požadavků.",
+          "Implementace automatizovaných testovacích scénářů, ETL pipeline a vizualizace výsledků provádění testů.",
+          "Vedení workshopů zaměřených na předávání znalostí týkajících se automatizovaných testů.",
+          "Vedení a pomoc ostatním členům týmu při dodávkách automatizovaných testů."
+        ],
+        "remarks": ["Pojištovnické systémy", "Automatizace testů", "Analýza procesů", "Vizualizace dat", "Vedení týmu"]
+      },
+      {
+        "id": "behavee",
+        "period": "2018 - 2021",
+        "company": "Behavee",
+        "position": "Data & Development consultant, Reporting Specialista",
+        "type": "Kontrakt",
+        "location": "Praha, Česká republika",
+        "description": [
+          "Zkoumání dat, procesů a technologií za účelem vyhodnocení současného stavu a odhalení kritických problémů. Design, výzkumné plány a analýzy.",
+          "Výzkum a vydávání doporučení ohledně business casů týkajících se využití a správy dat.",
+          "Podpora development týmu při vytváření a implementaci datových strate- gií, navrhování a budování datových toků a vývoji datových modelů.",
+          "Vytváření automatizovaných reportů a dokumentace.",
+          "Kontrola integrity dat a správa databází.",
+          "Zavádění nových efektivních strategií a procesů."
+        ],
+        "remarks": ["Analýza dat", "Optimalizace procesů", "Reporting", "Datová strategie", "Business konzultace"]
+      },
+      {
+        "id": "tmobile",
+        "period": "2018 - 2020",
+        "company": "T-Mobile",
+        "position": "Data & Development consultant",
+        "type": "Kontrakt",
+        "location": "Praha, Česká republika",
+        "description": [
+          "Účast na projektu T-Mobile Czech Republic - Migrace dat, testing, reporting.",
+          "Podpora migračních aktivit při přechodném období, příprava a konsolidace dat, data testing, reporting, handover připravených dat.",
+          "Data testing, data cleansing a migration tools development.",
+          "Design řešení pro konsolidaci a migraci dat z lokálních ERP systémů do mezinárodního řešení, design a reviewing přechodných a to-be procesů.",
+          "Zodpovědnost za přípravu dat v oblasti legal documents, plant maintenance, human resources a asset accounting.",
+          "Vedení týmu - data delivery."
+        ],
+        "remarks": ["Migrace dat", "Testování dat", "ERP systémy", "Konsolidace dat", "Vedení týmu"]
+      }
+    ]
+  },
+  "education": {
+    "title": "Vzdělání",
+    "items": [
+      {
+        "id": "cevro-mgr",
+        "period": "2020 - 2023",
+        "institution": "CEVRO Institut",
+        "location": "Praha, Česká republika",
+        "degree": "Mgr.",
+        "field": "obchodním právu",
+        "status": "Nedokončeno"
+      },
+      {
+        "id": "cevro-bc",
+        "period": "2017 - 2020",
+        "institution": "CEVRO Institut",
+        "location": "Praha, Česká republika",
+        "degree": "Bc.",
+        "field": "obchodním právu",
+        "status": "Dokončeno"
+      },
+      {
+        "id": "mensa",
+        "period": "2010 - 2017",
+        "institution": "Mensa Gymnázium",
+        "location": "Praha, Česká republika",
+        "degree": "Maturita",
+        "field": "",
+        "status": "Dokončeno"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Dovednosti",
+    "categories": [
+      {
+        "id": "backend",
+        "title": "Backend vývoj",
+        "icon": "code",
+        "items": [
+          "Python (FastAPI)",
+          "Asynchronní zpracování (asyncio, Celery, message queues)",
+          "Go",
+          "TypeScript (Express)",
+          "Testování (unit, integrační, e2e)",
+          "Zpracování dat"
+        ]
+      },
+      {
+        "id": "frontend",
+        "title": "Frontend vývoj",
+        "icon": "code",
+        "items": [
+          "React (SPA, interaktivita)",
+          "HTMX",
+          "Server side rendering"
+        ]
+      },
+      {
+        "id": "architecture",
+        "title": "Architektura a integrace",
+        "icon": "server",
+        "items": [
+          "Návrh aplikací",
+          "Databázová architektura",
+          "Storage architektura",
+          "Background processing architektura",
+          "Autorizace/Autentizace",
+          "Integrace služeb"
+        ]
+      },
+      {
+        "id": "devops",
+        "title": "DevOps",
+        "icon": "terminal",
+        "items": [
+          "VPS management",
+          "GitLab CI/CD",
+          "Git",
+          "Docker",
+          "Cloud (Azure)",
+          "Monitorování služeb (uptime, logs, traces, metrics, notifications)",
+          "Dashboardy",
+          "Shell skriptování"
+        ]
+      },
+      {
+        "id": "ai",
+        "title": "AI a automatizace",
+        "icon": "bot",
+        "items": [
+          "Etické využití AI",
+          "Agentic development",
+          "MCP development"
+        ]
+      },
+      {
+        "id": "project-management",
+        "title": "Projektový management",
+        "icon": "trending",
+        "items": [
+          "Řízení projektů",
+          "Komunikace se stakeholdery",
+          "Vedení lidí",
+          "Delegování úkolů"
+        ]
+      },
+      {
+        "id": "domain",
+        "title": "Oborové znalosti",
+        "icon": "briefcase",
+        "items": [
+          "Finanční trhy",
+          "Risk management",
+          "Pojišťovnictví",
+          "Bankovnictví"
+        ]
+      },
+      {
+        "id": "soft",
+        "title": "Měkké dovednosti",
+        "icon": "heart",
+        "items": [
+          "Analytické myšlení",
+          "Řešení problémů",
+          "Komunikace",
+          "Týmová práce",
+          "Mentoring",
+          "Adaptabilita"
+        ]
+      }
+    ]
+  },
+  "languages": {
+    "title": "Jazyky",
+    "names": {
+      "cz": "Čeština",
+      "en": "Angličtina",
+      "it": "Italština"
+    },
+    "proficiencies": {
+      "native": "Rodilý mluvčí",
+      "full_professional": "Plná profesní úroveň",
+      "professional": "Profesní úroveň",
+      "limited": "Omezená pracovní úroveň",
+      "elementary": "Základní",
+      "learning": "Učím se"
+    }
+  },
+  "somethingMore": {
+    "title": "Něco více",
+    "description": "Mým hlavním zaměřením je propojení světa businessu s technickými řešeními. Usiluji o vytváření čitelných a udržovatelných řešení, která usnadní spolupráci dalším vývojářům a zároveň splňují nároky reálných business požadavků. A když zrovna nedělám to, tak se věnuji sebevzdělávání v oblasti AI, učení se italsky, hře na kytaru a cestování."
+  },
+  "interestedIn": {
+    "title": "Zajima me",
+    "items": [
+      "Architektura",
+      "Automatizace",
+      "Dokumentace",
+      "Big Data a compliance",
+      "Fullstack vývoj",
+      "Produktový management",
+      "Konzultace a školení",
+      "Agilní postupy"
+    ]
+  },
+  "footer": {
+    "lastUpdated": "Naposledy aktualizováno: Červenec 2026",
+    "builtWith": "Vytvořeno s láskou pomocí React + Vite + TypeScript + Tailwind CSS"
+  },
+  "buttons": {
+    "czech": "Čeština",
+    "english": "English"
+  }
+}

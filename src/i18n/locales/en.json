@@ -1,0 +1,315 @@
+{
+  "language": "English",
+  "header": {
+    "name": "Dominik Bálint",
+    "title": "Backend software engineer",
+    "subtitle": "Project management & architecture & development | ",
+    "tagline": "Helping Businesses Succeed"
+  },
+  "about": {
+    "title": "About Me",
+    "specializedIn": "Specializations",
+    "description": [
+      "Working as a Senior Software Developer at Powertica Commodities AG.",
+      "Within a small team, I cover the complete IT agenda of the Risk department — from frontend and backend development to data pipelines (Airflow, Fabric, Databricks), database management, migrations, and architecture design. My work also includes reporting, testing, and creating technical documentation.",
+      "I actively integrate AI into company processes — from implementing MCP servers and fine-tuning models to automating workflows using modern tools. I also handle DevOps and deployment via GitLab and Docker.",
+      "My goal is to design robust and sustainable solutions that help businesses operate efficiently."
+    ],
+    "specializations": [
+      "Project Management",
+      "Architecture",
+      "BE and FE Development",
+      "Test & Process Automation",
+      "Data Analysis & Visualization",
+      "Technical Training & Consulting",
+      "CI/CD"
+    ]
+  },
+  "experience": {
+    "title": "Work Experience",
+    "items": [
+      {
+        "id": "powertica",
+        "period": "2023 - Present",
+        "company": "Powertica Commodities AG",
+        "position": "Senior Software Developer",
+        "type": "Full-time",
+        "location": "Prague, Czech Republic",
+        "description": [
+          "Complete coverage of IT agenda for the Risk department within a small development team.",
+          "Development and management of frontend and backend applications.",
+          "Design and implementation of data pipelines (Airflow, Fabric, Databricks) and management of persistent layer (databases, migrations).",
+          "Reporting, testing, and creation of technical documentation.",
+          "System architecture design and ensuring DevOps & deployment through GitLab, Docker, and frontier Cloud providers.",
+          "Integration of AI tools into company processes (MCP servers, agentic workflows)."
+        ],
+        "remarks": ["Financial Markets", "Risk Management", "Operations"]
+      },
+      {
+        "id": "denevy",
+        "period": "2021 - 2023",
+        "company": "Denevy",
+        "position": "Development & Testing Consultant / Product Owner",
+        "type": "Full-time",
+        "location": "Prague, Czech Republic",
+        "description": [
+          "Implementation of relevant changes and features for the Juno.one project.",
+          "Consulting with stakeholders, gathering feedback, and market monitoring to create feasible steps for iterative development of internal tools.",
+          "Management of development and testing teams.",
+          "Direct involvement in development, test automation, and data management.",
+          "Documentation management.",
+          "Product roadmap management.",
+          "Work on various internal and external projects for companies such as Renomia, Asseco, and Packeta related to (test automation and data pipelines, CI/CD).",
+          "Consulting in product delivery, automation, testing, and data management.",
+          "Managing improvements in automation processes, test automation, development, data pipelines, and visualizations.",
+          "Direct involvement in BE and FE development.",
+          "Analysis of weaknesses, tailored solution design, and subsequent implementation.",
+          "Creating high-quality technical and business documentation, participating in defining effective onboarding processes for QA.",
+          "Leading and training testing and development teams.",
+          "Implementing new strategies and processes to increase efficiency and streamline development."
+        ],
+        "remarks": ["Test Automation", "ETL Pipelines", "CI/CD", "Product Management", "Stakeholder Consulting"]
+      },
+      {
+        "id": "asseco",
+        "period": "2022 - 2023",
+        "company": "Asseco Central Europe",
+        "position": "Automation Specialist",
+        "type": "Contract",
+        "location": "Remote",
+        "description": [
+          "Creating test automation pipelines for financial products platforms.",
+          "Defining automated test scenarios.",
+          "Implementation of automated test scenarios, ETL pipelines, and visualization of test execution results.",
+          "Leading workshops focused on knowledge transfer related to automated testing.",
+          "Leading and assisting other team members in delivering automated tests."
+        ],
+        "remarks": ["Financial Platforms", "Test Automation", "ETL", "Data Visualization", "Workshops"]
+      },
+      {
+        "id": "renomia",
+        "period": "2022 - 2023",
+        "company": "Renomia",
+        "position": "Automation Lead",
+        "type": "Contract",
+        "location": "Remote",
+        "description": [
+          "Work on test automation project in the insurance sector.",
+          "Analysis of test automation processes and defining technical requirements.",
+          "Implementation of automated test scenarios, ETL pipelines, and visualization of test execution results.",
+          "Leading workshops focused on knowledge transfer related to automated testing.",
+          "Leading and assisting other team members in delivering automated tests."
+        ],
+        "remarks": ["Insurance Systems", "Test Automation", "Process Analysis", "Data Visualization", "Team Leadership"]
+      },
+      {
+        "id": "behavee",
+        "period": "2018 - 2021",
+        "company": "Behavee",
+        "position": "Data & Development Consultant / Reporting Specialist",
+        "type": "Contract",
+        "location": "Prague, Czech Republic",
+        "description": [
+          "Examining data, processes, and technologies to evaluate the current state and identify critical issues. Design, research plans, and analyses.",
+          "Research and recommendations on business cases related to data utilization and management.",
+          "Supporting development team in creating and implementing data strategies, designing and building data flows, and developing data models.",
+          "Creating automated reports and documentation.",
+          "Data integrity control and database management.",
+          "Implementing new effective strategies and processes."
+        ],
+        "remarks": ["Data Analysis", "Process Optimization", "Reporting", "Data Strategy", "Business Consulting"]
+      },
+      {
+        "id": "tmobile",
+        "period": "2018 - 2020",
+        "company": "T-Mobile",
+        "position": "Data & Development Consultant",
+        "type": "Contract",
+        "location": "Prague, Czech Republic",
+        "description": [
+          "Participation in T-Mobile Czech Republic project - Data migration, testing, reporting.",
+          "Support for migration activities during transition period, data preparation and consolidation, data testing, reporting, handover of prepared data.",
+          "Data testing, data cleansing, and migration tools development.",
+          "Designing solutions for data consolidation and migration from local ERP systems to international solutions, design and review of transition and to-be processes.",
+          "Responsibility for data preparation in legal documents, plant maintenance, human resources, and asset accounting.",
+          "Team leadership - data delivery."
+        ],
+        "remarks": ["Data Migration", "Data Testing", "ERP Systems", "Data Consolidation", "Team Leadership"]
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "items": [
+      {
+        "id": "cevro-mgr",
+        "period": "2020 - 2023",
+        "institution": "CEVRO Institut",
+        "location": "Prague, Czech Republic",
+        "degree": "Mgr.",
+        "field": "Corporate Law",
+        "status": "Incomplete"
+      },
+      {
+        "id": "cevro-bc",
+        "period": "2017 - 2020",
+        "institution": "CEVRO Institut",
+        "location": "Prague, Czech Republic",
+        "degree": "Bc.",
+        "field": "Corporate Law",
+        "status": "Completed"
+      },
+      {
+        "id": "mensa",
+        "period": "2010 - 2017",
+        "institution": "Mensa Gymnázium",
+        "location": "Prague, Czech Republic",
+        "degree": "High School Diploma",
+        "field": "",
+        "status": "Completed"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "categories": [
+      {
+        "id": "backend",
+        "title": "Backend Development",
+        "icon": "code",
+        "items": [
+          "Python (FastAPI)",
+          "Asynchronous Processing (asyncio, Celery, message queues)",
+          "Go",
+          "TypeScript (Express)",
+          "Testing (unit, integration, e2e)",
+          "Data Processing"
+        ]
+      },
+      {
+        "id": "frontend",
+        "title": "Frontend Development",
+        "icon": "code",
+        "items": [
+          "React (SPA, interactivity)",
+          "HTMX",
+          "Server Side Rendering"
+        ]
+      },
+      {
+        "id": "architecture",
+        "title": "Architecture & Integration",
+        "icon": "server",
+        "items": [
+          "Application Design",
+          "Database Architecture",
+          "Storage Architecture",
+          "Background Processing Architecture",
+          "Authorization/Authentication",
+          "Service Integration"
+        ]
+      },
+      {
+        "id": "devops",
+        "title": "DevOps",
+        "icon": "terminal",
+        "items": [
+          "VPS Management",
+          "GitLab CI/CD",
+          "Git",
+          "Docker",
+          "Cloud (Azure)",
+          "Service Monitoring (uptime, logs, traces, metrics, notifications)",
+          "Dashboards",
+          "Shell Scripting"
+        ]
+      },
+      {
+        "id": "ai",
+        "title": "AI & Automation",
+        "icon": "bot",
+        "items": [
+          "Ethical AI Usage",
+          "Agentic Development",
+          "MCP Development"
+        ]
+      },
+      {
+        "id": "project-management",
+        "title": "Project Management",
+        "icon": "trending",
+        "items": [
+          "Project Management",
+          "Stakeholder Communication",
+          "People Management",
+          "Task Delegation"
+        ]
+      },
+      {
+        "id": "domain",
+        "title": "Domain Knowledge",
+        "icon": "briefcase",
+        "items": [
+          "Financial Markets",
+          "Risk Management",
+          "Insurance",
+          "Banking"
+        ]
+      },
+      {
+        "id": "soft",
+        "title": "Soft Skills",
+        "icon": "heart",
+        "items": [
+          "Analytical Thinking",
+          "Problem Solving",
+          "Communication",
+          "Teamwork",
+          "Mentoring",
+          "Adaptability"
+        ]
+      }
+    ]
+  },
+  "languages": {
+    "title": "Languages",
+    "names": {
+      "cz": "Czech",
+      "en": "English",
+      "it": "Italian"
+    },
+    "proficiencies": {
+      "native": "Native",
+      "full_professional": "Full Professional Proficiency",
+      "professional": "Professional Proficiency",
+      "limited": "Limited Working Proficiency",
+      "elementary": "Elementary",
+      "learning": "Learning"
+    }
+  },
+  "somethingMore": {
+    "title": "Something More",
+    "description": "My main focus is connecting the world of business with technical solutions. I strive to create readable and maintainable solutions that facilitate collaboration with other developers and meet the demands of real business requirements. And when I'm not doing that, I focus on self-education in AI, learning Italian, playing guitar, and traveling."
+  },
+  "interestedIn": {
+    "title": "Interested In",
+    "items": [
+      "Architecture",
+      "Automation",
+      "Documentation",
+      "Big Data & Compliance",
+      "Fullstack Development",
+      "Product Management",
+      "Consulting & Training",
+      "Agile Practices"
+    ]
+  },
+  "footer": {
+    "lastUpdated": "Last updated: July 2026",
+    "builtWith": "Built with love using React + Vite + TypeScript + Tailwind CSS"
+  },
+  "buttons": {
+    "czech": "Čeština",
+    "english": "English"
+  }
+}
