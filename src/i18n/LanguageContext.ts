@@ -1,4 +1,4 @@
-import { createContext, useContext, useEffect, useState, ReactNode } from 'react';
+import React, { createContext, useContext, useEffect, useState, ReactNode } from 'react';
 import { Language, Translations, translations } from './index';
 
 interface LanguageContextType {
@@ -20,11 +20,11 @@ export function useLanguage(): LanguageContextType {
 
 function getTranslationValue(translations: Translations, key: string): string | undefined {
   const keys = key.split('.');
-  let value: any = translations;
+  let value: unknown = translations;
   
   for (const k of keys) {
     if (value && typeof value === 'object' && k in value) {
-      value = value[k];
+      value = (value as Record<string, unknown>)[k];
     } else {
       return undefined;
     }
@@ -77,10 +77,10 @@ export function LanguageProvider({
     translations: getTranslations(),
   };
 
-  return (
-    <LanguageContext.Provider value={value}>
-      {children}
-    </LanguageContext.Provider>
+  return React.createElement(
+    LanguageContext.Provider,
+    { value },
+    children
   );
 }
 

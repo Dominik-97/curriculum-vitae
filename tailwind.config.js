@@ -11,7 +11,6 @@ export default {
         sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
       },
       colors: {
-        /* Hermes-inspired purple/blue gradient palette */
         hermes: {
           50: '#f5f3ff',
           100: '#ede9fe',
@@ -25,7 +24,6 @@ export default {
           900: '#4c1d95',
           950: '#2e1065',
         },
-        /* Deep background colors for dark theme */
         midnight: {
           50: '#f6f6f6',
           100: '#2a2a3e',

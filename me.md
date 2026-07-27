@@ -1,53 +1,60 @@
-# About me
-
-## BE Skills
-
-- Mostly python with FastAPI
-- Dedicated to asynchronous processing (asyncio, threads, message queues - Celery)
-- Written BE projects in go and typescript (express)
-- Testing (unit, integration, e2e)
-- Data processing
-
-## Architeture && glu && integrations
-
-- Architecting the whole application - proponent of the layered architecture
-- Database architecture
-- Storage architecture
-- Background processing architecture
-- Technical architecture
-- Authorization/Authentication
+Here is a refined and professional version of your content:
 
 ---
 
-- Glue code
-- Integration with other services
+# Professional Overview
 
-## FE Skills
+## Backend Development
 
-- Worked with mostly with React - SPA, Interactivity
-- Created also pure HTML pages (documentation)
+- Primary expertise in Python with FastAPI
+- Specialized in asynchronous processing (asyncio, threading, and message queues such as Celery)
+- Backend project development in Go and TypeScript (Express)
+- Proficient in testing methodologies: unit, integration, and end-to-end testing
+- Experienced in data processing
 
-## DevOps Skills
+---
 
-- Some dedicated VPS management (custom Hostinger projects)
-- Exposure to major cloud provider platforms as part of the projects I have been working on (Azure - understanding and usage of its components)
-- GitLab CI/CD proficiency - pipeline validation, builds and deployments
-- Git is a must
-- Docker
-- Services monitoring (uptime, logs, traces, metrics, notifications)
-- Monitoring dashboards
+## Architecture, Integration, and System Design
+
+- Full application architecture design, with a focus on layered architecture
+- Database architecture and storage architecture
+- Background processing architecture
+- Technical architecture
+- Authentication and authorization systems
+
+- Development of glue code
+- Integration with external services
+
+---
+## Frontend Development
+
+- Extensive experience with React for single-page applications (SPAs) and interactivity
+- Development of static HTML pages (e.g., documentation)
+
+---
+## DevOps and Infrastructure
+
+- Management of dedicated VPS environments (custom Hostinger projects)
+- Exposure to major cloud platforms, including Azure and its components
+- Proficiency in GitLab CI/CD: pipeline validation, builds, and deployments
+- Version control with Git
+- Containerization using Docker
+- Service monitoring: uptime, logs, traces, metrics, and notifications
+- Development of monitoring dashboards
 - Shell scripting
 
-## Project management
+---
+## Project Management
 
-- Project management tools
-- People managing
-- Project managing (stakeholder communication - translation to technical implementations)
-- Delegation
+- Utilization of project management tools
+- Team leadership and people management
+- Project management, including stakeholder communication and translation of requirements into technical implementations
+- Task delegation and coordination
 
-## AI
+---
+## Artificial Intelligence
 
-- Huge proponent of ethical AI usage
-- Agentic development
-- Working with agent harnesses
-- Development around agents (skills, rules, agents)
+- Strong advocate for ethical AI practices
+- Development of agentic systems
+- Experience with agent frameworks and harnesses
+- Focus on agent-based development, including skills, rules, and agent design
