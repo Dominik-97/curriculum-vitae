@@ -275,6 +275,21 @@ TSWLatexianTemp*
 # Makeindex log files
 *.lpz
 
+# .DS_Store ignore
+.DS_Store
+
+# tex-source ignore
+/tex-source/*
+
+# Jekyll
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+# Ruby
+Gemfile.lock
 # Ignore .DS_Store
 .DS_Store
 
