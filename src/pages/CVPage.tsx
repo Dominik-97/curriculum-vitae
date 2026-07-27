@@ -11,6 +11,7 @@ import ThemeToggle from '../components/ThemeToggle'
 import PrintButton from '../components/PrintButton'
 import SomethingMore from '../components/SomethingMore'
 import InterestedIn from '../components/InterestedIn'
+import PDFDownload from '../components/PDFDownload'
 
 const CVPage: React.FC = () => {
   const { t } = useLanguage()
@@ -31,6 +32,7 @@ const CVPage: React.FC = () => {
             {/* About Section */}
             <section className="mb-12">
               <About />
+              <PDFDownload />
             </section>
             
             {/* Experience Section */}

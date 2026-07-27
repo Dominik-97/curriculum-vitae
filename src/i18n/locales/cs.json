@@ -311,5 +311,10 @@
   "buttons": {
     "czech": "Čeština",
     "english": "English"
+  },
+  "pdfDownload": {
+    "title": "PDF ke stažení",
+    "english": "Anglické PDF",
+    "czech": "České PDF"
   }
 }
