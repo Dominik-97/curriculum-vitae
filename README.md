@@ -30,7 +30,9 @@ curriculum-vitae/
 ├── src/                  # React source code
 │   ├── App.tsx           # Main application component
 │   ├── components/       # React components
-│   ├── data/             # CV data (JSON)
+│   ├── pages/            # Page-level components (CVPage)
+│   ├── i18n/             # Localization + CV content
+│   │   └── locales/      # en.json / cs.json (UI labels + CV data)
 │   └── styles/           # Global styles
 ├── public/               # Static assets
 ├── tex-source/           # LaTeX source files
@@ -88,6 +90,36 @@ The site is automatically built and deployed on push to the `main` branch via Gi
 3. Traefik handles HTTPS with Let's Encrypt certificates
 
 The live site is available at the domain configured in the deployment workflow.
+
+## Analytics (optional)
+
+Analytics are opt-in and privacy-friendly via self-hosted **Umami** (chosen over
+Plausible because a single database + small Node app is far lighter on a VPS than
+Plausible's Postgres + ClickHouse). If the env vars are unset, **no tracking
+script is loaded at all** — see [`src/components/Analytics.tsx`](src/components/Analytics.tsx).
+
+Provide your instance details in **two** places:
+
+- **Local dev:** copy `.env.example` to `.env.local` and set:
+  - `VITE_UMAMI_SRC` — full URL to your tracker script, e.g. `https://umami.example.com/script.js`
+  - `VITE_UMAMI_WEBSITE_ID` — the website ID from Umami → Settings → Websites
+- **Production build (CI):** add the same two as GitHub **repository Variables**
+  (Settings → Secrets and variables → Actions → **Variables**). They're passed to
+  the Docker build as build-args in `.github/workflows/deploy.yml` and inlined by Vite.
+
+## Social preview image
+
+`public/og-image.png` is used for link previews (Open Graph / Twitter) and the
+`Person` JSON-LD in `index.html`. It currently reuses the profile photo as a
+placeholder — replace it with a purpose-built **1200×630** image for the best
+result. Also update the `https://cv.dominik-97.cloud` URLs in `index.html` if the
+site moves domains.
+
+## Quality & CI
+
+- `npm run lint` — ESLint · `npm run typecheck` — `tsc` · `npm run test` — Vitest + Testing Library (incl. automated `axe` accessibility checks)
+- These run on every PR/branch (`.github/workflows/ci.yml`) and gate the deploy
+  (`.github/workflows/deploy.yml`). LaTeX sources are linted with `chktex`.
 
 ## PDF Distribution
 

@@ -38,16 +38,25 @@ interface LanguageProviderProps {
   defaultLanguage?: Language;
 }
 
-export function LanguageProvider({ 
-  children, 
-  defaultLanguage = 'en' 
+export function LanguageProvider({
+  children,
+  defaultLanguage,
 }: LanguageProviderProps) {
   const [language, setLanguageState] = useState<Language>(() => {
     const savedLanguage = localStorage.getItem('language') as Language | null;
-    if (savedLanguage && (savedLanguage === 'en' || savedLanguage === 'cs')) {
+    if (savedLanguage === 'en' || savedLanguage === 'cs') {
       return savedLanguage;
     }
-    return defaultLanguage;
+    // An explicit prop wins over auto-detection (used in tests / embeds).
+    if (defaultLanguage) {
+      return defaultLanguage;
+    }
+    // Otherwise detect from the browser: Czech (and Slovak) visitors get Czech.
+    const nav = (navigator.language || '').toLowerCase();
+    if (nav.startsWith('cs') || nav.startsWith('sk')) {
+      return 'cs';
+    }
+    return 'en';
   });
 
   useEffect(() => {

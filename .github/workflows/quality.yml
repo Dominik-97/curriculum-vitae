@@ -1,0 +1,58 @@
+name: Quality
+
+# Reusable workflow: React lint + static checks + tests, and (advisory) LaTeX lint.
+# Called by ci.yml (pull requests / feature branches) and deploy.yml (gates deploys).
+on:
+  workflow_call:
+
+permissions:
+  contents: read
+
+jobs:
+  frontend:
+    name: Frontend (lint, types, tests)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Lint (ESLint)
+        run: npm run lint
+
+      - name: Static type check (tsc)
+        run: npm run typecheck
+
+      - name: Unit tests (Vitest)
+        run: npm run test
+
+  latex-lint:
+    name: LaTeX lint (chktex, advisory)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install chktex
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends chktex
+
+      - name: Run chktex
+        run: |
+          echo "chktex is advisory: findings are reported but do not fail the build."
+          echo "To make it blocking, drop the '|| true' below and tune .chktexrc."
+          shopt -s nullglob
+          for f in tex-source/*.tex; do
+            echo "::group::chktex $f"
+            chktex "$f" || true
+            echo "::endgroup::"
+          done

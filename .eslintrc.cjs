@@ -16,4 +16,13 @@ module.exports = {
     ],
     '@typescript-eslint/no-unused-vars': ['warn', { argsIgnorePattern: '^_' }],
   },
+  overrides: [
+    {
+      // Test files and test support are not fast-refresh boundaries.
+      files: ['**/*.test.{ts,tsx}', 'src/test/**/*.{ts,tsx}'],
+      rules: {
+        'react-refresh/only-export-components': 'off',
+      },
+    },
+  ],
 }

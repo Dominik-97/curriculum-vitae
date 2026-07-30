@@ -24,14 +24,19 @@ const Experience: React.FC<ExperienceProps> = ({ forceExpandAll = false }) => {
   return (
     <section className="space-y-6">
       <div className="space-y-6">
-        {experiences.map((exp, index) => (
-          <div 
-            key={exp.id} 
+        {experiences.map((exp, index) => {
+          const isOpen = expandedId === exp.id || forceExpandAll
+          const panelId = `experience-panel-${exp.id}`
+          return (
+          <div
+            key={exp.id}
             className="bg-white/10 dark:bg-slate-200/50 backdrop-blur-sm rounded-xl border border-white/10 dark:border-slate-200 hover:border-hermes-500/30 dark:hover:border-hermes-400/30 transition-all duration-500 overflow-hidden animate-fade-in-up"
             style={{ animationDelay: `${index * 100}ms` }}
           >
             <button
               onClick={() => setExpandedId(expandedId === exp.id ? null : exp.id)}
+              aria-expanded={isOpen}
+              aria-controls={isOpen ? panelId : undefined}
               className="w-full p-5 text-left flex flex-wrap items-center justify-between gap-4 hover:bg-white/5 dark:hover:bg-slate-300/50 transition-colors duration-300"
             >
               <div className="flex flex-wrap items-center gap-4 min-w-0 flex-1">
@@ -49,8 +54,8 @@ const Experience: React.FC<ExperienceProps> = ({ forceExpandAll = false }) => {
                 <span className="text-white/50 dark:text-slate-500 text-sm hidden sm:block">{exp.type}</span>
                 {exp.location && <span className="text-white/40 dark:text-slate-400 text-sm hidden lg:block">| {exp.location}</span>}
                 
-                <svg 
-                  className={`w-5 h-5 text-hermes-400 dark:text-hermes-600 transition-transform duration-300 ${expandedId === exp.id ? 'rotate-180' : ''}`}
+                <svg
+                  className={`w-5 h-5 text-hermes-400 dark:text-hermes-600 transition-transform duration-300 ${isOpen ? 'rotate-180' : ''}`}
                   fill="none" 
                   stroke="currentColor" 
                   viewBox="0 0 24 24"
@@ -60,8 +65,8 @@ const Experience: React.FC<ExperienceProps> = ({ forceExpandAll = false }) => {
               </div>
             </button>
             
-            {(expandedId === exp.id || forceExpandAll) && (
-              <div className="p-5 pt-4 animate-fade-in">
+            {isOpen && (
+              <div id={panelId} role="region" aria-label={exp.company} className="p-5 pt-4 animate-fade-in">
                 {exp.remarks && exp.remarks.length > 0 && (
                   <div className="flex flex-wrap gap-2 mb-4">
                     {exp.remarks.map((tech, techIndex) => (
@@ -88,7 +93,8 @@ const Experience: React.FC<ExperienceProps> = ({ forceExpandAll = false }) => {
               </div>
             )}
           </div>
-        ))}
+          )
+        })}
       </div>
     </section>
   )

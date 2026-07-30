@@ -1,10 +1,11 @@
 import React, { useEffect, useState } from 'react'
+import { flushSync } from 'react-dom'
 
 const ThemeToggle: React.FC = () => {
   const [theme, setTheme] = useState<'dark' | 'light'>(() => {
     const savedTheme = localStorage.getItem('theme') as 'dark' | 'light' | null
     const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches
-    
+
     if (savedTheme) {
       return savedTheme
     } else if (prefersDark) {
@@ -16,7 +17,7 @@ const ThemeToggle: React.FC = () => {
 
   useEffect(() => {
     const root = window.document.documentElement
-    
+
     if (theme === 'dark') {
       root.classList.add('dark')
       root.setAttribute('data-theme', 'dark')
@@ -24,12 +25,49 @@ const ThemeToggle: React.FC = () => {
       root.classList.remove('dark')
       root.setAttribute('data-theme', 'light')
     }
-    
+
     localStorage.setItem('theme', theme)
   }, [theme])
 
   const toggleTheme = () => {
-    setTheme(prev => prev === 'dark' ? 'light' : 'dark')
+    const next = theme === 'dark' ? 'light' : 'dark'
+    const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches
+
+    // Fall back to an instant swap when the View Transitions API is
+    // unavailable or the user prefers reduced motion.
+    if (!document.startViewTransition || prefersReducedMotion) {
+      setTheme(next)
+      return
+    }
+
+    const transition = document.startViewTransition(() => {
+      flushSync(() => setTheme(next))
+    })
+
+    // Once the snapshot is ready, reveal the incoming theme with a circle that
+    // grows out of the bottom-right corner of the viewport.
+    transition.ready
+      .then(() => {
+        const x = window.innerWidth
+        const y = window.innerHeight
+        const endRadius = Math.hypot(x, y)
+        document.documentElement.animate(
+          {
+            clipPath: [
+              `circle(0px at ${x}px ${y}px)`,
+              `circle(${endRadius}px at ${x}px ${y}px)`,
+            ],
+          },
+          {
+            duration: 500,
+            easing: 'ease-in-out',
+            pseudoElement: '::view-transition-new(root)',
+          }
+        )
+      })
+      .catch(() => {
+        /* transition skipped — nothing to animate */
+      })
   }
 
   return (

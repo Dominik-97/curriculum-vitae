@@ -19,6 +19,21 @@ const iconMap: Record<string, JSX.Element> = {
       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
     </svg>
   ),
+  server: (
+    <svg className="w-5 h-5 text-hermes-400 dark:text-hermes-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 12h14M5 12a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v4a2 2 0 01-2 2M5 12a2 2 0 00-2 2v4a2 2 0 002 2h14a2 2 0 002-2v-4a2 2 0 00-2-2m-14 4h.01M17 16h.01" />
+    </svg>
+  ),
+  terminal: (
+    <svg className="w-5 h-5 text-hermes-400 dark:text-hermes-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+    </svg>
+  ),
+  bot: (
+    <svg className="w-5 h-5 text-hermes-400 dark:text-hermes-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 3v1.5M15 3v1.5M9 19.5V21M15 19.5V21M4.5 9H3m1.5 6H3m18-6h-1.5m1.5 6h-1.5M7 5.5h10a1.5 1.5 0 011.5 1.5v10a1.5 1.5 0 01-1.5 1.5H7A1.5 1.5 0 015.5 17V7A1.5 1.5 0 017 5.5zm2.75 3.75h4.5v4.5h-4.5v-4.5z" />
+    </svg>
+  ),
   trending: (
     <svg className="w-5 h-5 text-hermes-400 dark:text-hermes-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />

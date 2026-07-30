@@ -254,3 +254,48 @@
     border-color: #E2E8F0 !important;
   }
 }
+
+/* Keyboard-only focus ring (mouse clicks don't trigger :focus-visible). */
+@layer base {
+  :focus-visible {
+    outline: 2px solid var(--accent-purple);
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
+}
+
+/*
+ * Dark/light theme change: a circular "reveal" of the incoming theme that
+ * grows from the bottom-right corner, powered by the View Transitions API.
+ * Browsers without the API fall back to an instant swap (see ThemeToggle).
+ */
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation: none;
+  mix-blend-mode: normal;
+}
+::view-transition-new(root) {
+  z-index: 1;
+}
+::view-transition-old(root) {
+  z-index: 0;
+}
+
+/* Respect users who prefer reduced motion. */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  ::view-transition-group(*),
+  ::view-transition-old(root),
+  ::view-transition-new(root) {
+    animation: none !important;
+  }
+}

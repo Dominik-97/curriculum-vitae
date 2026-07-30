@@ -20,6 +20,13 @@ RUN if [ -f package-lock.json ]; then \
 # Copy all source files
 COPY . .
 
+# Optional analytics config, injected at build time (Vite inlines VITE_* vars).
+# Provide via `docker build --build-arg` or the CI build-args (see deploy.yml).
+ARG VITE_UMAMI_SRC=""
+ARG VITE_UMAMI_WEBSITE_ID=""
+ENV VITE_UMAMI_SRC=$VITE_UMAMI_SRC
+ENV VITE_UMAMI_WEBSITE_ID=$VITE_UMAMI_WEBSITE_ID
+
 # Build the application
 RUN npm run build
 
@@ -41,9 +48,9 @@ COPY nginx.conf /etc/nginx/conf.d/cv.conf
 # Expose port 80 (Traefik will handle HTTPS and routing)
 EXPOSE 80
 
-# Health check
+# Health check (hits the dedicated /health endpoint in nginx.conf)
 HEALTHCHECK --interval=30s --timeout=3s --start-period=5s --retries=3 \
-  CMD curl -f http://localhost/ || exit 1
+  CMD curl -f http://localhost/health || exit 1
 
 # Run Nginx
 CMD ["nginx", "-g", "daemon off;"]

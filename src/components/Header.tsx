@@ -1,24 +1,37 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { useLanguage } from '../i18n/LanguageContext.ts'
 import meImage from '../assets/Me.png'
 
+const EMAIL = 'dominikbalint@email.cz'
+
 const Header: React.FC = () => {
   const { t, language, setLanguage } = useLanguage()
+  const [copied, setCopied] = useState(false)
 
   const handleLanguageChange = (lang: 'en' | 'cs') => {
     setLanguage(lang)
   }
+
+  const handleCopyEmail = async () => {
+    try {
+      await navigator.clipboard?.writeText(EMAIL)
+      setCopied(true)
+      window.setTimeout(() => setCopied(false), 2000)
+    } catch {
+      /* clipboard unavailable — the mailto link still works */
+    }
+  }
   return (
-    <div className="relative p-8 sm:p-12 lg:p-16 overflow-hidden">
+    <div className="relative p-8 sm:p-12 lg:p-16 overflow-hidden flex flex-col-reverse sm:block">
       <div className="absolute inset-0 bg-gradient-to-br from-hermes-600/20 via-hermes-500/10 to-transparent dark:from-hermes-100/20 dark:via-hermes-50/10 dark:to-transparent"></div>
-      
+
       <div className="absolute inset-0 opacity-20 dark:opacity-10">
         <div className="absolute top-1/2 left-1/2 w-[400px] h-[400px] -translate-x-1/2 -translate-y-1/2 border border-hermes-500/20 dark:border-hermes-300/20 rounded-full"></div>
         <div className="absolute top-1/2 left-1/2 w-[500px] h-[500px] -translate-x-1/2 -translate-y-1/2 border border-hermes-400/10 dark:border-hermes-200/10 rounded-full"></div>
       </div>
-      
+
       <div className="relative z-10">
-        <div className="max-w-4xl pr-40 sm:pr-52 lg:pr-60">
+        <div className="max-w-4xl sm:pr-52 lg:pr-60">
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-4 bg-hermes-gradient bg-clip-text text-transparent dark:text-slate-800">
             {t('header.name')}
           </h1>
@@ -33,52 +46,79 @@ const Header: React.FC = () => {
           </p>
           
           <div className="flex flex-wrap gap-3 sm:gap-4">
-            <a 
-              href="mailto:dominikbalint@email.cz" 
-              className="px-4 py-2 bg-white/10 dark:bg-slate-200/80 hover:bg-white/20 dark:hover:bg-slate-300 backdrop-blur-sm rounded-lg text-white/90 dark:text-slate-700 hover:text-white dark:hover:text-slate-800 transition-all duration-300 border border-white/20 dark:border-slate-300 text-sm font-medium"
-            >
-              dominikbalint@email.cz
-            </a>
-            <a 
-              href="https://github.com/Dominik-97" 
-              target="_blank" 
-              rel="noopener noreferrer"
+            <a
+              href="mailto:dominikbalint@email.cz"
+              aria-label="Email dominikbalint@email.cz"
               className="px-4 py-2 bg-white/10 dark:bg-slate-200/80 hover:bg-white/20 dark:hover:bg-slate-300 backdrop-blur-sm rounded-lg text-white/90 dark:text-slate-700 hover:text-white dark:hover:text-slate-800 transition-all duration-300 border border-white/20 dark:border-slate-300 text-sm font-medium flex items-center gap-2"
             >
-              <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+              <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true">
+                <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z" />
+                <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z" />
+              </svg>
+              <span className="hidden sm:inline">dominikbalint@email.cz</span>
+            </a>
+            <button
+              type="button"
+              onClick={handleCopyEmail}
+              aria-label={t('header.copyEmail')}
+              className="px-3 py-2 bg-white/10 dark:bg-slate-200/80 hover:bg-white/20 dark:hover:bg-slate-300 backdrop-blur-sm rounded-lg text-white/90 dark:text-slate-700 hover:text-white dark:hover:text-slate-800 transition-all duration-300 border border-white/20 dark:border-slate-300 text-sm font-medium flex items-center gap-2"
+            >
+              {copied ? (
+                <>
+                  <svg className="w-4 h-4 text-green-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                  </svg>
+                  <span>{t('header.emailCopied')}</span>
+                </>
+              ) : (
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+                </svg>
+              )}
+            </button>
+            <a
+              href="https://github.com/Dominik-97"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="GitHub profile"
+              className="px-4 py-2 bg-white/10 dark:bg-slate-200/80 hover:bg-white/20 dark:hover:bg-slate-300 backdrop-blur-sm rounded-lg text-white/90 dark:text-slate-700 hover:text-white dark:hover:text-slate-800 transition-all duration-300 border border-white/20 dark:border-slate-300 text-sm font-medium flex items-center gap-2"
+            >
+              <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true">
                 <path fillRule="evenodd" d="M10 0C4.477 0 0 4.484 0 10.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0110 4.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.203 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.942.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0020 10.017C20 4.484 15.522 0 10 0z" clipRule="evenodd" />
               </svg>
-              GitHub
+              <span className="hidden sm:inline">GitHub</span>
             </a>
             <button
               onClick={() => handleLanguageChange('cs')}
               onMouseDown={(e) => e.preventDefault()}
               className={`px-4 py-2 rounded-lg text-sm font-medium appearance-none outline-none ring-0 shadow-none focus:outline-none focus:ring-0 focus:shadow-none ${
-                language === 'cs' 
-                  ? 'bg-hermes-500/30 dark:bg-hermes-300 text-hermes-300 dark:text-hermes-800 border border-hermes-500/30 dark:border-hermes-300' 
+                language === 'cs'
+                  ? 'bg-hermes-500/30 dark:bg-hermes-300 text-hermes-300 dark:text-hermes-800 border border-hermes-500/30 dark:border-hermes-300'
                   : 'bg-hermes-500/20 dark:bg-hermes-200/80 hover:bg-hermes-500/30 dark:hover:bg-hermes-300/80 text-hermes-400 dark:text-hermes-700 hover:text-hermes-300 dark:hover:text-hermes-800 transition-colors duration-300'
               }`}
               aria-label="Switch to Czech"
             >
-              {t('buttons.czech')}
+              <span className="sm:hidden">CS</span>
+              <span className="hidden sm:inline">{t('buttons.czech')}</span>
             </button>
             <button
               onClick={() => handleLanguageChange('en')}
               onMouseDown={(e) => e.preventDefault()}
               className={`px-4 py-2 rounded-lg text-sm font-medium appearance-none outline-none ring-0 shadow-none focus:outline-none focus:ring-0 focus:shadow-none ${
-                language === 'en' 
-                  ? 'bg-hermes-500/30 dark:bg-hermes-300 text-hermes-300 dark:text-hermes-800 border border-hermes-500/30 dark:border-hermes-300' 
+                language === 'en'
+                  ? 'bg-hermes-500/30 dark:bg-hermes-300 text-hermes-300 dark:text-hermes-800 border border-hermes-500/30 dark:border-hermes-300'
                   : 'bg-hermes-500/20 dark:bg-hermes-200/80 hover:bg-hermes-500/30 dark:hover:bg-hermes-300/80 text-hermes-400 dark:text-hermes-700 hover:text-hermes-300 dark:hover:text-hermes-800 transition-colors duration-300'
               }`}
               aria-label="Switch to English"
             >
-              {t('buttons.english')}
+              <span className="sm:hidden">EN</span>
+              <span className="hidden sm:inline">{t('buttons.english')}</span>
             </button>
           </div>
         </div>
       </div>
       
-      <div className="absolute right-8 top-8 sm:right-12 sm:top-12 w-32 h-32 sm:w-40 sm:h-40 lg:w-48 lg:h-48">
+      <div className="relative z-10 mb-6 w-28 h-28 sm:mb-0 sm:absolute sm:right-12 sm:top-12 sm:w-40 sm:h-40 lg:w-48 lg:h-48">
         <div className="relative w-full h-full">
           <div className="absolute inset-0 bg-hermes-500/20 rounded-full blur-2xl animate-pulse-soft dark:bg-hermes-500/10"></div>
           

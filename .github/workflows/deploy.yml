@@ -24,13 +24,18 @@ env:
   DOCKER_IMAGE_NAME: curriculum-vitae
 
 jobs:
+  quality:
+    name: Quality checks
+    uses: ./.github/workflows/quality.yml
+
   build-and-push:
     name: Build and Push Docker Image
+    needs: quality
     runs-on: ubuntu-latest
     permissions:
       contents: read
       packages: write
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -56,6 +61,11 @@ jobs:
           tags: ${{ env.DOCKER_REGISTRY }}/${{ env.REPO_OWNER_LOWER }}/${{ env.DOCKER_IMAGE_NAME }}:latest
           cache-from: type=gha
           cache-to: type=gha,mode=max
+          # Set these as repository Variables (Settings -> Secrets and variables
+          # -> Actions -> Variables). Empty values simply disable analytics.
+          build-args: |
+            VITE_UMAMI_SRC=${{ vars.VITE_UMAMI_SRC }}
+            VITE_UMAMI_WEBSITE_ID=${{ vars.VITE_UMAMI_WEBSITE_ID }}
 
   deploy:
     name: Deploy to Hostinger VPS

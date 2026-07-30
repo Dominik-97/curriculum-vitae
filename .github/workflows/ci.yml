@@ -1,0 +1,17 @@
+name: CI
+
+# Runs the quality checks on pull requests and on pushes to any branch except
+# main. Pushes to main are covered by deploy.yml (which gates on the same
+# checks) and build-cv.yml, so excluding main here avoids duplicate runs.
+on:
+  pull_request:
+  push:
+    branches-ignore:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  quality:
+    uses: ./.github/workflows/quality.yml

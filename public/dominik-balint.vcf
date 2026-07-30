@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Bálint;Dominik;;;
+FN:Dominik Bálint
+TITLE:Backend Software Engineer
+ORG:Powertica Commodities AG
+EMAIL;TYPE=INTERNET:dominikbalint@email.cz
+URL:https://cv.dominik-97.cloud
+X-SOCIALPROFILE;TYPE=github:https://github.com/Dominik-97
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/dominik-bálint/
+END:VCARD

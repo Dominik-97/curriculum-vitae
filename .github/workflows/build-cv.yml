@@ -21,6 +21,14 @@ jobs:
           tlmgr update --self
           tlmgr install moderncv geometry subfiles fancyhdr
 
+      - name: Lint LaTeX sources (chktex, advisory)
+        run: |
+          echo "chktex is advisory: findings are reported but do not fail the build."
+          for f in tex-source/*.tex; do
+            echo "== chktex $f =="
+            chktex "$f" || true
+          done
+
       - name: Build English CV
         run: |
           cd tex-source

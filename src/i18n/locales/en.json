@@ -4,7 +4,9 @@
     "name": "Dominik Bálint",
     "title": "Backend software engineer",
     "subtitle": "Project management & architecture & development | ",
-    "tagline": "Helping Businesses Succeed"
+    "tagline": "Helping Businesses Succeed",
+    "copyEmail": "Copy email address",
+    "emailCopied": "Copied!"
   },
   "about": {
     "title": "About Me",
@@ -305,7 +307,7 @@
     ]
   },
   "footer": {
-    "lastUpdated": "Last updated: July 2026",
+    "lastUpdated": "Last updated:",
     "builtWith": "Built with love using React + Vite + TypeScript + Tailwind CSS"
   },
   "buttons": {
@@ -316,6 +318,12 @@
     "title": "PDF Downloads",
     "english": "English PDF",
     "czech": "Czech PDF",
+    "vcard": "Save contact (vCard)",
     "infoText": "CZ and English versions. Personal info (address, phone) is hidden for privacy. For the full version, please email me at dominikbalint@email.cz"
+  },
+  "a11y": {
+    "skipToContent": "Skip to content",
+    "backToTop": "Back to top",
+    "sectionNav": "Section navigation"
   }
 }
