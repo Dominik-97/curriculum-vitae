@@ -22,6 +22,7 @@ COPY . .
 
 # Optional analytics config, injected at build time (Vite inlines VITE_* vars).
 # Provide via `docker build --build-arg` or the CI build-args (see deploy.yml).
+# --- Currently enabled
 ARG VITE_UMAMI_SRC=""
 ARG VITE_UMAMI_WEBSITE_ID=""
 ENV VITE_UMAMI_SRC=$VITE_UMAMI_SRC
