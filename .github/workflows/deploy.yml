@@ -63,6 +63,7 @@ jobs:
           cache-to: type=gha,mode=max
           # Set these as repository Variables (Settings -> Secrets and variables
           # -> Actions -> Variables). Empty values simply disable analytics.
+          # --- Currently enabled
           build-args: |
             VITE_UMAMI_SRC=${{ vars.VITE_UMAMI_SRC }}
             VITE_UMAMI_WEBSITE_ID=${{ vars.VITE_UMAMI_WEBSITE_ID }}
